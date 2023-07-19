@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "567cb8d7668285c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6709dadad63f95a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3_📂Stuff/University.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "17bf15a7588ea0a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1_🗃️Literature notes/Wave function.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60723fcbf4c80a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c6782725f400ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331bd4eef2533f20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a13c9cd431e58921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".io",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267
+  },
+  "right": {
+    "id": "237f0b8f2e7d5e1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c4d0820ced6112e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "650f27f23a708b25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3_📂Stuff/University.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9e587145f6bbce38",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304,
+    "collapsed": true
+  },
+  "active": "6709dadad63f95a0",
+  "lastOpenFiles": [
+    "3_📂Stuff/book.md",
+    "1_🗃️Literature notes/Wave function.md",
+    "0_📥Fleeting notes/Translator online.md",
+    "0_📥Fleeting notes/Stuff/Book for physics.md",
+    "0_📥Fleeting notes/Stuff/Bookmark.md",
+    "0_📥Fleeting notes/Stuff/deleting pictures on phone.md",
+    "0_📥Fleeting notes/Stuff/grammar.md",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
+    "0_📥Fleeting notes/Stuff/Film.md",
+    "0_📥Fleeting notes/Stuff/VERB TENSE.md"
+  ]
+}

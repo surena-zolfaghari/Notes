@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "tags",
+    "tag_colors"
+  ],
+  "translucency": false,
+  "accentColor": "#e6005c",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "interfaceFontFamily": "IntelOne Mono"
+}

@@ -1,0 +1,11 @@
+{
+  "obsidian-rtl:switch-text-direction": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "editor:fold-all": []
+}

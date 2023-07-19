@@ -1,0 +1,25 @@
+{
+  "readableLineLength": true,
+  "spellcheck": true,
+  "foldHeading": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "./assets",
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "autoConvertHtml": false,
+  "newFileLocation": "current",
+  "communityThemeSortOrder": "download",
+  "defaultViewMode": "source",
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "foldIndent": true,
+  "showInlineTitle": true,
+  "rightToLeft": false
+}
