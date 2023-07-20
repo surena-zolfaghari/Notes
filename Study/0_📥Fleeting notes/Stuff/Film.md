@@ -28,6 +28,7 @@
 - [x] House Md
 - Dopesick
 - Rick and Morty
+- inside man
 
 # Cosmos
 https://torrentgalaxy.to/torrent/15277729/Cosmos-Possible-Worlds-S01-1080p-DSNP-WEB-DL--TR-EN--DDP5-1-H-264-TURG

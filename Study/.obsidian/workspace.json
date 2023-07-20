@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_🖥computer/Git two folder.md",
+                "file": "0_📥Fleeting notes/Stuff/Film.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "film",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_🖥computer/Git two folder.md",
+                "file": "0_📥Fleeting notes/Stuff/Film.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -127,6 +126,7 @@
   },
   "active": "2b303d06a904916c",
   "lastOpenFiles": [
+    "4_🖥computer/Git two folder.md",
     "4_🖥computer/Git.md",
     "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
     "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
