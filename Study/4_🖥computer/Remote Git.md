@@ -1,4 +1,5 @@
-# Remote Git
+#git
+# Unique remote name
 Created:2023-07-25 20-13
 
 Sending file to another folder or cloud storage is called remote git. You should opt a name for it. Origin is a name that you probably have seen, after creating new repository.
@@ -9,6 +10,7 @@ git branch -r
 ~~~
 
 It give list of name that selected for remote.
+
 
 ## References:
 
