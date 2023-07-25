@@ -21,8 +21,10 @@ Ref:
 
 # HOW TO TRACK CHANGES IN PROJECT?
 For this purpose, it seems to use `log` command is good way. [log](https://swcarpentry.github.io/git-novice/04-changes/)
-
-
+Use:
+```
+git log --oneline
+```
 
 
 
@@ -32,5 +34,3 @@ For this purpose, it seems to use `log` command is good way. [log](https://swcar
 See Also:
 [git cheat sheet](https://useyourloaf.com/blog/git-cheat-sheet/)
 
-
-This is a add
