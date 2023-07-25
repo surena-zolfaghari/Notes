@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "aa2bb9a27f3cb009",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "bdf7a6764aba3d95",
             "type": "leaf",
             "state": {
@@ -136,12 +146,14 @@
   },
   "active": "fa0c13065a4789c7",
   "lastOpenFiles": [
-    "4_🖥computer/Git.md",
+    "4_🖥computer/assets/Pasted image 20230725234840.png",
+    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
+    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
     "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "4_🖥computer/Git.md",
     "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
     "4_🖥computer/assets/Pasted image 20230725231508.png",
     "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
-    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "4_🖥computer/assets/Pasted image 20230725231323.png",
     "4_🖥computer/assets",
     "4_🖥computer/Git two folder.md",
@@ -163,7 +175,6 @@
     "review of Deep Learning AI.md",
     "3_📂Stuff/manuall.md",
     "4_🖥computer/MORTEZA.md",
-    "4_🖥computer/Download repository from GitHub with CL.md",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "assets/Pasted image 20230610182755.png",
     "Untitled.canvas",
