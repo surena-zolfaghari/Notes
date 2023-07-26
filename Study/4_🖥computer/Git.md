@@ -22,7 +22,7 @@ Bilbo
 - [[7.01 2023-07-25 22-58 Su Framework of git]]
 - [[7.01 2023-07-25 22-53 Su Git reset]]
 - [[7.01 2023-07-25 20-13 Su Remote Git]]
-
+- [[2023-07-26 21-52 Su Branches]]
 
 
 # HOW TO TRACK CHANGES IN PROJECT?

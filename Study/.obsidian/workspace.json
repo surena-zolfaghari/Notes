@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git.md",
-                "mode": "preview",
+                "file": "4_🖥computer/Git.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git.md",
+                "file": "4_🖥computer/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -124,16 +124,19 @@
   },
   "active": "fa0c13065a4789c7",
   "lastOpenFiles": [
+    "4_🖥computer/2023-07-26 21-52 Su Branches.md",
+    "4_🖥computer/Upload a Project to GitHub.md",
     "4_🖥computer/Git.md",
+    "4_🖥computer/Git two folder.md",
+    "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git.md",
+    "4_🖥computer/COMPUTER.md",
+    "4_🖥computer/C++.md",
     "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
     "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
     "0_📥Fleeting notes/git.md",
     "0_📥Fleeting notes/Stuff/Words.md",
     "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
-    "4_🖥computer/C++.md",
-    "4_🖥computer/COMPUTER.md",
     "4_🖥computer/Download repository from GitHub with CL.md",
-    "4_🖥computer/Git two folder.md",
     "4_🖥computer/assets/Pasted image 20230725234840.png",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "4_🖥computer/assets/Pasted image 20230725231508.png",
@@ -142,7 +145,6 @@
     "4_🖥computer/assets",
     "4_🖥computer/Vim.md",
     "5_Template/Note Template.md",
-    "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git.md",
     "4_🖥computer/Python.md",
     "5_Template/temp.md",
     "5_Template/Tags.md",
@@ -152,8 +154,6 @@
     "0_📥Fleeting notes/Stuff/Bookmark.md",
     "0_📥Fleeting notes/Film.md",
     "0_📥Fleeting notes/Stuff/grammar.md",
-    "review of Deep Learning AI.md",
-    "3_📂Stuff/manuall.md",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "assets/Pasted image 20230610182755.png",
     "Untitled.canvas",
