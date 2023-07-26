@@ -18,6 +18,12 @@ I want to explain many aspects of git like:
 Ref:
 [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
+Bilbo
+- [[7.01 2023-07-25 22-58 Su Framework of git]]
+- [[7.01 2023-07-25 22-53 Su Git reset]]
+- [[7.01 2023-07-25 20-13 Su Remote Git]]
+
+
 
 # HOW TO TRACK CHANGES IN PROJECT?
 For this purpose, it seems to use `log` command is good way. [log](https://swcarpentry.github.io/git-novice/04-changes/)
