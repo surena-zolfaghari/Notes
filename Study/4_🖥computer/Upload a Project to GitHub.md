@@ -14,3 +14,4 @@ git push origin main
 ```
 
 
+Notice: origin is not command, you define this and you can select other name.
