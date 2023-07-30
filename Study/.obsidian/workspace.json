@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_🖥computer/Vim.md",
-                "mode": "source",
+                "file": "review of Deep Learning AI.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_🖥computer/Vim.md",
+                "file": "review of Deep Learning AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -96,17 +95,8 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
-          {
-            "id": "9e587145f6bbce38",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +115,15 @@
   },
   "active": "e1946f5ad302bc9d",
   "lastOpenFiles": [
+    "4_🖥computer/Git two folder.md",
+    "For torento.md",
+    "Day Planners/Day Planner-20230730.md",
+    "4_🖥computer/Untitled.md",
+    "4_🖥computer/git.md",
     "4_🖥computer/Git.md",
+    "4_🖥computer/Python.md",
+    "4_🖥computer/Vim.md",
+    "Day Planners",
     "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git.md",
     "4_🖥computer/2023-07-27 02-01 Su pandas.md",
     "4_🖥computer/Upload a Project to GitHub.md",
@@ -137,9 +135,7 @@
     "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
     "4_🖥computer/92.md",
     "0_📥Fleeting notes/Stuff/Words.md",
-    "4_🖥computer/git.md",
     "0_📥Fleeting notes/Film.md",
-    "4_🖥computer/Git two folder.md",
     "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
     "4_🖥computer/assets/Pasted image 20230725234840.png",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
@@ -147,14 +143,9 @@
     "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
     "4_🖥computer/assets/Pasted image 20230725231323.png",
     "4_🖥computer/assets",
-    "4_🖥computer/Vim.md",
     "5_Template/Note Template.md",
-    "4_🖥computer/Python.md",
     "5_Template/temp.md",
     "5_Template/Tags.md",
-    "5_Template/Sticker.md",
-    "For torento.md",
-    "Excalidraw/Drawing 2023-05-28 20.36.05.excalidraw.md",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "assets/Pasted image 20230610182755.png",
     "Untitled.canvas",

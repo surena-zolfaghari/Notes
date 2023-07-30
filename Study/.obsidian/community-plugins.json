@@ -1,11 +1,6 @@
 [
-  "sliding-panes-obsidian",
-  "obsidian-kanban",
-  "calendar",
-  "obsidian-citation-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-style-settings",
-  "obsidian-latex-environments",
   "obsidian-rtl",
-  "dynamic-rtl"
+  "dynamic-rtl",
+  "obsidian-citation-plugin"
 ]
