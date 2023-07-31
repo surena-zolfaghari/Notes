@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "review of Deep Learning AI.md",
-                "mode": "preview",
+                "file": "4_🖥computer/2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 418.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "review of Deep Learning AI.md",
+                "file": "4_🖥computer/2023-07-31 10-52 Su Download repository from GitHub with CL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,25 +115,27 @@
   },
   "active": "e1946f5ad302bc9d",
   "lastOpenFiles": [
+    "4_🖥computer/92.md",
+    "4_🖥computer/2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "4_🖥computer/2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "4_🖥computer/Git.md",
     "4_🖥computer/Git two folder.md",
+    "4_🖥computer/git.md",
+    "5_Template/Note Template.md",
+    "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "review of Deep Learning AI.md",
     "For torento.md",
     "Day Planners/Day Planner-20230730.md",
     "4_🖥computer/Untitled.md",
-    "4_🖥computer/git.md",
-    "4_🖥computer/Git.md",
     "4_🖥computer/Python.md",
     "4_🖥computer/Vim.md",
     "Day Planners",
-    "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git.md",
     "4_🖥computer/2023-07-27 02-01 Su pandas.md",
-    "4_🖥computer/Upload a Project to GitHub.md",
     "4_🖥computer/2023-07-26 21-52 Su Branches.md",
-    "4_🖥computer/Download repository from GitHub with CL.md",
     "4_🖥computer/COMPUTER.md",
     "4_🖥computer/C++.md",
     "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
     "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "4_🖥computer/92.md",
     "0_📥Fleeting notes/Stuff/Words.md",
     "0_📥Fleeting notes/Film.md",
     "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
@@ -143,9 +145,7 @@
     "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
     "4_🖥computer/assets/Pasted image 20230725231323.png",
     "4_🖥computer/assets",
-    "5_Template/Note Template.md",
     "5_Template/temp.md",
-    "5_Template/Tags.md",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "assets/Pasted image 20230610182755.png",
     "Untitled.canvas",
