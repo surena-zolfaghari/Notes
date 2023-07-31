@@ -62,11 +62,3 @@ Another package
 - 1377x for torrent
 - 
 
-
-
-
-## school for complex system
-
-
-## Reference:
-

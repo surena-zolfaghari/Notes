@@ -1,4 +1,4 @@
-
+#Computer #linux 
 # Some software
 - flameshot for screenshot
 - gpaste for clipboard
