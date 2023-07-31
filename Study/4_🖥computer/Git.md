@@ -11,7 +11,7 @@ Version Control System (VCS) for tracking changes in computer files.
 # Initial practical like getting backup
 I want to explain many aspects of git like:
 
-- How to git two folder together?[[Git two folder]]
+- How to git two folder together?[[2023-07-31 11-01 Su Git two folder]]
 - How to upload a repository with git to GitHub?[[2023-07-31 10-50 Su Upload a Project to GitHub]]
 - How to download a project with git from GitHub?[[2023-07-31 10-52 Su Download repository from GitHub with CL]]
 
@@ -25,21 +25,11 @@ Bilbo
 - [[7.01 2023-07-25 20-13 Su Remote Git Concept]]
 - [[2023-07-31 10-50 Su Upload a Project to GitHub]]
 - [[2023-07-31 10-52 Su Download repository from GitHub with CL]]
-
-
-
-# HOW TO TRACK CHANGES IN PROJECT?
-For this purpose, it seems to use `log` command is good way. [log](https://swcarpentry.github.io/git-novice/04-changes/)
-Use:
-```
-git log --oneline
-```
+- [[2023-07-31 10-57 Su Tracking changes]]
 
 
 
 
 
 
-See Also:
-[git cheat sheet](https://useyourloaf.com/blog/git-cheat-sheet/)
 

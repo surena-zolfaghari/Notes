@@ -1,4 +1,4 @@
-[[4_🖥computer/Git]]
+
 #git #GitHub 
 
 # Download repository from GitHub with CL

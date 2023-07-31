@@ -1,5 +1,5 @@
-[[4_🖥computer/Git]]
 #git
+
 # HOW TO GIT TWO FOLDER TOGETHER?
 I want to backup folder that named surena
 ```git

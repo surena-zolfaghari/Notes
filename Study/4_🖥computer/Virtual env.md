@@ -1,0 +1,18 @@
+
+# Start up 
+this section is related to how to configure ubuntu
+
+
+
+## About python
+
+1. sudo apt install python3-pip
+2. sudo pip3 install virtualenv
+3. source bin/activate
+4. source /bin/activate
+
+run the following command for using Jupiter: jupyter lab
+
+#python 
+
+
