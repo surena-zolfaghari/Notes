@@ -1,4 +1,4 @@
-[[OBSIDIAN]]
+[[3_📂Stuff/OBSIDIAN]]
 # Obsidian
 
 This note is about how to use obsidian better

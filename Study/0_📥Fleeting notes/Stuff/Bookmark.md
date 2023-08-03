@@ -60,3 +60,4 @@ University of Ottawa🇨🇦
 * shows how to run python on notepad++
 >C:\Users\Surena\Desktop\DeepLerning\Scripts\python.exe -i "$(FULL_CURRENT_PATH)"
 
+
