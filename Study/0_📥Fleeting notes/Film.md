@@ -43,6 +43,12 @@ https://torrentgalaxy.to/torrent/15277729/Cosmos-Possible-Worlds-S01-1080p-DSNP-
 عجیبتر از یک داستان
 افسانه روز دوم فوریه 
 Groundhog Day
+این گروه خشن 
+ماجرای نیمروز
+بودن یا نبودن -> کمدی
+پرورش بیبی -> کمدی
+
+sunset bolivar -> گنگستر
 
 مرگ یزدگرد
 سگ کشی 

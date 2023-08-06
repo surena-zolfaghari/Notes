@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2e38378c00799583",
+        "id": "07ac28c46ffaaf3e",
         "type": "tabs",
         "children": [
           {
-            "id": "a2cf3a30b8b2dbde",
+            "id": "8cc257ec8180c405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Stuff/Words.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f5f04fe2737be3e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "511adbd723a3ed91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d2699fbdfd3b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
+                "file": "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 503.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
+                "file": "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -147,36 +114,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a4d2699fbdfd3b9c",
+  "active": "8cc257ec8180c405",
   "lastOpenFiles": [
+    "4_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
+    "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
+    "3_📂Stuff/manuall.md",
+    "4_🖥computer/COMPUTER.md",
+    "0_📥Fleeting notes/Film.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
-    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/Stuff/grammar.md",
-    "0_📥Fleeting notes/Stuff/Words.md",
-    "0_📥Fleeting notes/Stuff/Bookmark.md",
-    "0_📥Fleeting notes/Stuff/OGE_MSc_test_2023.pdf.md",
-    "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
-    "0_📥Fleeting notes/Stuff/assets",
-    "4_🖥computer/Reza Rezaei.md",
-    "4_🖥computer/MORTEZA.md",
-    "0_📥Fleeting notes/Temp Quantum Mechanics.md",
-    "0_📥Fleeting notes/TOEFL.md",
-    "0_📥Fleeting notes/Neural Network.md",
-    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
-    "0_📥Fleeting notes/Color code.md",
-    "0_📥Fleeting notes/Bound states and Scattering states.md",
-    "4_🖥computer/2023-07-31 11-16 Su Command.md",
+    "4_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "4_🖥computer/2023-07-31 11-45 Su C++.md",
+    "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+    "4_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
     "4_🖥computer/Git.md",
-    "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
-    "4_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
-    "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
-    "4_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
+    "0_📥Fleeting notes/Supervised learning.md",
+    "0_📥Fleeting notes/Bound states and Scattering states.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
+    "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
+    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
+    "0_📥Fleeting notes/Stuff/Words.md",
+    "1_🗃️Literature notes/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
+    "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
     "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
     "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
-    "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
     "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
     "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
+    "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "Day Planners",
     "4_🖥computer/assets/Pasted image 20230725234840.png",

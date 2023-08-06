@@ -1,9 +1,3 @@
----
-aliases: 
-- 
-tags:
-- 
----
 
 # Bound states and Scattering states
 Created:2022-12-05 15:23

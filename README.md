@@ -1,5 +1,5 @@
 # What is this?
-I leave my notes about defferent things here. 
+I leave my notes about different things here. 
 
 ## Why ? Because
  - I love it
