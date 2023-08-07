@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
-                "mode": "source",
+                "file": "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
+                "file": "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -116,8 +116,15 @@
   },
   "active": "8cc257ec8180c405",
   "lastOpenFiles": [
-    "4_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
+    "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
+    "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "4_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "4_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
+    "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
     "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
+    "4_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
     "3_📂Stuff/manuall.md",
     "4_🖥computer/COMPUTER.md",
     "0_📥Fleeting notes/Film.md",
@@ -135,13 +142,6 @@
     "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
     "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
     "0_📥Fleeting notes/Stuff/Words.md",
-    "1_🗃️Literature notes/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
-    "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
-    "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
-    "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
-    "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
-    "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
