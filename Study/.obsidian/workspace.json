@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
-                "mode": "preview",
+                "file": "3_📂Stuff/Toefl.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "toefl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+                "file": "3_📂Stuff/Toefl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -116,6 +117,10 @@
   },
   "active": "8cc257ec8180c405",
   "lastOpenFiles": [
+    "4_🖥computer/MORTEZA.md",
+    "0_📥Fleeting notes/TOEFL.md",
+    "3_📂Stuff/Toefl.md",
+    "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
     "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
     "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
     "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
@@ -138,10 +143,6 @@
     "0_📥Fleeting notes/Supervised learning.md",
     "0_📥Fleeting notes/Bound states and Scattering states.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
-    "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
-    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
-    "0_📥Fleeting notes/Stuff/Words.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",

@@ -1,12 +1,9 @@
----
-aliases:
-- 
+
 tags:
 - python
 - Quantum
 - Physics
-publish: true
----
+
 
 # MORTEZA
 Created:2022-04-22 17:18
