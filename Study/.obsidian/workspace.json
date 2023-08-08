@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_📂Stuff/Toefl.md",
+                "file": "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toefl",
+                "query": "git rese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_📂Stuff/Toefl.md",
+                "file": "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -117,15 +117,17 @@
   },
   "active": "8cc257ec8180c405",
   "lastOpenFiles": [
+    "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+    "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+    "3_📂Stuff/Toefl.md",
     "4_🖥computer/MORTEZA.md",
     "0_📥Fleeting notes/TOEFL.md",
-    "3_📂Stuff/Toefl.md",
-    "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
     "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
     "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
     "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
     "4_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
-    "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
     "4_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
     "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
     "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
@@ -136,13 +138,11 @@
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "4_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "4_🖥computer/2023-07-31 11-45 Su C++.md",
-    "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
     "4_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
     "4_🖥computer/Git.md",
     "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
     "0_📥Fleeting notes/Supervised learning.md",
     "0_📥Fleeting notes/Bound states and Scattering states.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
