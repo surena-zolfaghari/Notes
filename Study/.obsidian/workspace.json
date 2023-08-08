@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "07ac28c46ffaaf3e",
+        "id": "72a3fa91293b9c66",
         "type": "tabs",
         "children": [
           {
-            "id": "8cc257ec8180c405",
+            "id": "1caac597872c695a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git rese",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 503.5
+    "width": 401.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,22 +109,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8cc257ec8180c405",
+  "active": "1caac597872c695a",
   "lastOpenFiles": [
+    "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
+    "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "4_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
     "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+    "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "4_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "4_🖥computer/Git in future.md",
+    "4_🖥computer/Git.md",
     "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+    "4_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
     "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
     "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
     "3_📂Stuff/Toefl.md",
     "4_🖥computer/MORTEZA.md",
     "0_📥Fleeting notes/TOEFL.md",
-    "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
-    "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
-    "4_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
-    "4_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
-    "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
-    "4_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
     "4_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
     "3_📂Stuff/manuall.md",
     "4_🖥computer/COMPUTER.md",
@@ -138,11 +137,6 @@
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "4_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "4_🖥computer/2023-07-31 11-45 Su C++.md",
-    "4_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
-    "4_🖥computer/Git.md",
-    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
-    "0_📥Fleeting notes/Supervised learning.md",
-    "0_📥Fleeting notes/Bound states and Scattering states.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",

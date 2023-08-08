@@ -21,6 +21,7 @@ Ref:
 
 Bilbo
 - [[7.01 2023-07-25 22-58 Su Framework of git]]
+- [[7.01 2023-08-08 17-23 Su Amending older or multiple commit messages]]
 - [[7.01 2023-07-26 21-52 Su Branches]]
 - [[7.01 2023-07-25 22-53 Su Git reset]]
 - [[7.01 2023-07-25 20-13 Su Remote Git Concept]]
