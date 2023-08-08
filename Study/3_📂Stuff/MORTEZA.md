@@ -14,10 +14,9 @@ Created:2022-04-22 17:18
 
 ## About physics
 
-- Shankar quantum physics/
- check this course and read his book. he describes very well.
+
 - this article describes why active matter is strange: The oddity of active matter
-- Allan Adams quantum mechanics (MIT Spring 2013)
+
 #Physics #Quantum
 
 ## About computer
