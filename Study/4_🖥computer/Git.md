@@ -19,7 +19,7 @@ I want to explain many aspects of git like:
 Ref:
 [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-Bilbo
+## Table of contents
 - [[7.01 2023-07-25 22-58 Su Framework of git]]
 - [[7.01 2023-08-08 17-23 Su Amending older or multiple commit messages]]
 - [[7.01 2023-07-26 21-52 Su Branches]]

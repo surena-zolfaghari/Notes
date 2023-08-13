@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "72a3fa91293b9c66",
+        "id": "50eafd8ef5819e74",
         "type": "tabs",
         "children": [
           {
-            "id": "f692396e55f0e03f",
+            "id": "4b364808dd27c971",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0df533d2fa5a635a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-13 23-00 SuQM as a framework and defining linearity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +62,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 450.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-13 23-00 SuQM as a framework and defining linearity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -109,34 +127,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f692396e55f0e03f",
+  "active": "0df533d2fa5a635a",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Film.md",
+    "0_📥Fleeting notes/8.04 2023-08-13 23-00 SuQM as a framework and defining linearity.md",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
+    "4_🖥computer/Git.md",
+    "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
+    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
+    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
+    "0_📥Fleeting notes/Bound states and Scattering states.md",
+    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
+    "1_🗃️Literature notes/8.04 2022-11-04 08-42 Su Importance of separation solutions of Schrodinger equation.md",
+    "2_🗂️Permanent notes/8.01 - Physics.md",
+    "3_📂Stuff/OBSIDIAN.md",
+    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
+    "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "3_📂Stuff/book.md",
+    "0_📥Fleeting notes/assets/Pasted image 20220905153642.png",
     "4_🖥computer/Linux.md",
+    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
+    "1_🗃️Literature notes/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
+    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
+    "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "4_🖥computer/Python.md",
     "3_📂Stuff/Toefl.md",
-    "3_📂Stuff/OBSIDIAN.md",
     "3_📂Stuff/Reza Rezaei.md",
     "3_📂Stuff/MORTEZA.md",
     "3_📂Stuff/manuall.md",
-    "3_📂Stuff/keyone.md",
-    "3_📂Stuff/Elon.md",
-    "3_📂Stuff/book.md",
-    "4_🖥computer/COMPUTER.md",
-    "4_🖥computer/C++.md",
-    "4_🖥computer/Git in future.md",
-    "4_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
-    "4_🖥computer/Git.md",
-    "4_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
-    "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
-    "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
-    "4_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
-    "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
-    "4_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
-    "4_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "4_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
-    "4_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
-    "4_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
-    "4_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",

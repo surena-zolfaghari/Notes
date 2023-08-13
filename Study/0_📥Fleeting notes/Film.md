@@ -1,7 +1,7 @@
 
 # List of Films:
 
-- A Most Violent Year for download
+- [x] A Most Violent Year for download
 - [x] Prisoners
 - Zero dark thirty
 - [x] Once Upon a Time... In Hollywood
@@ -11,7 +11,7 @@
 - [x] The seventh seal
 - The against ice
 - One day
-- whiplash
+- [x] whiplash
 - Another round
 - Cinderella man
 - joy

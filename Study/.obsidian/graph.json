@@ -1,12 +1,41 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#quantum",
+      "color": {
+        "a": 1,
+        "rgb": 16712965
+      }
+    },
+    {
+      "query": "python",
+      "color": {
+        "a": 1,
+        "rgb": 1296838
+      }
+    },
+    {
+      "query": "git",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "#physics",
+      "color": {
+        "a": 1,
+        "rgb": 16424448
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08770719472155429,
+  "scale": 0.2114159588966836,
   "close": false
 }
