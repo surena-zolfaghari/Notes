@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b364808dd27c971",
+            "id": "0df533d2fa5a635a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0df533d2fa5a635a",
+            "id": "faca4acf85d0ab5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be3eb1bcab4f5908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -127,19 +139,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0df533d2fa5a635a",
+  "active": "be3eb1bcab4f5908",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
     "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "1_🗃️Literature notes/8.04 2022-06-22 10-58 Su Solution of harmonic oscillator by operator.md",
-    "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
     "1_🗃️Literature notes/8.04 2022-06-28 21-14 Su Solution of Harmonic Oscillator by brute force.md",
-    "0_📥Fleeting notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
     "0_📥Fleeting notes/Film.md",
-    "2_🗂️Permanent notes/Quantum mechanics.md",
     "4_🖥computer/Git.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "0_📥Fleeting notes/Bound states and Scattering states.md",
-    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
     "1_🗃️Literature notes/8.04 2022-11-04 08-42 Su Importance of separation solutions of Schrodinger equation.md",
     "2_🗂️Permanent notes/8.01 - Physics.md",
     "3_📂Stuff/OBSIDIAN.md",
@@ -155,7 +168,6 @@
     "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "4_🖥computer/Python.md",
     "3_📂Stuff/Toefl.md",
-    "3_📂Stuff/Reza Rezaei.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",

@@ -1,4 +1,10 @@
 # Table of contents
+
+- [[8.04 2023-08-13 23-00 Su QM as a framework and defining linearity]]
+- 
+
+
+
 - [[8.04 2022-06-20 06-05 Su Schrodinger Equation]]
 - Definition of [[8.04 2022-06-21 06-06 Su Wave Function]]
 - [[8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION]]
