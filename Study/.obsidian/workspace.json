@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+                "file": "2_🗂️Permanent notes/Quantum mechanics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "faca4acf85d0ab5b",
+            "id": "e0aac96ed24d3c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -139,12 +139,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "be3eb1bcab4f5908",
+  "active": "e0aac96ed24d3c72",
   "lastOpenFiles": [
     "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
     "2_🗂️Permanent notes/Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
     "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
     "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "1_🗃️Literature notes/8.04 2022-06-22 10-58 Su Solution of harmonic oscillator by operator.md",
@@ -167,7 +168,6 @@
     "1_🗃️Literature notes/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
     "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "4_🖥computer/Python.md",
-    "3_📂Stuff/Toefl.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
