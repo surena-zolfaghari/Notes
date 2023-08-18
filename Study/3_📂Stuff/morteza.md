@@ -17,6 +17,8 @@ Created:2022-04-22 17:18
 
 - this article describes why active matter is strange: The oddity of active matter
 
+- https://vimeo.com/showcase/8290960
+
 #Physics #Quantum
 
 ## About computer

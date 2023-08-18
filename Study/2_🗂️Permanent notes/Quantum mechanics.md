@@ -2,7 +2,7 @@
 
 - [[8.04 2023-08-13 23-00 Su QM as a framework and defining linearity]]
 - [[8.04 2023-08-14 21-16 Su Linear and nonlinear theories]]
-- 
+- [[8.04 2023-08-14 22-36 Su Necessity of complex number]]
 
 
 
