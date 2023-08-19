@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3eee39a267838fae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -141,8 +151,11 @@
   },
   "active": "cbefa3b0df0f66c5",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
+    "1_🗃️Literature notes/assets/Pasted image 20230819093406.png",
+    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/assets/Pasted image 20230819093312.png",
+    "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
     "3_📂Stuff/morteza.md",
     "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
     "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
@@ -166,8 +179,6 @@
     "4_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
     "3_📂Stuff/book.md",
     "0_📥Fleeting notes/assets/Pasted image 20220905153642.png",
-    "4_🖥computer/Linux.md",
-    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
