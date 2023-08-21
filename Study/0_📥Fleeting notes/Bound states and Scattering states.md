@@ -1,4 +1,4 @@
-
+<mark style="background: #FF0000;">this file is imported in permanent file please set a name file and import in literature note.</mark>
 # Bound states and Scattering states
 Created:2022-12-05 15:23
 We have encountered two very different kind of solutions to the independent time equation. The solutions of the first group (infinite square well and harmonic oscillator) are normalizable and labeled by a discrete index $n$. The second group's solutions are non-normalizable and labeled with continuous variable $k$. 

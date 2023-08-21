@@ -3,7 +3,7 @@
 - [[8.04 2023-08-13 23-00 Su QM as a framework and defining linearity]]
 - [[8.04 2023-08-14 21-16 Su Linear and nonlinear theories]]
 - [[8.04 2023-08-14 22-36 Su Necessity of complex number]]
-
+- [[8.04 2023-08-18 23-05 Su Photons and the loss of determinism]]
 
 
 - [[8.04 2022-06-20 06-05 Su Schrodinger Equation]]
@@ -39,11 +39,13 @@
 
 complete operators 
 
+
 I should check
 - Time evolution and the Schrodinger lecture 6
 - harmonic oscillator brute force
 - energy eigen state
-
+## Questions
+- [[8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics]]
 
 $$\left. \frac {dx}{d} \right| $$
 $$\left\langle \right\rangle$$
