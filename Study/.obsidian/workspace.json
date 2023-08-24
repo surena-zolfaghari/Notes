@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f32a959c93461d",
+        "id": "06f6ffe43973f2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "e5d02ab6e55fb79e",
+            "id": "e4e1fbe8c06375a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -109,12 +109,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e5d02ab6e55fb79e",
+  "active": "e4e1fbe8c06375a7",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
     "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
-    "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su Spin.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230824231148.png",
+    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20230824230926_867.png",
+    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20230824225054_696.png",
+    "Excalidraw/assets",
+    "0_📥Fleeting notes/assets/Pasted image 20230824224217.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230824224149.png",
+    "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "0_📥Fleeting notes/assets/Pasted image 20230824214030.png",
     "0_📥Fleeting notes/assets/Pasted image 20230824213804.png",
     "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
@@ -129,12 +137,9 @@
     "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
     "1_🗃️Literature notes/8.04 22-12-04 15-25 Su THE UNCERTAINTY PRINCIPLE.md",
-    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
     "1_🗃️Literature notes/8.04 2022-06-20 06-05 Su Schrodinger Equation.md",
     "1_🗃️Literature notes/8.04 2022-06-21 06-06 Su Wave Function.md",
     "1_🗃️Literature notes/8.04 2022-06-22 10-58 Su Solution of harmonic oscillator by operator.md",
-    "1_🗃️Literature notes/assets/Pasted image 20230819093406.png",
-    "1_🗃️Literature notes/assets/Pasted image 20230819093312.png",
     "3_📂Stuff/morteza.md",
     "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
     "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
@@ -142,14 +147,9 @@
     "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
     "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
     "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
-    "1_🗃️Literature notes/8.04 2022-06-28 21-14 Su Solution of Harmonic Oscillator by brute force.md",
-    "0_📥Fleeting notes/Film.md",
-    "0_📥Fleeting notes/assets/Pasted image 20220905153642.png",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
-    "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "Day Planners",
-    "4_🖥computer/assets/Pasted image 20230725234840.png",
     "4_🖥computer/assets",
     "Untitled.canvas",
     "Untitled 1.canvas"
