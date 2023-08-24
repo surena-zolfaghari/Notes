@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a5a64eeaafecd9a",
+        "id": "d6f32a959c93461d",
         "type": "tabs",
         "children": [
           {
-            "id": "3dfb74e8c1e0b590",
+            "id": "e5d02ab6e55fb79e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "940ed29ade95729e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -126,10 +109,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3dfb74e8c1e0b590",
+  "active": "e5d02ab6e55fb79e",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
+    "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su Spin.md",
+    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230824214030.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230824213804.png",
     "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
     "3_📂Stuff/Elon.md",
     "Excalidraw/Drawing 2023-08-23 14.21.40.excalidraw.md",
@@ -157,15 +144,12 @@
     "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "1_🗃️Literature notes/8.04 2022-06-28 21-14 Su Solution of Harmonic Oscillator by brute force.md",
     "0_📥Fleeting notes/Film.md",
-    "4_🖥computer/Git.md",
     "0_📥Fleeting notes/assets/Pasted image 20220905153642.png",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "Day Planners",
     "4_🖥computer/assets/Pasted image 20230725234840.png",
-    "4_🖥computer/assets/Pasted image 20230725231508.png",
-    "4_🖥computer/assets/Pasted image 20230725231323.png",
     "4_🖥computer/assets",
     "Untitled.canvas",
     "Untitled 1.canvas"
