@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4e1fbe8c06375a7",
+            "id": "933411c871fcc8de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb0925b6172adb92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-24 23-46 Su Entanglement.md",
+                "file": "0_📥Fleeting notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 450.5,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-24 23-46 Su Entanglement.md",
+                "file": "0_📥Fleeting notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -124,13 +112,23 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "fb0925b6172adb92",
+  "active": "933411c871fcc8de",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230825233113.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230825210629.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230825200239.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230825141228.png",
+    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20230825141109_993.png",
+    "0_📥Fleeting notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230825140534.png",
     "0_📥Fleeting notes/8.04 2023-08-24 23-46 Su Entanglement.md",
+    "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
     "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
     "0_📥Fleeting notes/assets/Pasted image 20230824231148.png",
     "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
@@ -141,14 +139,8 @@
     "Excalidraw/assets",
     "0_📥Fleeting notes/assets/Pasted image 20230824224217.png",
     "0_📥Fleeting notes/assets/Pasted image 20230824224149.png",
-    "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "0_📥Fleeting notes/assets/Pasted image 20230824214030.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230824213804.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
     "3_📂Stuff/Elon.md",
     "Excalidraw/Drawing 2023-08-23 14.21.40.excalidraw.md",
-    "0_📥Fleeting notes/assets/Pasted image 20230822104341.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230822104101.png",
     "2_🗂️Permanent notes/Quantum mechanics.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
@@ -163,9 +155,6 @@
     "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
     "4_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
     "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
-    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
     "Day Planners",
