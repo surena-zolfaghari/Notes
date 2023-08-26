@@ -11,28 +11,15 @@
             "id": "c56c0072dcf39bd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cd0ea4c6bc90f766",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a1a222195b8ae95c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -126,8 +114,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd0ea4c6bc90f766",
+  "active": "c56c0072dcf39bd6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
+    "0_📥Fleeting notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "5_Template/temp.md",
+    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
+    "5_Template/Tags.md",
+    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20230826114359_831.png",
+    "Excalidraw/assets/Pasted Image 20230825141109_993.png",
+    "Excalidraw/assets/Pasted Image 20230824230926_867.png",
+    "Excalidraw/assets/Pasted Image 20230824225054_696.png",
+    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
+    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+    "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230826134553.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826175959.png",
+    "0_📥Fleeting notes/Untitled.md",
     "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "2_🗂️Permanent notes/Quantum mechanics.md",
     "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
@@ -140,30 +145,13 @@
     "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "Excalidraw/Elitzur-Vaidman Bombs.md",
     "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
-    "0_📥Fleeting notes/assets/Pasted image 20230826134553.png",
     "0_📥Fleeting notes/assets/Pasted image 20230826133151.png",
     "0_📥Fleeting notes/assets/Pasted image 20230826132422.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "0_📥Fleeting notes/assets/Pasted image 20230826132230.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
     "0_📥Fleeting notes/My notes in 5 November.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
-    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
-    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 14-46 Su Free Particle.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 12-50 Su Global properties of solutions.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 12-26 Su Infinite square well and global trait.md",
-    "1_🗃️Literature notes/8.04 2022-12-04 16-51 Su Solution of Schrodinger equation.md",
-    "1_🗃️Literature notes/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
-    "1_🗃️Literature notes/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
-    "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
-    "0_📥Fleeting notes/assets/Pasted image 20230826114859.png",
-    "Excalidraw/assets/Pasted Image 20230826114359_831.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826112958.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230825141228.png",
     "Excalidraw/assets",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
