@@ -1,7 +1,7 @@
 
 #Physics
 #Classical_Mechanics
-#State_diagram
+#state_diagram
 #Rule_allowable
 #Susskind
 
