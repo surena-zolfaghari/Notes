@@ -8,28 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8aa3419111c60de",
+            "id": "c56c0072dcf39bd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "50c1d225c753a8d3",
+            "id": "cd0ea4c6bc90f766",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1a222195b8ae95c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 652.5110321044922
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -95,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,38 +117,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8aa3419111c60de",
+  "active": "cd0ea4c6bc90f766",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/assets/Pasted image 20230826134553.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826133151.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826132422.png",
-    "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20230826132317_334.png",
+    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
     "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "0_📥Fleeting notes/assets/Pasted image 20230826132230.png",
     "0_📥Fleeting notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
-    "0_📥Fleeting notes/My notes in 5 November.md",
-    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
-    "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
     "0_📥Fleeting notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
     "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "Excalidraw/Elitzur-Vaidman Bombs.md",
+    "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230826134553.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826133151.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826132422.png",
+    "Excalidraw/assets/Pasted Image 20230826132317_334.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826132230.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
+    "0_📥Fleeting notes/My notes in 5 November.md",
+    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
+    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
     "1_🗃️Literature notes/8.04 2022-12-05 14-46 Su Free Particle.md",
     "1_🗃️Literature notes/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
@@ -156,13 +160,10 @@
     "1_🗃️Literature notes/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
     "1_🗃️Literature notes/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
     "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
-    "1_🗃️Literature notes/8.04 2022-11-04 08-42 Su Importance of separation solutions of Schrodinger equation.md",
-    "1_🗃️Literature notes/8.04 2022-11-04 07-33 Su Momentum.md",
     "0_📥Fleeting notes/assets/Pasted image 20230826114859.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "0_📥Fleeting notes/assets/Pasted image 20230826112958.png",
     "0_📥Fleeting notes/assets/Pasted image 20230825141228.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230825233113.png",
     "Excalidraw/assets",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
