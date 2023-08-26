@@ -8,11 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8092bd1d71c93a9",
+            "id": "f8aa3419111c60de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50c1d225c753a8d3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -110,12 +125,22 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f8092bd1d71c93a9",
+  "active": "f8aa3419111c60de",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/assets/Pasted image 20230826134553.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826133151.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826132422.png",
+    "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20230826132317_334.png",
+    "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230826132230.png",
     "0_📥Fleeting notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
+    "0_📥Fleeting notes/My notes in 5 November.md",
+    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
+    "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
     "0_📥Fleeting notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
-    "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition, General State of photon and spin states.md",
     "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
@@ -133,21 +158,11 @@
     "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
     "1_🗃️Literature notes/8.04 2022-11-04 08-42 Su Importance of separation solutions of Schrodinger equation.md",
     "1_🗃️Literature notes/8.04 2022-11-04 07-33 Su Momentum.md",
-    "1_🗃️Literature notes/8.04 2022-10-15 12-21 Su Normalization.md",
-    "1_🗃️Literature notes/8.04 2022-10-04 12-09 Su Electron Interference.md",
-    "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
-    "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
-    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "0_📥Fleeting notes/assets/Pasted image 20230826114859.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "0_📥Fleeting notes/assets/Pasted image 20230826112958.png",
     "0_📥Fleeting notes/assets/Pasted image 20230825141228.png",
     "0_📥Fleeting notes/assets/Pasted image 20230825233113.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230825210629.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230825200239.png",
-    "Excalidraw/assets/Pasted Image 20230825141109_993.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230825140534.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230824231148.png",
     "Excalidraw/assets",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",
