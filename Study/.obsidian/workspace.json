@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "2b71b43f3332d79d",
+        "id": "a61a180c53f0ea93",
         "type": "tabs",
         "children": [
           {
-            "id": "c56c0072dcf39bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd3231a9ef08a043",
+            "id": "b9c810850253dd35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
                 "mode": "source",
-                "source": false
+                "backlinks": false,
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1a9baae313dd49db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7e26230793b0deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5110321044922
+    "width": 391.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -121,50 +129,50 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "templates:Insert template": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd3231a9ef08a043",
+  "active": "b9c810850253dd35",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
-    "review of Deep Learning AI.md",
-    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "0_📥Fleeting notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
+    "0_📥Fleeting notes/test latex formula.md",
+    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
+    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
+    "0_📥Fleeting notes/Setting Probability Density.md",
+    "0_📥Fleeting notes/My notes in 5 November.md",
+    "0_📥Fleeting notes/Film.md",
+    "0_📥Fleeting notes/Neural Network.md",
+    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
+    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
+    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
+    "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 09-29 Su Rotating Objects, Moment of Inertia, Rotational KE.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 12-26 Su Infinite square well and global trait.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 14-46 Su Free Particle.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "0_📥Fleeting notes/assets/Pasted image 20230828222429.png",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
-    "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20230828222107_157.png",
     "assets/Pasted image 20230828222305.png",
-    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "5_Template/temp.md",
-    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
-    "5_Template/Tags.md",
-    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets/Pasted Image 20230825141109_993.png",
     "Excalidraw/assets/Pasted Image 20230824230926_867.png",
     "Excalidraw/assets/Pasted Image 20230824225054_696.png",
-    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
-    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
-    "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "0_📥Fleeting notes/assets/Pasted image 20230826134553.png",
-    "2_🗂️Permanent notes/Quantum mechanics.md",
-    "0_📥Fleeting notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "0_📥Fleeting notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "0_📥Fleeting notes/8.04 2023-08-24 23-46 Su Entanglement.md",
-    "0_📥Fleeting notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
-    "0_📥Fleeting notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "0_📥Fleeting notes/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "Excalidraw/assets",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",

@@ -5,8 +5,9 @@
   "trashOption": "local",
   "attachmentFolderPath": "./assets",
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
@@ -22,5 +23,6 @@
   "foldIndent": true,
   "showInlineTitle": true,
   "rightToLeft": false,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "showFrontmatter": false
 }
