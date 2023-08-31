@@ -13,27 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1a9baae313dd49db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c7e26230793b0deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-                "mode": "source",
+                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -89,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5110321044922,
-    "collapsed": true
+    "width": 391.5110321044922
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -137,14 +117,16 @@
   },
   "active": "b9c810850253dd35",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "0_📥Fleeting notes/test latex formula.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
     "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
+    "0_📥Fleeting notes/test latex formula.md",
     "Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "2_🗂️Permanent notes/Quantum mechanics.md",
     "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
     "0_📥Fleeting notes/Setting Probability Density.md",
@@ -161,8 +143,6 @@
     "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
     "1_🗃️Literature notes/8.01 2022-12-27 09-29 Su Rotating Objects, Moment of Inertia, Rotational KE.md",
     "1_🗃️Literature notes/8.04 2022-12-05 12-26 Su Infinite square well and global trait.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 14-46 Su Free Particle.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "0_📥Fleeting notes/assets/Pasted image 20230828222429.png",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
