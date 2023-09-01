@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+                "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "18f3db45a3c0bf78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d0029f503b875e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -70,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5110321044922
+    "width": 391.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+                "file": "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,11 +135,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9c810850253dd35",
+  "active": "6d0029f503b875e5",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
     "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
     "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "0_📥Fleeting notes/test latex formula.md",
