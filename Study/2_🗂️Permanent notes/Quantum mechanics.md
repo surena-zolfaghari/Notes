@@ -10,6 +10,8 @@
 - [[8.04 2023-08-24 23-46 Su Entanglement]]
 - [[8.04 2023-08-25 14-05 Su Mach-Zender Interferometer]]
 - [[8.04 2023-08-26 12-11 Su Interferometer and Interference]]
+- [[8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs]]
+- 
 - 
 
 
