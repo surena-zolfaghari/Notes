@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a61a180c53f0ea93",
+        "id": "587efc9f46d623f5",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c810850253dd35",
+            "id": "8ee5687b1dd30753",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -584.0890010678781,
-                  "y": -157.57396262288083,
-                  "zoom": -2
-                }
+                "file": "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -72,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5110321044922,
-    "collapsed": true
+    "width": 498.5110321044922
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -118,10 +115,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b9c810850253dd35",
+  "active": "8ee5687b1dd30753",
   "lastOpenFiles": [
-    "2_🗂️Permanent notes/Quantum mechanics.md",
+    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
+    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "Untitled.canvas",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
     "0_📥Fleeting notes/w.md",
     "0_📥Fleeting notes/Untitled.md",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
@@ -133,7 +132,6 @@
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "0_📥Fleeting notes/Film.md",
     "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
     "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
@@ -147,7 +145,6 @@
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
     "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
     "0_📥Fleeting notes/assets/Pasted image 20230828222429.png",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
