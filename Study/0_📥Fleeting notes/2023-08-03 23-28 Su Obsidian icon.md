@@ -9,7 +9,7 @@ Extract Appimage with
 ```
 
 
-Actually after extraction in Dock directory you probably face a $.desktopfile$ If you don't you can create in Dock directory. And select your icon.
+Actually after extraction in Dock directory you probably face a $.desktopfile$ If you don't you can create in Dock directory. And select your icon. I left all of extracted files in Dock.
 
 ```markdown
 [Desktop Entry]
