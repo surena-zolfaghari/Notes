@@ -26,8 +26,8 @@
 - Reverie
 - [x] After Life
 - [x] House Md
-- Dopesick
-- Rick and Morty
+- [x] Dopesick
+- [x] Rick and Morty
 - inside man
 
 # Cosmos
