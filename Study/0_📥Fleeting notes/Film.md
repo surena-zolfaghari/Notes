@@ -7,7 +7,7 @@
 - [x] Once Upon a Time... In Hollywood
 - Knives out
 - Nobody
-- Life is beautiful
+- [x] Life is beautiful
 - [x] The seventh seal
 - The against ice
 - One day
