@@ -11,12 +11,9 @@
             "id": "008596a51332e296",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "assets/Pasted image 20221225183741.png"
               }
             }
           },
@@ -40,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
+                "file": "assets/Pasted image 20221225183741.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -135,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Cosmology vs Astrophysics.md"
+                "file": "assets/Pasted image 20221225183741.png"
               }
             }
           }
@@ -158,10 +153,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02a34a025da02955",
+  "active": "008596a51332e296",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
+    "assets/Pasted image 20230828222305.png",
+    "assets/Pasted image 20230610182755.png",
+    "assets/Pasted image 20221225183741.png",
     "0_📥Fleeting notes/To Do/ME.md",
+    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
     "0_📥Fleeting notes/Film.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
@@ -188,18 +186,15 @@
     "0_📥Fleeting notes/Untitled.md",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
-    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",
     "0_📥Fleeting notes/assets/Pasted image 20230828222429.png",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "Excalidraw/assets/Pasted Image 20230828222107_157.png",
-    "assets/Pasted image 20230828222305.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets/Pasted Image 20230825141109_993.png",
     "Excalidraw/assets/Pasted Image 20230824230926_867.png",
     "Excalidraw/assets/Pasted Image 20230824225054_696.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826134553.png",
     "Excalidraw/assets",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",

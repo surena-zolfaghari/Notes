@@ -29,4 +29,5 @@ Template: It's a general format that I follow to my notes. You can skip this, be
 
 Excalidraw: Includes my draw which all of them in my notes for better understanding.
 
+assets: It also remove as soon as it's not important.
 
