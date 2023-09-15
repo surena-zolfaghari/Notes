@@ -40,6 +40,7 @@ https://torrentgalaxy.to/torrent/15277729/Cosmos-Possible-Worlds-S01-1080p-DSNP-
 1096
 4.09
 
+
 عجیبتر از یک داستان
 افسانه روز دوم فوریه 
 Groundhog Day
@@ -54,4 +55,8 @@ sunset bolivar -> گنگستر
 سگ کشی 
 باشو غریبه کوچک
 
+
+نویسنده:
+
+ایوان تورگنیف -> اشراف زاده و نویسنده خوب
 
