@@ -11,8 +11,15 @@
             "id": "ae9bbe017ffcace2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -6949.32166683197,
+                  "y": 3818,
+                  "zoom": -3.5
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -106,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           }
         ],
@@ -130,6 +140,7 @@
   },
   "active": "ae9bbe017ffcace2",
   "lastOpenFiles": [
+    "review of Deep Learning AI.md",
     "Untitled.md",
     "3_📂Stuff/Reza Rezaei.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
@@ -154,7 +165,6 @@
     "0_📥Fleeting notes/Bound states and Scattering states.md",
     "0_📥Fleeting notes/Color code.md",
     "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
-    "review of Deep Learning AI.md",
     "1_🗃️Literature notes/8.04 2022-12-04 16-51 Su Solution of Schrodinger equation.md",
     "assets/Pasted image 20221225183741.png",
     "assets/Pasted image 20230828222305.png",
