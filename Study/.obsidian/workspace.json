@@ -11,14 +11,12 @@
             "id": "ae9bbe017ffcace2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -6949.32166683197,
-                  "y": 3818,
-                  "zoom": -3.5
-                }
+                "file": "0_📥Fleeting notes/To Do/ME.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "0_📥Fleeting notes/To Do/ME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "0_📥Fleeting notes/To Do/ME.md"
               }
             }
           }
@@ -140,7 +138,17 @@
   },
   "active": "ae9bbe017ffcace2",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/University.md",
     "review of Deep Learning AI.md",
+    "0_📥Fleeting notes/Supervised learning.md",
+    "0_📥Fleeting notes/Neural Network.md",
+    "0_📥Fleeting notes/Film.md",
+    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
+    "0_📥Fleeting notes/Color code.md",
+    "0_📥Fleeting notes/To Do/Toronto university.md",
+    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "0_📥Fleeting notes/To Do/ME.md",
+    "Untitled.canvas",
     "Untitled.md",
     "3_📂Stuff/Reza Rezaei.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
@@ -150,26 +158,15 @@
     "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
     "2_🗂️Permanent notes/Quantum mechanics.md",
     "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
-    "0_📥Fleeting notes/To Do/ME.md",
-    "0_📥Fleeting notes/To Do/Toronto university.md",
-    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
     "0_📥Fleeting notes/Setting Probability Density.md",
-    "0_📥Fleeting notes/University.md",
-    "0_📥Fleeting notes/Supervised learning.md",
     "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
-    "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/My notes in 5 November.md",
-    "0_📥Fleeting notes/Film.md",
     "0_📥Fleeting notes/TOEFL.md",
     "0_📥Fleeting notes/Bound states and Scattering states.md",
-    "0_📥Fleeting notes/Color code.md",
-    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
-    "1_🗃️Literature notes/8.04 2022-12-04 16-51 Su Solution of Schrodinger equation.md",
     "assets/Pasted image 20221225183741.png",
     "assets/Pasted image 20230828222305.png",
     "assets/Pasted image 20230610182755.png",
-    "Untitled.canvas",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
     "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",
