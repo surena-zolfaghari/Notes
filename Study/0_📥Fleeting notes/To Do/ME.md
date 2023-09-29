@@ -13,4 +13,4 @@
 - [x] sort you hour works
 
 - [x] your notes
-- 
+- [x] check plugin 
