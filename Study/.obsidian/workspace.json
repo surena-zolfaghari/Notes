@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/To Do/ME.md",
+                "file": "0_📥Fleeting notes/Special relativity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/To Do/ME.md",
+                "file": "0_📥Fleeting notes/Special relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -137,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/To Do/ME.md"
+                "file": "0_📥Fleeting notes/Special relativity.md"
               }
             }
           }
@@ -160,12 +159,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5cec01bcf677e0a",
+  "active": "ae9bbe017ffcace2",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/To Do/Untitled.md",
+    "0_📥Fleeting notes/Special relativity.md",
+    "0_📥Fleeting notes/To Do/ME.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "0_📥Fleeting notes/Color code.md",
     "0_📥Fleeting notes/Film.md",
-    "0_📥Fleeting notes/To Do/ME.md",
     "0_📥Fleeting notes/University.md",
     "review of Deep Learning AI.md",
     "0_📥Fleeting notes/Supervised learning.md",
@@ -187,7 +188,6 @@
     "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
     "0_📥Fleeting notes/My notes in 5 November.md",
     "0_📥Fleeting notes/TOEFL.md",
-    "0_📥Fleeting notes/Bound states and Scattering states.md",
     "assets/Pasted image 20221225183741.png",
     "assets/Pasted image 20230828222305.png",
     "assets/Pasted image 20230610182755.png",
