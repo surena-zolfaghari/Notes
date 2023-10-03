@@ -15,7 +15,8 @@ In the new convention, the rest mass (sometimes simply referred to as "mass") is
 
 To summarize:
 
-    Rest Mass: The mass of an object when it is at rest relative to an observer. This is an intrinsic property and is the same in both the old and new conventions.
-    Relativistic Mass: The mass of an object as it approaches the speed of light. This concept was used in the old convention but is less commonly used today, as it can lead to confusion and is not necessary in most modern physics applications.
+> Rest Mass: The mass of an object when it is at rest relative to an observer. This is an intrinsic property and is the same in both the old and new conventions.
+
+> Relativistic Mass: The mass of an object as it approaches the speed of light. This concept was used in the old convention but is less commonly used today, as it can lead to confusion and is not necessary in most modern physics applications.
 
 In modern physics, the distinction between rest mass and relativistic mass is clear, and the rest mass is the preferred concept for describing an object's mass.
