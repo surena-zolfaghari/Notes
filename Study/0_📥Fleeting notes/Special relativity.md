@@ -17,3 +17,8 @@ light is relativistic.
 
 
 
+![[Figure_1.png]]
+
+![[Figure_3.png]]
+
+![[jitter.png]]
