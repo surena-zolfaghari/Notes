@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Special relativity.md",
-                "mode": "preview",
+                "file": "0_📥Fleeting notes/University.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Special relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -162,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0_📥Fleeting notes/Special relativity.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -186,22 +183,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14c0256b42be03c8",
+  "active": "e1b25d491a720e71",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/rest mass.md",
+    "0_📥Fleeting notes/University.md",
+    "0_📥Fleeting notes/Supervised learning.md",
+    "0_📥Fleeting notes/Special relativity.md",
     "0_📥Fleeting notes/assets/jitter.png",
     "0_📥Fleeting notes/assets/Figure_3.png",
     "0_📥Fleeting notes/assets/Figure_1.png",
     "0_📥Fleeting notes/special re.md",
-    "0_📥Fleeting notes/rest mass.md",
-    "0_📥Fleeting notes/Special relativity.md",
     "0_📥Fleeting notes/To Do/Untitled.md",
     "0_📥Fleeting notes/To Do/ME.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "0_📥Fleeting notes/Color code.md",
     "0_📥Fleeting notes/Film.md",
-    "0_📥Fleeting notes/University.md",
     "review of Deep Learning AI.md",
-    "0_📥Fleeting notes/Supervised learning.md",
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
     "0_📥Fleeting notes/To Do/Toronto university.md",
@@ -227,7 +224,6 @@
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "Excalidraw/assets/Pasted Image 20230828222107_157.png",
-    "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets",
     "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
     "0_📥Fleeting notes/Stuff/assets",

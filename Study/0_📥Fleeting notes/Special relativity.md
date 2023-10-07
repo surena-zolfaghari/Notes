@@ -14,11 +14,3 @@ light is relativistic.
 ## References:
 
 ## Related:
-
-
-
-![[Figure_1.png]]
-
-![[Figure_3.png]]
-
-![[jitter.png]]
