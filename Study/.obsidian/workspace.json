@@ -62,8 +62,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "To Do.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "To Do.md"
               }
             }
           }
@@ -211,7 +211,14 @@
   },
   "active": "51bc451fd2016ce1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
+    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
+    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+    "2_🗂️Permanent notes/8.03x- Physics.md",
+    "2_🗂️Permanent notes/8.01 - Physics.md",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
+    "To Do.md",
     "0_📥Fleeting notes/rest mass.md",
     "0_📥Fleeting notes/University.md",
     "0_📥Fleeting notes/Supervised learning.md",
@@ -234,12 +241,6 @@
     "3_📂Stuff/Reza Rezaei.md",
     "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
-    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
-    "2_🗂️Permanent notes/Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/Setting Probability Density.md",
     "assets/Pasted image 20221225183741.png",
     "assets/Pasted image 20230828222305.png",
     "assets/Pasted image 20230610182755.png",
