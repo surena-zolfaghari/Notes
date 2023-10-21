@@ -88,10 +88,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gravity.md",
-                "mode": "preview",
+                "file": "Electrodynamics.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "4d45b44bc5604080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -119,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5110321044922
+    "width": 386.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -185,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gravity.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -212,7 +226,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Gravity.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -235,11 +249,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3e19ec6e32d4648",
+  "active": "4d45b44bc5604080",
   "lastOpenFiles": [
+    "Electrodynamics.md",
+    "Untitled.md",
+    "elec1",
     "To Do.md",
     "Gravity.md",
-    "Electrodynamics.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
@@ -271,7 +287,6 @@
     "review of Deep Learning AI.md",
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
-    "0_📥Fleeting notes/To Do/Toronto university.md",
     "Untitled.canvas",
     "assets/Pasted image 20221225183741.png",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
