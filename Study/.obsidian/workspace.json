@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5110321044922
+    "width": 386.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -251,17 +252,17 @@
   "active": "e3e19ec6e32d4648",
   "lastOpenFiles": [
     "Electrodynamics.md",
-    "0_📥Fleeting notes/To Do/ME.md",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "To Do.md",
     "Untitled.md",
+    "0_📥Fleeting notes/To Do/ME.md",
     "Untitled 1.md",
     "0_📥Fleeting notes/Special relativity.md",
     "0_📥Fleeting notes/rest mass.md",
     "0_📥Fleeting notes/University.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",
-    "To Do.md",
     "Gravity.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",

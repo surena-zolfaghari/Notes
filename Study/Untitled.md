@@ -19,7 +19,7 @@ surface charge per unit area σ. Check the Coulomb limit $\epsilon=0$
 
 
 4(a)
-For a given point x 0 and an arbitrary function $\phi$, define $$f(r,x_0) = 1/(4\pi r^2) \int \limits_{S} \phi(x_0+r\hat n') da'$$ where S is the sphere with radius r centered at x 0 . (Clearly, f is the average of ϕ over S) Then prove that:$$\dfrac {\partial f}{\partial r} = \dfrac {1}{4\pi r^2} \int \nabla^2\phi(x')d^3x'$$ where the integral is over the volume of the same sphere.
+For a given point x 0 and an arbitrary function $\phi$, define $$f(r,x_0) = 1/(4\pi r^2) \int \limits_{S} \phi(x_0+r\hat n') da'$$ where S is the sphere with radius r centered at $x_0$ . (Clearly, f is the average of ϕ over S) Then prove that:$$\dfrac {\partial f}{\partial r} = \dfrac {1}{4\pi r^2} \int \nabla^2\phi(x')d^3x'$$ where the integral is over the volume of the same sphere.
 
 
 
@@ -45,5 +45,19 @@ Hint: $log z$ is not analytic everywhere on the complex plane. But you can remov
 7 d
 
 (d) Let $F = u(x,y) \hat i  − v(x,y) \hat j$ be a two-dimensional vector field. Show that ∇ · F = ∇ × F = 0.
+
+
+8
+
+Prove the Helmholtz decomposition theorem: Let F(x) be a vector field on $R^3$ and V be a volume bounded by S. Then
+$$F(x) = - \nabla \phi(x) + \nabla \times A(x)$$
+where:
+$$\phi(x)= \dfrac{1}{4\pi}\int_V \dfrac{\nabla'.F(x')}{|x-x'|}d^3x' - \dfrac{1}{4\pi} \int_S \dfrac{F(x').n'da'}{|x-x'|}$$
+$$A(x)=\dfrac{1}{4\pi}\int_V \dfrac{\nabla'\times F(x')}{|x-x'|}d^3x' + \dfrac{1}{4\pi} \int_S \dfrac{F(x')\times n'da'}{|x-x'|}$$
+So if for any reason the surface terms vanish, a knowledge of the divergence and the curl of F at all points in a region is enough to specify F everywhere in that region.
+
+8 b
+Give a counterexample for the applicability of the theorem to $x \notin V$.
+
 
 I want to copy this answer and paste in tex file and the run latex
