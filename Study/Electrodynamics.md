@@ -29,7 +29,7 @@ So, by incorporating the condition $\nabla \times \mathbf{E} = 0$ and solving fo
 
 # A 4 a
 
-For a given point x 0 and an arbitrary function $\phi$, define $$f(r,x_0) = 1/(4\pi r^2) \int \limits_{S} \phi(x_0+r\hat n') da'$$
+For a given point x 0 and an arbitrary function $\phi$, define $$f(r,x_0) = 1/(4\pi r^2) \int \limits_{S} \phi(x_0+r\hat n') da'$$ where S is the sphere with radius r centered at x 0 . [Clearly, f is the average of ϕ over S.] Then prove that $$\dfrac {\partial f}{\partial r} = \dfrac {1}{4 \pi r^2} \int_S \nabla^2 \phi(x')d^3x'$$
 
 ![[Pasted image 20231017181817.png]]
 ![[Pasted image 20231017181951.png]]

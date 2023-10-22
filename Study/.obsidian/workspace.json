@@ -88,10 +88,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrodynamics.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Electrodynamics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5110321044922,
-    "collapsed": true
+    "width": 386.5110321044922
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -249,14 +248,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d45b44bc5604080",
+  "active": "e3e19ec6e32d4648",
   "lastOpenFiles": [
     "Electrodynamics.md",
+    "0_📥Fleeting notes/To Do/ME.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "0_📥Fleeting notes/Special relativity.md",
+    "0_📥Fleeting notes/rest mass.md",
+    "0_📥Fleeting notes/University.md",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "assets/Pasted image 20231022002541.png",
+    "assets/Pasted image 20231022002455.png",
     "elec1",
     "To Do.md",
     "Gravity.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "assets/Pasted image 20231017185718.png",
@@ -271,24 +277,17 @@
     "2_🗂️Permanent notes/8.03x- Physics.md",
     "2_🗂️Permanent notes/8.01 - Physics.md",
     "2_🗂️Permanent notes/Quantum mechanics.md",
-    "0_📥Fleeting notes/rest mass.md",
-    "0_📥Fleeting notes/University.md",
     "0_📥Fleeting notes/Supervised learning.md",
-    "0_📥Fleeting notes/Special relativity.md",
     "0_📥Fleeting notes/assets/jitter.png",
     "0_📥Fleeting notes/assets/Figure_3.png",
-    "0_📥Fleeting notes/assets/Figure_1.png",
     "0_📥Fleeting notes/special re.md",
     "0_📥Fleeting notes/To Do/Untitled.md",
-    "0_📥Fleeting notes/To Do/ME.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
     "0_📥Fleeting notes/Color code.md",
     "0_📥Fleeting notes/Film.md",
     "review of Deep Learning AI.md",
     "0_📥Fleeting notes/Neural Network.md",
-    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
     "Untitled.canvas",
-    "assets/Pasted image 20221225183741.png",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
     "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",
