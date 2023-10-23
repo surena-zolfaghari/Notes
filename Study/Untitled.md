@@ -67,4 +67,8 @@ Apply this Helmholtz decomposition theorem to electrostatics and obtain $$\phi(x
 
 $$\phi(x) = \dfrac{1}{4\pi\epsilon_0} \int_V \dfrac{\rho(x')}{R}d^3x' + \dfrac{1}{4\pi} [\oint_S \dfrac{1}{R} \dfrac{\partial \phi}{\partial n'} - \phi \dfrac{\partial}{\partial n'}(\dfrac{1}{R}]da'$$ 
 
-I want to copy this answer and paste in tex file and the run latex
+I want to copy this answer and paste in tex file and the run latex.
+
+
+
+
