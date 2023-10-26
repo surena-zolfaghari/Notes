@@ -1,5 +1,14 @@
 
-1
+# 1
+
+We know an arbitrary Lorentz transformation, denoted by $\Lambda$ can be decomposed into a boost with parameter $\vec{\beta}$ and a rotation with rotation angle $\phi$ around $\vec{n}$ $$\Lambda = L(\vec{\beta})R(\vec{n}\phi)$$
+Show that the $\Lambda$ components are given by:
+$$\gamma=\Lambda_0^0 \; \; -\gamma \beta^i=\Lambda_0^i \;\; -\gamma \beta_j R^j_i =\Lambda_i^0$$
+and the three boost parameters are thus determined by the first column of $\Lambda$
+$$\beta^i=$$
+
+
+
 
 
 
@@ -37,3 +46,26 @@ $$0 = B^0 \cdot A^0$$
 Since A is a timelike vector, $$A \cdot A > 0$$, so $$A^0 \cdot A^0 > 0$$. As a result, $$B^0$$ must be equal to 0 for the equation to hold. This implies that $$B^0 = 0$$, which means the time component of B is zero. Since the only non-zero component of B that can make $$B \cdot A = 0$$ is $$B^0$$, we conclude that B is spacelike, as its time component is zero.
 
 So, if B is orthogonal to a timelike vector A, $$B^0$$ must be zero, and B is spacelike.
+
+# 2 d
+
+Show that for two future pointing timelike vectors, i.e., spacetime vectors A, B with $A^0 >0$ and $B^0>0$. We have $A_\mu B^\mu <0$.
+
+
+
+
+# 3
+By manipulating the dummy indices show that $$(Z_{abc}+Z_{cab}+Z_{bca})X^a X^bX^c=3Z_{abc}X^aX^bX^c$$
+
+
+# 5
+Suppose we run into an equation,$$T^{mn}\;_{kl}= U^mS^n\;_{kl}$$where it’s known that $T$ is a type (2, 2) tensor and $U$ is a vector. By the quotient theorem show that $S$ is a tensor of type (1, 2).
+
+
+# 6(a)
+
+Show that the threshold energy of photon in the following interaction $$\gamma + X \rightarrow X+e^++e^- $$ is given by $E=2mc^2(1+\dfrac{m}{M}$ Here M is mass of particle X and m is mass of electron and positron.
+
+
+# 6(b)
+Show that photon can’t undergo pair production such as $$\gamma \rightarrow e^+ +e^-$$

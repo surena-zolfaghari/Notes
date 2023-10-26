@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Special relativity.md",
+                "file": "Gravity.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -83,32 +83,6 @@
             }
           },
           {
-            "id": "e3e19ec6e32d4648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d45b44bc5604080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrodynamics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1b25d491a720e71",
             "type": "leaf",
             "state": {
@@ -131,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Gravity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -226,12 +199,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "Gravity.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,21 +221,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3e19ec6e32d4648",
+  "active": "ae9bbe017ffcace2",
   "lastOpenFiles": [
+    "To Do.md",
+    "Gravity.md",
+    "0_📥Fleeting notes/Special relativity.md",
+    "Untitled.md",
     "Electrodynamics.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "To Do.md",
-    "Untitled.md",
     "0_📥Fleeting notes/To Do/ME.md",
     "Untitled 1.md",
-    "0_📥Fleeting notes/Special relativity.md",
     "0_📥Fleeting notes/rest mass.md",
     "0_📥Fleeting notes/University.md",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",
-    "Gravity.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "assets/Pasted image 20231017185718.png",
