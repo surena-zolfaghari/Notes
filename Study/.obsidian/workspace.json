@@ -8,97 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae9bbe017ffcace2",
+            "id": "32475d125da75d07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Gravity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9673f289662f2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/rest mass.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "14c0256b42be03c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/University.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "32475d125da75d07",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "51bc451fd2016ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5dccd872640b8ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e1b25d491a720e71",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "a5cec01bcf677e0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/To Do/ME.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -221,14 +136,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae9bbe017ffcace2",
+  "active": "32475d125da75d07",
   "lastOpenFiles": [
+    "Untitled.md",
+    "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
+    "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "To Do.md",
     "Gravity.md",
     "0_📥Fleeting notes/Special relativity.md",
-    "Untitled.md",
     "Electrodynamics.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "0_📥Fleeting notes/To Do/ME.md",
     "Untitled 1.md",
     "0_📥Fleeting notes/rest mass.md",
@@ -256,10 +175,6 @@
     "0_📥Fleeting notes/special re.md",
     "0_📥Fleeting notes/To Do/Untitled.md",
     "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
-    "0_📥Fleeting notes/Color code.md",
-    "0_📥Fleeting notes/Film.md",
-    "review of Deep Learning AI.md",
-    "0_📥Fleeting notes/Neural Network.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",

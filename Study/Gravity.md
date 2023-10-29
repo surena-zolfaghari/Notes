@@ -64,8 +64,32 @@ Suppose we run into an equation,$$T^{mn}\;_{kl}= U^mS^n\;_{kl}$$where it’s kno
 
 # 6(a)
 
-Show that the threshold energy of photon in the following interaction $$\gamma + X \rightarrow X+e^++e^- $$ is given by $E=2mc^2(1+\dfrac{m}{M}$ Here M is mass of particle X and m is mass of electron and positron.
+Show that the threshold energy of photon in the following interaction $$\gamma + X \rightarrow X+e^++e^- $$ is given by $E=2mc^2+ \dfrac{2m^2c^2}{M}$ Here M is mass of particle X and m is mass of electron and positron.
 
 
 # 6(b)
 Show that photon can’t undergo pair production such as $$\gamma \rightarrow e^+ +e^-$$
+
+
+# 7
+Consider a constant relative velocity in positive x direction between two inertial frames. Let $L^{\mu'}_{\alpha}$ be the transformation matrix between the primed and unprimed coordinates and $F^{\mu \nu}$ is the
+electromagnetic field strength tensor, so we have
+$$F^{\mu' \nu'}=L^{\mu'}_{\alpha}L^{\nu'}_{\beta}F^\alpha_\beta$$ show that 
+$$E^{1'}=E^{1} \; \;\;\; E^{2'}=\gamma(E^2-v B_3) \; \;\;\; E^{3'}=\gamma(E^3-v B_2)$$
+$$B_{1'}=B_{1} \; \;\;\; B_{2'}=\gamma(B_2-v/c^2 E^3) \; \;\;\; B_{3'}=\gamma(B_3-v/c^2 E^2)$$
+
+
+# 8 
+If $\gamma =2$ and $x^{\mu}=(1,1)$ show that $x^{0'}=x^{1'}=2-\sqrt{3}$ 
+
+
+
+# 4
+Imagine we have a tensor $X^{\mu \nu}$ and a vector $V^{\mu}, with components
+$$\begin{pmatrix}
+2 & 0 & 1 & -1\\
+-1 & 0 & 3 & 2\\
+-1 & 1 & 0 & 0\\
+-2 & 1 &1 &-2
+\end{pmatrix}$$
+Find the components of $X^{\mu}_{\nu}$
