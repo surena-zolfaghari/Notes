@@ -57,11 +57,13 @@ Show that for two future pointing timelike vectors, i.e., spacetime vectors A, B
 # 3
 By manipulating the dummy indices show that $$(Z_{abc}+Z_{cab}+Z_{bca})X^a X^bX^c=3Z_{abc}X^aX^bX^c$$
 
+why $Z_{abc}=Z_{cab}=Z_{bca}$ explain more
+
 
 # 5
 Suppose we run into an equation,$$T^{mn}\;_{kl}= U^mS^n\;_{kl}$$where it’s known that $T$ is a type (2, 2) tensor and $U$ is a vector. By the quotient theorem show that $S$ is a tensor of type (1, 2).
 
-
+compute quotient of a tensor of $T^{mn}_{kl}$ to  $U^m$ and get a new tensor $S^n_{kl}$
 # 6(a)
 
 Show that the threshold energy of photon in the following interaction $$\gamma + X \rightarrow X+e^++e^- $$ is given by $E=2mc^2+ \dfrac{2m^2c^2}{M}$ Here M is mass of particle X and m is mass of electron and positron.
@@ -85,11 +87,26 @@ If $\gamma =2$ and $x^{\mu}=(1,1)$ show that $x^{0'}=x^{1'}=2-\sqrt{3}$
 
 
 # 4
-Imagine we have a tensor $X^{\mu \nu}$ and a vector $V^{\mu}, with components
+Imagine we have a tensor $X^{\mu \nu}$ and a vector $V^{\mu}$, with components
 $$\begin{pmatrix}
 2 & 0 & 1 & -1\\
 -1 & 0 & 3 & 2\\
 -1 & 1 & 0 & 0\\
 -2 & 1 &1 &-2
 \end{pmatrix}$$
-Find the components of $X^{\mu}_{\nu}$
+Find the components of $(v_{\mu}X^{\mu\nu})$
+
+
+show explicitly that $x^{i'}e_{i'}=x^{j}e_{j}$
+
+
+
+# d
+
+$$B^0ij = A^0i * V^j
+B^1ij = A^1i * V^j$$
+
+
+
+
+

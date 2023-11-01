@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5110321044922,
-    "collapsed": true
+    "width": 386.5110321044922
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -138,14 +137,14 @@
   },
   "active": "32475d125da75d07",
   "lastOpenFiles": [
+    "To Do.md",
     "Untitled.md",
+    "Gravity.md",
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "To Do.md",
-    "Gravity.md",
     "0_📥Fleeting notes/Special relativity.md",
     "Electrodynamics.md",
     "0_📥Fleeting notes/To Do/ME.md",
