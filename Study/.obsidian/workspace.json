@@ -14,13 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "To Do.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a02c67192be6bec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -113,7 +127,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "To Do.md"
+                "file": "Master.md"
               }
             }
           }
@@ -135,10 +149,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32475d125da75d07",
+  "active": "a02c67192be6bec2",
   "lastOpenFiles": [
-    "Gravity.md",
     "To Do.md",
+    "Master.md",
+    "Gravity.md",
     "Untitled.md",
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
@@ -146,9 +161,8 @@
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "0_📥Fleeting notes/Special relativity.md",
-    "Electrodynamics.md",
+    "Master.md",
     "0_📥Fleeting notes/To Do/ME.md",
-    "Untitled 1.md",
     "0_📥Fleeting notes/rest mass.md",
     "0_📥Fleeting notes/University.md",
     "assets/Pasted image 20231022002541.png",
