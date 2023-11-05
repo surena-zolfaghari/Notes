@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master.md",
+                "file": "To Do.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master.md",
+                "file": "To Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -127,7 +127,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Master.md"
+                "file": "To Do.md"
               }
             }
           }
@@ -151,17 +151,16 @@
   },
   "active": "a02c67192be6bec2",
   "lastOpenFiles": [
+    "Assignment 1.md",
     "To Do.md",
     "Master.md",
     "Gravity.md",
-    "Untitled.md",
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "0_📥Fleeting notes/Special relativity.md",
-    "Master.md",
     "0_📥Fleeting notes/To Do/ME.md",
     "0_📥Fleeting notes/rest mass.md",
     "0_📥Fleeting notes/University.md",

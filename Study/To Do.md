@@ -1,15 +1,18 @@
 
 
 - [ ] Check git
-- [ ] digning
+- [ ] dining
 - [ ] electrodynamic
 - [ ] quantum
-- [ ] 
+- [ ] Neuro
+- [ ] ML
 
 
 purdue university indiana police
 Udacity
 
+
+https://www.youtube.com/watch?v=UtcUOEIM7E0
 https://www.youtube.com/watch?v=5WXo1aFb8MY
 jordan
 
