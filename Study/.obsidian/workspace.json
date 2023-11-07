@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "mode": "preview",
+                "file": "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -127,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "To Do.md"
+                "file": "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md"
               }
             }
           }
@@ -149,10 +148,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a02c67192be6bec2",
+  "active": "32475d125da75d07",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Setting Probability Density.md",
+    "0_📥Fleeting notes/Special relativity.md",
+    "0_📥Fleeting notes/special re.md",
+    "0_📥Fleeting notes/rest mass.md",
+    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
+    "0_📥Fleeting notes/Neural Network.md",
+    "0_📥Fleeting notes/My notes in 5 November.md",
+    "0_📥Fleeting notes/Film.md",
+    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
+    "0_📥Fleeting notes/2023-08-04 09-48 Su Zotero.md",
+    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
+    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "0_📥Fleeting notes/To Do/Toronto university.md",
+    "0_📥Fleeting notes/To Do/ME.md",
     "Assignment 1.md",
+    "Untitled.canvas",
     "To Do.md",
+    "review of Deep Learning AI.md",
     "Master.md",
     "Gravity.md",
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
@@ -160,34 +175,19 @@
     "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "0_📥Fleeting notes/Special relativity.md",
-    "0_📥Fleeting notes/To Do/ME.md",
-    "0_📥Fleeting notes/rest mass.md",
     "0_📥Fleeting notes/University.md",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
-    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "assets/Pasted image 20231017185718.png",
     "assets/Pasted image 20231017185649.png",
     "assets/Pasted image 20231017185608.png",
     "assets/Pasted image 20231017182109.png",
     "assets/Pasted image 20231017181951.png",
     "assets/Pasted image 20231017181817.png",
-    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
-    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
-    "2_🗂️Permanent notes/8.03x- Physics.md",
-    "2_🗂️Permanent notes/8.01 - Physics.md",
-    "2_🗂️Permanent notes/Quantum mechanics.md",
-    "0_📥Fleeting notes/Supervised learning.md",
     "0_📥Fleeting notes/assets/jitter.png",
     "0_📥Fleeting notes/assets/Figure_3.png",
-    "0_📥Fleeting notes/special re.md",
-    "0_📥Fleeting notes/To Do/Untitled.md",
-    "0_📥Fleeting notes/2023-08-03 23-28 Su Obsidian icon.md",
-    "Untitled.canvas",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
     "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",
