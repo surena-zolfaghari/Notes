@@ -14,6 +14,7 @@ Udacity
 
 https://www.youtube.com/watch?v=UtcUOEIM7E0
 https://www.youtube.com/watch?v=5WXo1aFb8MY
+https://www.youtube.com/watch?v=vfrd-jLVi5E
 jordan
 
 
@@ -40,6 +41,5 @@ jordan
 - [ ] 31
 
 
-12:40 13:02
 
 
