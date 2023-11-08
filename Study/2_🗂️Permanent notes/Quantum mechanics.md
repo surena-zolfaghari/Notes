@@ -68,7 +68,8 @@ I should check
 $$\left. \frac {dx}{d} \right| $$
 $$\left\langle \right\rangle$$
 
-i
+$$|\alpha\rangle \rightarrow \mathrm{a}=\left(\begin{array}{c}a_1 \\ a_2 \\ \vdots \\ a_N\end{array}\right)$$
+$$\langle f \mid g\rangle \equiv \int_a^b f(x)^* g(x) d x$$
 
 - link
 [SU](hal)
