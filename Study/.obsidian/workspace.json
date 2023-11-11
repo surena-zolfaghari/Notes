@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master.md",
-                "mode": "source",
+                "file": "Untitled 1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c66a02194372bd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -139,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Master.md"
+                "file": "Untitled 2.md"
               }
             }
           }
@@ -161,12 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3dcc95cb31d2dc96",
+  "active": "c66a02194372bd18",
   "lastOpenFiles": [
-    "To Do.md",
-    "Untitled.md",
     "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "Master.md",
+    "To Do.md",
     "Assignment 1.md",
     "0_📥Fleeting notes/Setting Probability Density.md",
     "4_🖥computer/Git in future.md",
@@ -190,7 +205,6 @@
     "0_📥Fleeting notes/To Do/ME.md",
     "review of Deep Learning AI.md",
     "Gravity.md",
-    "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",

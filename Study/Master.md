@@ -1,8 +1,8 @@
 # Electrodynamics
 
-- [ ] introduction; 1.1-1.5, 1.7.
+- [x] introduction; 1.1-1.5, 1.7.
 - [ ] Helmholtz's decomposition theorem; Green function as an operator inverse.
-- [ ] 1.8-1.10.
+- [ ] 1.8-1.10
 - [ ] 1.10-1.12, 2.5.
 - [x] Assignment
 - [ ] 2.6, 2.10.
