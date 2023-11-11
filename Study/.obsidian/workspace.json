@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Master.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bc7375d671572ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c5ec5902cc1247d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -113,7 +139,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "To Do.md"
+                "file": "Master.md"
               }
             }
           }
@@ -137,9 +163,13 @@
   },
   "active": "3dcc95cb31d2dc96",
   "lastOpenFiles": [
+    "To Do.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Master.md",
+    "Assignment 1.md",
     "0_📥Fleeting notes/Setting Probability Density.md",
     "4_🖥computer/Git in future.md",
-    "To Do.md",
     "0_📥Fleeting notes/rest mass.md",
     "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
     "0_📥Fleeting notes/Film.md",
@@ -158,13 +188,9 @@
     "0_📥Fleeting notes/special re.md",
     "0_📥Fleeting notes/To Do/Toronto university.md",
     "0_📥Fleeting notes/To Do/ME.md",
-    "Assignment 1.md",
     "review of Deep Learning AI.md",
-    "Master.md",
     "Gravity.md",
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
-    "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",
