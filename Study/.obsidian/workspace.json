@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Untitled 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Master.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Master.md"
               }
             }
           }
@@ -175,13 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c66a02194372bd18",
+  "active": "bc7375d671572ee5",
   "lastOpenFiles": [
     "Untitled 1.md",
     "Untitled 2.md",
-    "Untitled.md",
     "Master.md",
     "To Do.md",
+    "Untitled.md",
     "Assignment 1.md",
     "0_📥Fleeting notes/Setting Probability Density.md",
     "4_🖥computer/Git in future.md",
