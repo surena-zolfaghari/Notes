@@ -25,3 +25,15 @@ Source: Conversation with Bing, 11/11/2023
 (2) THE METHOD OF IMAGES GG ( ) A useful technique for solving (i.e. finding). https://hep.physics.illinois.edu/home/serrede/P435/Lecture_Notes/P435_Lect_06.pdf.
 (3) arXiv:2001.10651v2 [physics.class-ph] 20 Mar 2020. https://arxiv.org/pdf/2001.10651.pdf.
 (4) Method of image charges for a point charge and a non-grounded .... https://physics.stackexchange.com/questions/314982/method-of-image-charges-for-a-point-charge-and-a-non-grounded-conducting-plane.
+
+
+
+
+
+The most important file in the data directory is the zotero.sqlite file, which is the database containing the majority of your data: item metadata, notes, tags, etc. When Zotero starts up, it reads the zotero.sqlite file in the active data directory.
+
+The directory also contains a storage folder with 8-character subfolders (e.g., “N7SMB24A”) containing all of your file attachments, such as PDFs, web snapshots, audio files, or any other files you have imported. (Files that are linked are not copied into this subfolder.)
+
+Your data directory will likely contain several other files and folders. These can include zotero.sqlite.bak (an automatic backup of zotero.sqlite, which is updated periodically if the existing zotero.sqlite.bak file hasn't been updated in the last 12 hours) and zotero.sqlite.[number].bak files (automatic backups of zotero.sqlite that are created during certain Zotero updates), as well as folders such as locate, logs, pipes, styles, and translators that are created automatically at Zotero startup.
+
+Warning: Before you copy, delete, or move any of these files, be sure that Zotero is closed. Failure to do so before moving these files can damage your data.

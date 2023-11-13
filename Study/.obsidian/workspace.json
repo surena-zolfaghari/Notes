@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddbc9a83c5e67299",
+        "id": "f741cd5b36bc7c43",
         "type": "tabs",
         "children": [
           {
-            "id": "3dcc95cb31d2dc96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c66a02194372bd18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bc7375d671572ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c5ec5902cc1247d6",
+            "id": "8ef6b80f07d4ae4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -153,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Master.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -175,10 +135,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc7375d671572ee5",
+  "active": "8ef6b80f07d4ae4f",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Untitled 2.md",
+    "Untitled 1.md",
     "Master.md",
     "To Do.md",
     "Untitled.md",
