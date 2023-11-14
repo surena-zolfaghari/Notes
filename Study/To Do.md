@@ -40,8 +40,8 @@ jordan
 - [ ] 30
 - [ ] 31
 
-10:10 10:31
-11:40 12:10
 
-15:53 16:48
+
+
+rilled into our heads when we first heard about them. So you might think that dropping this requirement, the baby has been thrown out with the bath water. However, you will have ample time to appreciate the wisdom behind this choice as
 
