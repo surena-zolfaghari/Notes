@@ -1,1 +1,0 @@
-![[f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf]]
