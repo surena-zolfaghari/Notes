@@ -31,3 +31,30 @@ theory for stationary bodies. The introduction of a “luminiferous ether” wil
 prove to be superfluous inasmuch as the view here to be developed will not
 require an “absolutely stationary space” provided with special properties,
 
+Let us take a system of co-ordinates in which the equations of Newtonian
+mechanics hold good. 2 In order to render our presentation more precise and
+to distinguish this system of co-ordinates verbally from others which will be
+introduced hereafter, we call it the “stationary system.”
+If a material point is at rest relatively to this system of co-ordinates, its
+position can be defined relatively thereto by the employment of rigid standards
+of measurement and the methods of Euclidean geometry, and can be expressed
+in Cartesian co-ordinates.
+If we wish to describe the motion of a material point, we give the values of
+its co-ordinates as functions of the time. Now we must bear carefully in mind
+that a mathematical description of this kind has no physical meaning unless
+we are quite clear as to what we understand by “time.” We have to take into
+account that all our judgments in which time plays a part are always judgments
+of simultaneous events. If, for instance, I say, “That train arrives here at 7
+o’clock,” I mean something like this: “The pointing of the small hand of my
+watch to 7 and the arrival of the train are simultaneous events.” 3
+It might appear possible to overcome all the difficulties attending the defini-
+tion of “time” by substituting “the position of the small hand of my watch” for
+“time.” And in fact such a definition is satisfactory when we are concerned with
+defining a time exclusively for the place where the watch is located; but it is no longer satisfactory when we have to connect in time series of events occurring
+at different places, or—what comes to the same thing—to evaluate the times of
+events occurring at places remote from the watch.
+We might, of course, content ourselves with time values determined by an
+observer stationed together with the watch at the origin of the co-ordinates,
+and co-ordinating the corresponding positions of the hands with light signals, given out by every event to be timed, and reaching him through empty space.
+But this co-ordination has the disadvantage that it is not independent of the standpoint of the observer with the watch or clock, as we know from experience.
+
