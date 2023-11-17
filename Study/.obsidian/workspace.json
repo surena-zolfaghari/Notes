@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f741cd5b36bc7c43",
+        "id": "e13604aaa12b2cb4",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef6b80f07d4ae4f",
+            "id": "b0128c03c7949c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Untitled 2.md"
               }
             }
           }
@@ -135,13 +135,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ef6b80f07d4ae4f",
+  "active": "b0128c03c7949c90",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Master.md",
-    "To Do.md",
     "Untitled.md",
+    "Untitled.canvas",
+    "Master.md",
+    "review of Deep Learning AI.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "To Do.md",
     "Assignment 1.md",
     "0_📥Fleeting notes/Setting Probability Density.md",
     "4_🖥computer/Git in future.md",
@@ -157,14 +159,11 @@
     "0_📥Fleeting notes/My notes in 5 November.md",
     "4_🖥computer/Linux configuration/2023-08-03 23-28 Su Obsidian icon.md",
     "4_🖥computer/Linux configuration",
-    "Untitled.canvas",
     "4_🖥computer/Linux configuration/2023-08-04 09-48 Su Zotero.md",
     "0_📥Fleeting notes/Special relativity.md",
     "0_📥Fleeting notes/special re.md",
     "0_📥Fleeting notes/To Do/Toronto university.md",
     "0_📥Fleeting notes/To Do/ME.md",
-    "review of Deep Learning AI.md",
-    "Gravity.md",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",
