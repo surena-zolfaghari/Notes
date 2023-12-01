@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relativity.md",
+                "file": "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "change commi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relativity.md",
+                "file": "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -179,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "relativity.md"
+                "file": "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md"
               }
             }
           }
@@ -203,8 +204,8 @@
   },
   "active": "1125a6c91d3ffe2b",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "relativity.md",
+    "Untitled 2.md",
     "Untitled.md",
     "Untitled 1.md",
     "Dire starits.md",
