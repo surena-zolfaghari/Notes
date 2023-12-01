@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "49cea55b8f45fdb4",
+        "id": "bc8d9528f0da99d2",
         "type": "tabs",
         "children": [
           {
-            "id": "b0ea89795a9814cf",
+            "id": "b1add38c4f05204e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6b398672a76c7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem set 2 gravity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8c0a219a1558144b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "86320f89af096157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem set 2 gravity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1125a6c91d3ffe2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+                "file": "Master.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5110321044922,
-    "collapsed": true
+    "width": 386.5110321044922
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -140,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem set 2 gravity.md",
+                "file": "Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -167,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Problem set 2 gravity.md"
+                "file": "Master.md"
               }
             }
           }
@@ -189,23 +135,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86320f89af096157",
+  "active": "b1add38c4f05204e",
   "lastOpenFiles": [
-    "Master.md",
-    "Dire starits.md",
     "Assignment 1.md",
-    "Untitled 2.md",
+    "review of Deep Learning AI.md",
+    "Problem set 2 gravity.md",
+    "relativity.md",
+    "Dire starits.md",
+    "Master.md",
+    "Qm 2.md",
+    "QM.md",
     "Untitled.md",
     "Untitled 1.md",
+    "Untitled 2.md",
     "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
-    "relativity.md",
-    "Problem set 2 gravity.md",
-    "QM.md",
-    "Qm 2.md",
     "To Do.md",
     "3_📂Stuff/keyone.md",
     "assets/Pasted image 20221225183741.png",
-    "review of Deep Learning AI.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "0_📥Fleeting notes/rest mass.md",
