@@ -26,7 +26,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dire starits.md",
+                "file": "To Do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6b398672a76c7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem set 2 gravity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8c0a219a1558144b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7d866e5c86c97ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dire starits.md",
+                "file": "QM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -127,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dire starits.md"
+                "file": "QM.md"
               }
             }
           }
@@ -149,17 +188,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0ea89795a9814cf",
+  "active": "8c0a219a1558144b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Dire starits.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "3_📂Stuff/keyone.md",
-    "assets/Pasted image 20221225183741.png",
+    "Problem set 2 gravity.md",
+    "QM.md",
+    "Untitled 3.md",
+    "To Do.md",
     "Master.md",
     "Assignment 1.md",
-    "To Do.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Dire starits.md",
+    "3_📂Stuff/keyone.md",
+    "assets/Pasted image 20221225183741.png",
     "review of Deep Learning AI.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
@@ -177,9 +219,6 @@
     "4_🖥computer/Linux configuration/2023-08-03 23-28 Su Obsidian icon.md",
     "4_🖥computer/Linux configuration",
     "4_🖥computer/Linux configuration/2023-08-04 09-48 Su Zotero.md",
-    "0_📥Fleeting notes/Special relativity.md",
-    "0_📥Fleeting notes/special re.md",
-    "0_📥Fleeting notes/To Do/Toronto university.md",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",

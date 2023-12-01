@@ -6,6 +6,7 @@
 - [ ] quantum
 - [ ] Neuro
 - [ ] ML
+- [ ] 
 
 
 purdue university indiana police
@@ -21,7 +22,7 @@ jord
 
 Fourier transform 
 
-
+https://lib-nqhluzmtldddaeu65paeeypf.1lib.ph/login?regconfirm=fa4db734816cf408665041408d5ea0e7
 
 A Student's Guide to Data and Error Analysis 
  chapter one
@@ -46,3 +47,9 @@ A Student's Guide to Data and Error Analysis
 - [ ] 29
 - [ ] 30
 - [ ] 31
+
+
+
+           40
+1:28 2:19  51
+

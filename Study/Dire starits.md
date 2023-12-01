@@ -10,7 +10,7 @@ French kisses in the darkened doorways
 A foghorn blowing out wild and cold
 A policeman shines a light upon my shoulder
 
-Up comes a coaster fast and silent in the nihgt
+Up comes a coaster fast and silent in the night
 Over my shoulder all you can see are the pilot lights
 No money in our jackets and our jeans are torn
 Your hands are cold but your lips are warm
