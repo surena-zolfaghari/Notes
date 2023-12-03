@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Master.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "b1add38c4f05204e",
   "lastOpenFiles": [
+    "Electrodynamics.md",
+    "Untitled.md",
+    "Dire starits.md",
     "Assignment 1.md",
     "review of Deep Learning AI.md",
     "Problem set 2 gravity.md",
     "relativity.md",
-    "Dire starits.md",
-    "Master.md",
     "Qm 2.md",
     "QM.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
