@@ -1,14 +1,3 @@
-
-
-- [ ] Check git
-- [ ] dining
-- [ ] electrodynamic
-- [ ] quantum
-- [ ] Neuro
-- [ ] ML
-- [ ] 
-
-
 purdue university indiana police
 Udacity
 
@@ -25,7 +14,9 @@ Fourier transform
 https://lib-nqhluzmtldddaeu65paeeypf.1lib.ph/login?regconfirm=fa4db734816cf408665041408d5ea0e7
 
 A Student's Guide to Data and Error Analysis 
- chapter one
+
+# chapter one
+ 
 - [x] 4
 - [x] 5
 - [x] 7
