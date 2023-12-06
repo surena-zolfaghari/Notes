@@ -40,7 +40,5 @@ A Student's Guide to Data and Error Analysis
 - [ ] 31
 
 
-
-           40
-1:28 2:19  51
-
+13:16 14:57
+15:04 15:41

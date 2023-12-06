@@ -1,7 +1,6 @@
-
 # List of Films:
 
-- [x] A Most Violent Year for download
+- [x] A Most Violent Year
 - [x] Prisoners
 - Zero dark thirty
 - [x] Once Upon a Time... In Hollywood
