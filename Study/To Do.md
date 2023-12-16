@@ -2,19 +2,22 @@ purdue university indiana police
 Udacity
 
 
+Jordan
 https://www.youtube.com/watch?v=UtcUOEIM7E0
 https://www.youtube.com/watch?v=5WXo1aFb8MY
 https://www.youtube.com/watch?v=vfrd-jLVi5E
-jord
+
+transpose
+https://www.youtube.com/watch?v=g4ecBFmvAYU
 
 
 
-Fourier transform 
+quantum gravity
+https://www.youtube.com/watch?v=8aR77s9RLck
 
-https://lib-nqhluzmtldddaeu65paeeypf.1lib.ph/login?regconfirm=fa4db734816cf408665041408d5ea0e7
 
-A Student's Guide to Data and Error Analysis 
-
+Jacobian
+https://www.youtube.com/watch?v=wCZ1VEmVjVo
 # chapter one
  
 - [x] 4
@@ -39,6 +42,6 @@ A Student's Guide to Data and Error Analysis
 - [ ] 30
 - [ ] 31
 
+9:20 10:37
 
-13:16 14:57
-15:04 15:41
+11:06 
