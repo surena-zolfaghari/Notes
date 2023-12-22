@@ -19,7 +19,7 @@
 
 
 
-
+## Griffiths's books
 
 
 
@@ -29,6 +29,7 @@
 - [[8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION]]
 	- [[8.04 2022-10-04 12-09 Su Electron Interference]]
 - [[2.01 2022-10-05 21-37 Su Basic in Statistic]]
+	- It's about how to work with density probability. And It's an annotation about example 1.2 in Griffiths [[8.04 2022-09-06 13-31 Su Setting Probability Density]]
 - Introduce of operators [[8.04 2022-07-20 10-53 Su Operators In QM]]
 - [[8.04 2022-10-15 12-21 Su Normalization]]
 - [[8.04 2022-11-04 07-33 Su Momentum]] 
