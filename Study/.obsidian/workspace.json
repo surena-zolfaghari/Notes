@@ -32,9 +32,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "26914d693166aae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/Film.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db66b95837fb79cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/University.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "0_📥Fleeting notes/University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -127,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "0_📥Fleeting notes/University.md"
               }
             }
           }
@@ -149,36 +175,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e793b9071fc94cb",
+  "active": "db66b95837fb79cf",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
+    "review of Deep Learning AI.md",
+    "Tensor calculus 7.md",
     "To Do.md",
-    "Untitled.md",
     "0_📥Fleeting notes/Film.md",
+    "0_📥Fleeting notes/Color code.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 15-23 Su Bound states and Scattering states.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 14-46 Su Free Particle.md",
+    "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
+    "0_📥Fleeting notes/University.md",
+    "2_🗂️Permanent notes/Quantum mechanics.md",
+    "assets/Pasted image 20231217085409.png",
+    "assets/Pasted image 20231217085323.png",
+    "Untitled.md",
     "0_📥Fleeting notes/Stuff/deleting pictures on phone.md",
     "Electrodynamics.md",
     "Dire starits.md",
     "Assignment 1.md",
-    "review of Deep Learning AI.md",
     "Problem set 2 gravity.md",
     "relativity.md",
     "Qm 2.md",
-    "QM.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "4_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
-    "3_📂Stuff/keyone.md",
     "assets/Pasted image 20221225183741.png",
     "Untitled.canvas",
-    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "0_📥Fleeting notes/rest mass.md",
-    "0_📥Fleeting notes/Setting Probability Density.md",
-    "4_🖥computer/Git in future.md",
-    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
-    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
-    "0_📥Fleeting notes/Color code.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "2_🗂️Permanent notes/Quantum mechanics.md",
-    "0_📥Fleeting notes/Neural Network.md",
     "4_🖥computer/Linux configuration",
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
@@ -188,8 +216,6 @@
     "assets/Pasted image 20231017185608.png",
     "assets/Pasted image 20231017182109.png",
     "assets/Pasted image 20231017181951.png",
-    "assets/Pasted image 20231017181817.png",
-    "0_📥Fleeting notes/assets/jitter.png",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
     "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",

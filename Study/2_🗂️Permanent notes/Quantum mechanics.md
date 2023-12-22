@@ -49,7 +49,7 @@
 	- Free particle
 		- [[8.04 2022-12-05 14-46 Su Free Particle]]
 	- Delta function potential
-		- [[Bound states and Scattering states]]
+		- [[8.04 2022-12-05 15-23 Su Bound states and Scattering states]]
 
 
 - [[8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6]]---> check and Think again!
