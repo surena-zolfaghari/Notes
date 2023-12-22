@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignment 1.md",
+                "file": "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -66,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 386.5110321044922
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignment 1.md",
+                "file": "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -113,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Assignment 1.md"
+                "file": "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md"
               }
             }
           }
@@ -137,32 +139,40 @@
   },
   "active": "629079f5d3c1ad39",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/Stuff/Bookmark.md",
-    "0_📥Fleeting notes/To Do/ME.md",
-    "0_📥Fleeting notes/Stuff/grammar.md",
-    "0_📥Fleeting notes/Stuff/deleting pictures on phone.md",
-    "0_📥Fleeting notes/Film.md",
-    "2_🗂️Permanent notes/Quantum mechanics.md",
-    "1_🗃️Literature notes/assets/f331813746.png",
-    "1_🗃️Literature notes/8.04 2022-10-15 12-21 Su Normalization.md",
-    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
-    "1_🗃️Literature notes/8.04 2022-06-21 06-06 Su Wave Function.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
+    "1_🗃️Literature notes/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
+    "0_📥Fleeting notes/Tensor calculus 7.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "2_🗂️Permanent notes/8.01 - Physics.md",
+    "2_🗂️Permanent notes/8.03x- Physics.md",
+    "4_Template/temp.md",
+    "4_Template/Tags.md",
+    "4_Template/Sticker.md",
+    "4_Template/Note Template.md",
+    "4_Template",
     "To Do.md",
-    "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md",
-    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
-    "0_📥Fleeting notes/Neural Network.md",
-    "0_📥Fleeting notes/Color code.md",
-    "0_📥Fleeting notes/Cosmology vs Astrophysics.md",
-    "0_📥Fleeting notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "0_📥Fleeting notes/To Do/Toronto university.md",
-    "0_📥Fleeting notes/Stuff/Words.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/University.md",
-    "review of Deep Learning AI.md",
-    "Tensor calculus 7.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "3_🖥computer/Linux configuration/2023-08-04 09-48 Su Zotero.md",
+    "3_🖥computer/Linux configuration/2023-08-03 23-28 Su Obsidian icon.md",
+    "3_🖥computer/assets/Pasted image 20230725234840.png",
+    "3_🖥computer/assets/Pasted image 20230725231508.png",
+    "3_🖥computer/assets/Pasted image 20230725231323.png",
+    "3_🖥computer/assets",
+    "3_🖥computer/Python.md",
+    "3_🖥computer/Linux.md",
+    "3_🖥computer/Linux configuration",
+    "3_🖥computer/Git.md",
+    "3_🖥computer/Git in future.md",
+    "3_🖥computer/COMPUTER.md",
+    "3_🖥computer/C++.md",
+    "3_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
+    "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
+    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
+    "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
+    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+    "3_🖥computer",
+    "1_🗃️Literature notes/assets/f331813746.png",
     "assets/Pasted image 20231217085409.png",
     "assets/Pasted image 20231217085323.png",
     "assets/Pasted image 20221225183741.png",
@@ -172,17 +182,10 @@
     "assets/Pasted image 20231022002455.png",
     "elec1",
     "assets/Pasted image 20231017185718.png",
-    "assets/Pasted image 20231017185649.png",
-    "assets/Pasted image 20231017185608.png",
-    "assets/Pasted image 20231017182109.png",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
     "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",
     "Excalidraw/assets",
-    "0_📥Fleeting notes/Stuff/assets/OGE_MSc_test_2023.pdf",
-    "0_📥Fleeting notes/Stuff/assets",
-    "Day Planners",
-    "4_🖥computer/assets",
     "Untitled 1.canvas"
   ]
 }
