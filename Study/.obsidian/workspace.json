@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c432f6d8f621bbc",
+        "id": "7cfbc4258ae16281",
         "type": "tabs",
         "children": [
           {
-            "id": "629079f5d3c1ad39",
+            "id": "7a9ad9b69cc57329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md",
-                "mode": "preview",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Quantum",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -105,7 +104,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md"
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md"
               }
             }
           }
@@ -137,12 +138,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "629079f5d3c1ad39",
+  "active": "7a9ad9b69cc57329",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
     "1_🗃️Literature notes/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
     "0_📥Fleeting notes/Tensor calculus 7.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "2_🗂️Permanent notes/8.01 - Physics.md",
     "2_🗂️Permanent notes/8.03x- Physics.md",
     "4_Template/temp.md",
@@ -169,8 +172,6 @@
     "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
     "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
-    "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
-    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
     "3_🖥computer",
     "1_🗃️Literature notes/assets/f331813746.png",
     "assets/Pasted image 20231217085409.png",
