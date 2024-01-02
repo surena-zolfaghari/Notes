@@ -1,0 +1,32 @@
+
+To install pyenv I used:
+```bash
+curl https://pyenv.run | bash
+```
+
+
+## Set up your shell environment for Pyenv
+
+and If you want to add it path to bash or Zsh, use this:
+
+- **For bash**
+Notice to `>> ~/.bashrc`
+```bash
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
+echo 'command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(pyenv init -)"' >> ~/.bashrc
+```
+
+**For Zsh**
+Notice to `>> ~/.Zshrc`
+```bash
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
+echo 'eval "$(pyenv init -)"' >> ~/.zshrc
+```
+
+And then restart you shell
+
+```bash
+exec "$SHELL"
+```

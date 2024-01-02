@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "f61c699c19b282f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pyenv.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+                "file": "Pyenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -116,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md"
+                "file": "Pyenv.md"
               }
             }
           }
@@ -138,11 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a9ad9b69cc57329",
+  "active": "f61c699c19b282f9",
   "lastOpenFiles": [
     "Untitled.md",
-    "Untitled 1.md",
+    "Pyenv.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "Untitled 1.md",
     "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
     "1_🗃️Literature notes/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
     "0_📥Fleeting notes/Tensor calculus 7.md",
@@ -171,7 +185,6 @@
     "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
     "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
-    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
     "3_🖥computer",
     "1_🗃️Literature notes/assets/f331813746.png",
     "assets/Pasted image 20231217085409.png",
