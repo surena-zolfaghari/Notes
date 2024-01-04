@@ -11,14 +11,12 @@
             "id": "9f925a7be9ddeb28",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -4540,
-                  "y": 4760,
-                  "zoom": -2.296019924153659
-                }
+                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -72,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 386.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -117,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md"
               }
             }
           }
@@ -141,15 +139,21 @@
   },
   "active": "9f925a7be9ddeb28",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/Tensor calculus 7.md",
-    "Untitled.canvas",
-    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
+    "0_📥Fleeting notes/Neural Network.md",
+    "0_📥Fleeting notes/Color code.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/Supervised learning.md",
     "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
+    "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
+    "1_🗃️Literature notes/8.04 2022-09-06 13-31 Su Setting Probability Density.md",
+    "1_🗃️Literature notes/Untitled.md",
+    "Untitled.canvas",
+    "0_📥Fleeting notes/Tensor calculus 7.md",
+    "0_📥Fleeting notes/Quantum Computation Learning Roadmap.md",
     "Untitled.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "0_📥Fleeting notes/Neural Network.md",
-    "0_📥Fleeting notes/Supervised learning.md",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "1_🗃️Literature notes/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
@@ -162,11 +166,6 @@
     "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
     "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
-    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
-    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
-    "sh.md",
-    "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
-    "1_🗃️Literature notes/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
     "3_🖥computer/assets/Pasted image 20230725231508.png",
