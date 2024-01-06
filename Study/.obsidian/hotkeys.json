@@ -1,12 +1,4 @@
 {
-  "obsidian-rtl:switch-text-direction": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "Z"
-    }
-  ],
   "editor:fold-all": [],
   "obsidian-latex-suite:latex-suite-box-equation": [
     {
@@ -22,6 +14,14 @@
         "Mod"
       ],
       "key": "U"
+    }
+  ],
+  "obsidian-rtl:switch-text-direction": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "CapsLock"
     }
   ]
 }

@@ -16,11 +16,25 @@
                 "file": "0_📥Fleeting notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
                 "mode": "source",
                 "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "328ae6fbd83014b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 386.5,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+                "file": "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md"
+                "file": "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md"
               }
             }
           }
@@ -137,10 +152,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f925a7be9ddeb28",
+  "active": "328ae6fbd83014b3",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
     "0_📥Fleeting notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/Color code.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
@@ -165,7 +181,6 @@
     "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
     "3_🖥computer/2023-07-31 11-45 Su C++.md",
     "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
-    "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
     "3_🖥computer/assets/Pasted image 20230725231508.png",
