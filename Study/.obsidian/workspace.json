@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7cfbc4258ae16281",
+        "id": "22cbcd680eb3bc91",
         "type": "tabs",
         "children": [
           {
-            "id": "9f925a7be9ddeb28",
+            "id": "b665fdfc8017b568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "328ae6fbd83014b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "momentum phase",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -84,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -129,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,11 +129,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "328ae6fbd83014b3",
+  "active": "b665fdfc8017b568",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
+    "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
+    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
+    "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
+    "1_🗃️Literature notes/8.04 2022-06-28 21-14 Su Solution of Harmonic Oscillator by brute force.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/Color code.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
@@ -176,11 +158,6 @@
     "1_🗃️Literature notes/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
     "2_🗂️Permanent notes/8.03x- Physics.md",
     "3_🖥computer/7.02 2024-01-02 14-45 Su ZSh.md",
-    "3_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
-    "3_🖥computer/7.10 2024-01-01 23-58 Su Pyenv.md",
-    "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
-    "3_🖥computer/2023-07-31 11-45 Su C++.md",
-    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
     "3_🖥computer/assets/Pasted image 20230725231508.png",
