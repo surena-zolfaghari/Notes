@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5,
-    "collapsed": true
+    "width": 526.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -130,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md"
+                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md"
               }
             }
           }
@@ -154,6 +153,8 @@
   },
   "active": "53bd4270e737ec21",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
     "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
@@ -163,7 +164,6 @@
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "0_📥Fleeting notes/Color code.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
@@ -179,7 +179,6 @@
     "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
     "1_🗃️Literature notes/8.04 2022-06-28 21-14 Su Solution of Harmonic Oscillator by brute force.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
