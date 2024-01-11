@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
+                "file": "0_📥Fleeting notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 526.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
+                "file": "0_📥Fleeting notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -128,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md"
+                "file": "0_📥Fleeting notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "b665fdfc8017b568",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "0_📥Fleeting notes/Color code.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
