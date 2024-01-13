@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53bd4270e737ec21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -129,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md"
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md"
               }
             }
           }
@@ -151,15 +137,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53bd4270e737ec21",
+  "active": "b665fdfc8017b568",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "0_📥Fleeting notes/8.04 2024-01-03 21-23 Su Units of h and Compton wavelength of particles.md",
-    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
+    "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
@@ -178,7 +165,6 @@
     "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
     "1_🗃️Literature notes/8.04 2022-06-28 21-14 Su Solution of Harmonic Oscillator by brute force.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
