@@ -3,12 +3,12 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "physics",
+      "query": "quantum",
       "color": {
         "a": 1,
         "rgb": 16189448
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "quantum",
+      "query": "physics",
       "color": {
         "a": 1,
         "rgb": 1634034
@@ -40,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.11438734811802276,
-  "close": false
+  "close": true
 }
