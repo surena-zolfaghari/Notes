@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-                "mode": "source",
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md"
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md"
               }
             }
           }
