@@ -26,15 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-2 07-00 Su de Broglie's proposal.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b269351b578cba1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-2 07-00 Su de Broglie's proposal.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -129,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-2 07-00 Su de Broglie's proposal.md"
+                "file": "0_📥Fleeting notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md"
               }
             }
           }
@@ -151,10 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78a86b0ecdaa21f4",
+  "active": "b269351b578cba1f",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+    "0_📥Fleeting notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
     "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "0_📥Fleeting notes/8.04 2023-09-2 07-00 Su de Broglie's proposal.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
@@ -162,12 +178,10 @@
     "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "0_📥Fleeting notes/Color code.md",
     "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "0_📥Fleeting notes/Neural Network.md",
@@ -178,7 +192,6 @@
     "1_🗃️Literature notes/8.04 2022-10-15 12-21 Su Normalization.md",
     "2_🗂️Permanent notes/8.03x- Physics.md",
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
