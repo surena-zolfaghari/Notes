@@ -13,14 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_🖥computer/2023-07-31 11-45 Su C++.md",
-                "mode": "source",
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "7655decc6ff2ed1b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-23 13.21.27.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b2821d2f23b2a64b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-23 13.11.14.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_🖥computer/2023-07-31 11-45 Su C++.md",
+                "file": "Excalidraw/Drawing 2024-03-23 13.21.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3_🖥computer/2023-07-31 11-45 Su C++.md"
+                "file": "Excalidraw/Drawing 2024-03-23 13.21.27.excalidraw.md"
               }
             }
           }
@@ -137,34 +158,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe669babe00d1f61",
+  "active": "7655decc6ff2ed1b",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
+    "Excalidraw/Drawing 2024-03-23 13.21.27.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240323132018.png",
+    "Excalidraw/Drawing 2024-03-23 13.11.14.excalidraw.md",
+    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
+    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
+    "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
+    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+    "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
+    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "3_🖥computer/2023-07-31 11-45 Su C++.md",
     "3_🖥computer/C++.md",
     "4_Template/Note Template.md",
     "3_🖥computer/Python.md",
-    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
-    "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "0_📥Fleeting notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
     "0_📥Fleeting notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
-    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "0_📥Fleeting notes/Color code.md",
-    "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "0_📥Fleeting notes/Neural Network.md",
-    "0_📥Fleeting notes/Supervised learning.md",
-    "0_📥Fleeting notes/Tensor calculus 7.md",
-    "0_📥Fleeting notes/Gravity.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
@@ -181,7 +203,6 @@
     "assets/Pasted image 20231022002541.png",
     "assets/Pasted image 20231022002455.png",
     "elec1",
-    "assets/Pasted image 20231017185718.png",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
     "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",
