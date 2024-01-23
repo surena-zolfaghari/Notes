@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "034a96e113cc0bdb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "7655decc6ff2ed1b",
             "type": "leaf",
             "state": {
@@ -40,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
+                "file": "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -135,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md"
+                "file": "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md"
               }
             }
           }
@@ -157,12 +168,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe669babe00d1f61",
+  "active": "034a96e113cc0bdb",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
+    "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
     "0_📥Fleeting notes/assets/Pasted image 20240323133312.png",
     "Excalidraw/Drawing 2024-03-23 13.21.27.excalidraw.md",
     "Excalidraw/Drawing 2024-03-23 13.11.14.excalidraw.md",
-    "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "0_📥Fleeting notes/assets/Pasted image 20240323132018.png",
     "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
     "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
@@ -200,7 +212,6 @@
     "assets/Pasted image 20221225183741.png",
     "4_🖥computer/Linux configuration",
     "assets/Pasted image 20231022002541.png",
-    "assets/Pasted image 20231022002455.png",
     "elec1",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
