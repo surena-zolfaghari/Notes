@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -146,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md"
+                "file": "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md"
               }
             }
           }
@@ -168,10 +167,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "034a96e113cc0bdb",
+  "active": "fe669babe00d1f61",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240124134155.png",
     "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
+    "0_📥Fleeting notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "0_📥Fleeting notes/assets/Pasted image 20240323133312.png",
     "Excalidraw/Drawing 2024-03-23 13.21.27.excalidraw.md",
     "Excalidraw/Drawing 2024-03-23 13.11.14.excalidraw.md",
@@ -197,7 +198,6 @@
     "0_📥Fleeting notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets/Pasted image 20230725234840.png",
@@ -211,7 +211,6 @@
     "assets/Pasted image 20231217085323.png",
     "assets/Pasted image 20221225183741.png",
     "4_🖥computer/Linux configuration",
-    "assets/Pasted image 20231022002541.png",
     "elec1",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
     "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
