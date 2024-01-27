@@ -24,5 +24,6 @@
   "showInlineTitle": true,
   "rightToLeft": false,
   "showIndentGuide": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "promptDelete": false
 }
