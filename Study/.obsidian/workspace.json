@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md"
+                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md"
               }
             }
           }
@@ -139,8 +139,19 @@
   },
   "active": "963f5dbcd1dc1a5f",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
+    "0_📥Fleeting notes/Supervised learning.md",
+    "0_📥Fleeting notes/Tensor calculus 7.md",
+    "0_📥Fleeting notes/Neural Network.md",
+    "0_📥Fleeting notes/Color code.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
+    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
     "1_🗃️Literature notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
     "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
     "0_📥Fleeting notes/assets/Pasted image 20240323144830.png",
@@ -153,7 +164,6 @@
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208133854.png",
     "1_🗃️Literature notes/assets/Pasted image 20220205130139.png",
-    "1_🗃️Literature notes/assets/Pasted image 20220205130118.png",
     "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 13.11.14.excalidraw.md",
@@ -166,16 +176,6 @@
     "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
     "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
     "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
-    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
-    "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
-    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
-    "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
-    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
-    "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
-    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
-    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
-    "3_🖥computer/2023-07-31 11-45 Su C++.md",
-    "3_🖥computer/C++.md",
     "4_Template",
     "3_🖥computer/assets",
     "3_🖥computer/Linux configuration",
