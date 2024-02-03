@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "72c7f8a4c748fa23",
+        "id": "3334c3fbc74a235c",
         "type": "tabs",
         "children": [
           {
-            "id": "963f5dbcd1dc1a5f",
+            "id": "daf3b18db400314c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-                "mode": "preview",
+                "file": "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "3441ce6aa2067a0a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md"
               }
             }
           }
@@ -70,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 353.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+                "file": "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md"
+                "file": "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md"
               }
             }
           }
@@ -137,45 +147,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "963f5dbcd1dc1a5f",
+  "active": "daf3b18db400314c",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/assets/Pasted image 20220523015531.png",
+    "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
+    "1_🗃️Literature notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
+    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240125135331.png",
+    "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
+    "1_🗃️Literature notes/assets/Pasted image 20220902151038.png",
+    "1_🗃️Literature notes/assets/Pasted image 20230819093406.png",
+    "1_🗃️Literature notes/assets/Pasted image 20230819093312.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240323132018.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240323133312.png",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
+    "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "0_📥Fleeting notes/Supervised learning.md",
     "0_📥Fleeting notes/Tensor calculus 7.md",
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/Color code.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
-    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
-    "1_🗃️Literature notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
-    "0_📥Fleeting notes/assets/Pasted image 20240323144830.png",
-    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
-    "0_📥Fleeting notes/assets/Pasted image 20240129143433.png",
-    "1_🗃️Literature notes/assets/Pasted image 20230819093406.png",
-    "1_🗃️Literature notes/assets/Pasted image 20230819093312.png",
-    "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
-    "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
-    "1_🗃️Literature notes/assets/Pasted image 20220208133854.png",
-    "1_🗃️Literature notes/assets/Pasted image 20220205130139.png",
     "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 13.11.14.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-27 14.22.39.excalidraw.md",
     "Untitled.canvas",
-    "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
-    "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
-    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
-    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
     "4_Template",
     "3_🖥computer/assets",
     "3_🖥computer/Linux configuration",
