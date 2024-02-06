@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md"
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md"
               }
             }
           }
@@ -139,11 +139,11 @@
   },
   "active": "daf3b18db400314c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
     "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
     "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
     "1_🗃️Literature notes/Untitled.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
