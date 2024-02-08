@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md",
+                "file": "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,16 +21,20 @@
             }
           },
           {
-            "id": "e3bdaace060bf88f",
+            "id": "43b90729853cf715",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md"
+                "file": "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md",
+                "file": "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -126,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md"
+                "file": "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md"
               }
             }
           }
@@ -148,15 +151,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "daf3b18db400314c",
+  "active": "43b90729853cf715",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
-    "1_🗃️Literature notes/8.04 2023-09-3 17-36 Su Galilean transformation of ordinary wave.md",
+    "1_🗃️Literature notes/8.04 2023-09-08 10-34 Su The frequency of a matter wave.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
     "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
-    "1_🗃️Literature notes/Untitled.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
