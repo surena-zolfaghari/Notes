@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Group velocity and stationary state.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Group velocity and stationary state.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -142,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Group velocity and stationary state.md"
+                "file": "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md"
               }
             }
           }
@@ -164,13 +163,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae2c9ef2c1fda1ef",
+  "active": "daf3b18db400314c",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/s.md",
-    "0_📥Fleeting notes/Group velocity and stationary state.md",
-    "0_📥Fleeting notes/Supervised learning.md",
     "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
     "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md",
+    "0_📥Fleeting notes/s.md",
+    "0_📥Fleeting notes/Supervised learning.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "1_🗃️Literature notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
