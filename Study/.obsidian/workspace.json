@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4345d20390fb9992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-10 12-21 Su Motion of a wave packet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ae2c9ef2c1fda1ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "43b90729853cf715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-16 12-28 Su Wave for a particle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-10 12-21 Su Motion of a wave packet.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-16 12-28 Su Wave for a particle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -155,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-10 12-21 Su Motion of a wave packet.md"
+                "file": "0_📥Fleeting notes/8.04 2023-09-16 12-28 Su Wave for a particle.md"
               }
             }
           }
@@ -177,11 +137,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4345d20390fb9992",
+  "active": "daf3b18db400314c",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "0_📥Fleeting notes/8.04 2023-09-10 12-21 Su Motion of a wave packet.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md",
+    "0_📥Fleeting notes/8.04 2023-09-10 12-21 Su Motion of a wave packet.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/8.04 2023-09-16 12-28 Su Wave for a particle.md",
     "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
     "0_📥Fleeting notes/s.md",
     "0_📥Fleeting notes/Supervised learning.md",
@@ -213,8 +175,6 @@
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/Tensor calculus 7.md",
-    "0_📥Fleeting notes/Neural Network.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets",
