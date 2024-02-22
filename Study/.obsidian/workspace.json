@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+                "file": "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "5b46c71312337dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,11 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24c726f1d932267a",
+  "active": "5b46c71312337dd8",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "0_📥Fleeting notes/dfd.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "0_📥Fleeting notes/8.04 2023-09-16 12-28 Su Wave for a particle.md",
     "0_📥Fleeting notes/8.04 2023-09-10 12-21 Su Motion of a wave packet.md",
     "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md",
@@ -174,7 +189,6 @@
     "0_📥Fleeting notes/assets/Pasted image 20240323132018.png",
     "0_📥Fleeting notes/assets/Pasted image 20240323133312.png",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets",
