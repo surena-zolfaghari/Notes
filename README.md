@@ -25,9 +25,6 @@ There are some folders:
 
 - Computer notes: is about python, AI, etc
 
-
-- Stuff: Probably it will remove, it's not important. They are my personal notes.
-
 - Template: It's a general format that I follow to my notes. You can skip this, because it just includes some template for my notes.
 
 - Excalidraw: Includes my draw which all of them in my notes for better understanding.
