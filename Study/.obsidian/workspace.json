@@ -58,9 +58,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0a22bd0e2c232acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+                "file": "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md"
+                "file": "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md"
               }
             }
           }
@@ -177,10 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e35abc7e0c4d30b",
+  "active": "0a22bd0e2c232acf",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/Neural Network.md",
+    "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
     "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
@@ -207,7 +222,6 @@
     "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
     "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
     "0_📥Fleeting notes/assets/Pasted image 20240125135331.png",
-    "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
     "1_🗃️Literature notes/assets/Pasted image 20220902151038.png",
     "1_🗃️Literature notes/assets/Pasted image 20230819093406.png",
     "1_🗃️Literature notes/assets/Pasted image 20230819093312.png",
