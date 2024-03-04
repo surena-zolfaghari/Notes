@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Andrew Ng's Code.md",
+                "file": "3_🖥computer/COMPUTER.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Andrew Ng's Code.md",
+                "file": "3_🖥computer/COMPUTER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -181,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Andrew Ng's Code.md"
+                "file": "3_🖥computer/COMPUTER.md"
               }
             }
           }
@@ -205,8 +205,21 @@
   },
   "active": "29584df0c91d87f4",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/Color code.md",
+    "3_🖥computer/Git.md",
+    "3_🖥computer/COMPUTER.md",
+    "3_🖥computer/2023-07-31 11-45 Su C++.md",
+    "3_🖥computer/C++.md",
+    "3_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
+    "3_🖥computer/7.10 2024-01-01 23-58 Su Pyenv.md",
+    "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
+    "3_🖥computer/7.02 2024-01-02 14-45 Su ZSh.md",
+    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
+    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/Color code.md",
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
@@ -218,19 +231,6 @@
     "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "0_📥Fleeting notes/dfd.md",
-    "0_📥Fleeting notes/8.04 2023-09-16 12-28 Su Wave for a particle.md",
-    "0_📥Fleeting notes/8.04 2023-09-06 12-11 Su Group velocity and stationary state.md",
-    "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
-    "1_🗃️Literature notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "0_📥Fleeting notes/s.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
     "0_📥Fleeting notes/assets/Pasted image 20220523015531.png",
     "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
     "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
