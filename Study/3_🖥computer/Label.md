@@ -1,0 +1,4 @@
+- 2.01 Statistics
+- 8.04 Quantum mechanics
+- 9.01 Math
+- 

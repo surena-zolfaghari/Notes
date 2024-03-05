@@ -4,89 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3334c3fbc74a235c",
+        "id": "d608449bcd9dd0bf",
         "type": "tabs",
         "children": [
           {
-            "id": "24c726f1d932267a",
+            "id": "6cb2215530468448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b46c71312337dd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c9dbd2ea0b374f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e35abc7e0c4d30b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0a22bd0e2c232acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "29584df0c91d87f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_🖥computer/COMPUTER.md",
+                "file": "3_🖥computer/Label.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2.01",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_🖥computer/COMPUTER.md",
+                "file": "3_🖥computer/Label.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -181,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3_🖥computer/COMPUTER.md"
+                "file": "3_🖥computer/Label.md"
               }
             }
           }
@@ -203,8 +138,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29584df0c91d87f4",
+  "active": "a13c9cd431e58921",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/9.01 2202-12-06 12-19 Su Fourier transform.md",
+    "3_🖥computer/Git in future.md",
+    "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
+    "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+    "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "3_🖥computer/Label.md",
     "3_🖥computer/Git.md",
     "3_🖥computer/COMPUTER.md",
     "3_🖥computer/2023-07-31 11-45 Su C++.md",
@@ -223,14 +166,6 @@
     "0_📥Fleeting notes/Neural Network.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/Supervised learning.md",
-    "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-    "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
-    "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/assets/Pasted image 20220523015531.png",
     "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
     "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
