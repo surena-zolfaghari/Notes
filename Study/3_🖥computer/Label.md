@@ -1,4 +1,7 @@
 - 2.01 Statistics
+- 8.01 Walter Lewin
+- 8.02 Walter Lewin
+- 8.03 Walter Lewin
 - 8.04 Quantum mechanics
 - 9.01 Math
 - 
