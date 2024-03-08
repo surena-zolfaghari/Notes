@@ -45,9 +45,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "41debcb4b9613a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_🖥computer/gravity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_🖥computer/elec.md",
+                "file": "3_🖥computer/gravity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -142,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3_🖥computer/elec.md"
+                "file": "3_🖥computer/gravity.md"
               }
             }
           }
@@ -164,10 +177,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cdc7e8d499048fd",
+  "active": "41debcb4b9613a6b",
   "lastOpenFiles": [
-    "3_🖥computer/Untitled.md",
     "3_🖥computer/elec.md",
+    "3_🖥computer/gravity.md",
+    "3_🖥computer/Untitled.md",
     "3_🖥computer/COMPUTER.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
@@ -191,7 +205,6 @@
     "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
     "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
     "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
     "0_📥Fleeting notes/assets/Pasted image 20220523015531.png",
     "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
     "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
