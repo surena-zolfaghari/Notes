@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+                "file": "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -26,7 +26,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20220523015531.png"
+                "file": "0_📥Fleeting notes/assets/Pasted image 20220526160506.png"
               }
             }
           },
@@ -36,12 +36,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md"
+                "file": "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20220526154904",
+                "query": "20220831143214",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20220523015531.png",
+                "file": "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -136,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20220523015531.png"
+                "file": "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md"
               }
             }
           }
@@ -158,14 +157,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6663cab8acc9fd74",
+  "active": "6cb2215530468448",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/assets/Pasted image 20220526154904.png",
-    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+    "0_📥Fleeting notes/assets/Pasted image 20220526160506.png",
+    "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 16.53.51.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
     "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
+    "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
+    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
+    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+    "0_📥Fleeting notes/assets/Pasted image 20220526160811.png",
     "0_📥Fleeting notes/assets/Pasted image 20220523015531.png",
     "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
+    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20220526154904.png",
+    "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
     "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "0_📥Fleeting notes/assets/Pasted image 20240124134155.png",
     "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
@@ -177,24 +189,11 @@
     "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "assets/Pasted image 20221225183741.png",
-    "assets/Pasted image 20230828222305.png",
-    "assets/Pasted image 20231217085409.png",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
     "0_📥Fleeting notes/Label.md",
     "4_Template/Sticker.md",
     "4_Template/Note Template.md",
-    "4_Template/temp.md",
-    "4_Template/Tags.md",
-    "3_🖥computer/Git in future.md",
-    "3_🖥computer/Linux configuration/2023-08-03 23-28 Su Obsidian icon.md",
-    "3_🖥computer/7.01 2023-07-25 20-00 Su Git.md",
-    "3_🖥computer/Linux configuration/2023-08-04 09-48 Su Zotero.md",
-    "3_🖥computer/7.16 2023-07-31 11-45 Su C++.md",
-    "3_🖥computer/Python.md",
-    "3_🖥computer/Linux.md",
-    "3_🖥computer/Untitled.md",
-    "3_🖥computer/elec.md",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets",
