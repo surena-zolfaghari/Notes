@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+                "file": "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md"
               }
             }
           },
@@ -40,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+                "file": "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -135,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md"
+                "file": "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md"
               }
             }
           }
@@ -157,44 +158,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cb2215530468448",
+  "active": "6663cab8acc9fd74",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/assets/Pasted image 20220831142838.png",
-    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 16.53.51.excalidraw.md",
-    "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
-    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
-    "1_🗃️Literature notes/assets/Pasted image 20220831170609.png",
-    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
-    "1_🗃️Literature notes/assets/Pasted image 20220831144618.png",
-    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
-    "0_📥Fleeting notes/assets/Pasted image 20220526160506.png",
+    "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-15 00.09.01.excalidraw.md",
     "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
-    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
+    "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 11-37 Su Neutron Stars.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 09-29 Su Rotating Objects, Moment of Inertia, Rotational KE.md",
+    "1_🗃️Literature notes/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
+    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
+    "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
     "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
-    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
-    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
-    "0_📥Fleeting notes/assets/Pasted image 20220526160811.png",
-    "0_📥Fleeting notes/assets/Pasted image 20220523015531.png",
-    "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
-    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
-    "0_📥Fleeting notes/assets/Pasted image 20220526154904.png",
-    "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
-    "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "0_📥Fleeting notes/assets/Pasted image 20240124134155.png",
-    "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-29 13.11.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
-    "3_🖥computer/COMPUTER'S content.md",
-    "0_📥Fleeting notes/assets/Pasted image 20240323132018.png",
+    "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240323133312.png",
     "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240129143433.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230828222429.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826133151.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826132422.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826132230.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
+    "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
     "0_📥Fleeting notes/Label.md",
-    "4_Template/Sticker.md",
-    "4_Template/Note Template.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
+    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
+    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+    "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
+    "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+    "0_📥Fleeting notes",
+    "1_🗃️Literature notes/0_📥Fleeting notes/assets",
+    "1_🗃️Literature notes/0_📥Fleeting notes",
     "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets",
@@ -202,10 +207,6 @@
     "3_🖥computer",
     "4_🖥computer/Linux configuration",
     "elec1",
-    "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4 1.pdf",
-    "0_📥Fleeting notes/assets/0c07cbdc9c352c39eb9539b31ded90d7_MIT8_04S16_LecNotes4.pdf",
-    "0_📥Fleeting notes/assets/f928b8dce3d6a218fddda9617c5eb4f2_MIT8_04S16_LecNotes3.pdf",
-    "Excalidraw/assets",
     "Untitled 1.canvas"
   ]
 }
