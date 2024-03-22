@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
+                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
+                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -136,7 +135,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md"
+                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md"
               }
             }
           }
@@ -158,14 +157,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6663cab8acc9fd74",
+  "active": "6cb2215530468448",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-15 00.09.01.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
     "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
     "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
+    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-15 00.09.01.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
     "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
     "1_🗃️Literature notes/8.01 2022-12-27 11-37 Su Neutron Stars.md",
     "1_🗃️Literature notes/8.01 2022-12-27 09-29 Su Rotating Objects, Moment of Inertia, Rotational KE.md",
@@ -196,7 +196,6 @@
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-    "0_📥Fleeting notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
     "1_🗃️Literature notes/0_📥Fleeting notes",
