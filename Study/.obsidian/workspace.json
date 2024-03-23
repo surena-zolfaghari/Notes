@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
+                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,23 +24,20 @@
             "id": "6663cab8acc9fd74",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "48ca473d06915287",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20220831143214",
+                "query": "Drawing 2023-05-28 20.36.05.excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -135,7 +131,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md"
+                "file": "Excalidraw/Drawing 2022-10-07 12.03.24.excalidraw.md"
               }
             }
           }
@@ -157,21 +153,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cb2215530468448",
+  "active": "331bd4eef2533f20",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-09-02 22.53.39.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-28 20.36.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
     "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
     "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
-    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
     "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
     "Excalidraw/Drawing 2023-02-15 00.09.01.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
     "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
     "1_🗃️Literature notes/8.01 2022-12-27 11-37 Su Neutron Stars.md",
     "1_🗃️Literature notes/8.01 2022-12-27 09-29 Su Rotating Objects, Moment of Inertia, Rotational KE.md",
     "1_🗃️Literature notes/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
     "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
-    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
     "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
     "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
@@ -192,10 +192,6 @@
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
-    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-    "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
     "1_🗃️Literature notes/0_📥Fleeting notes",
