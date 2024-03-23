@@ -24,8 +24,10 @@
             "id": "6663cab8acc9fd74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md"
+              }
             }
           },
           {
@@ -36,8 +38,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -131,7 +133,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2022-10-07 12.03.24.excalidraw.md"
+                "file": "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md"
               }
             }
           }
@@ -153,19 +155,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "6cb2215530468448",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-10 18.30.17.excalidraw.md",
+    "Excalidraw/Drawing 2022-12-12 14.20.23.excalidraw.md",
     "Excalidraw/Drawing 2022-09-02 22.53.39.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-12 12.53.47.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-30 18.17.33.excalidraw.md",
     "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
+    "Excalidraw/Drawing 2022-10-07 12.03.24.excalidraw.md",
     "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
     "Excalidraw/Drawing 2023-05-28 20.36.05.excalidraw.md",
     "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
     "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
     "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
     "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
     "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
-    "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
     "Excalidraw/Drawing 2023-02-15 00.09.01.excalidraw.md",
     "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
     "1_🗃️Literature notes/8.01 2022-12-27 11-37 Su Neutron Stars.md",
@@ -186,12 +194,6 @@
     "0_📥Fleeting notes/assets/Pasted image 20230826132230.png",
     "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
     "0_📥Fleeting notes/assets",
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/Label.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
-    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
     "1_🗃️Literature notes/0_📥Fleeting notes",
