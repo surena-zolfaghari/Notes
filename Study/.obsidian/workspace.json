@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+                "file": "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+                "file": "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -133,7 +133,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md"
+                "file": "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md"
               }
             }
           }
@@ -157,32 +157,35 @@
   },
   "active": "6cb2215530468448",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
-    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-26 11.25.12.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-23 14.21.40.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
     "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
     "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
     "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
-    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
-    "1_🗃️Literature notes/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-54 Su Faraday's cage.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-45 Su Electric potential.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
-    "Excalidraw/Drawing 2023-01-10 18.30.17.excalidraw.md",
-    "Excalidraw/Drawing 2022-12-12 14.20.23.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-02 22.53.39.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 16.53.51.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
+    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
+    "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "3_🖥computer/7.01 2023-07-25 20-00 Su Git.md",
+    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
+    "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
+    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+    "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "assets/Pasted image 20230828222305.png",
+    "assets/Pasted image 20231217085409.png",
+    "assets/Pasted image 20221225183741.png",
     "0_📥Fleeting notes/assets/Pasted image 20240323133312.png",
     "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
     "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
@@ -190,9 +193,6 @@
     "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
     "0_📥Fleeting notes/assets/Pasted image 20230828222429.png",
     "0_📥Fleeting notes/assets/Pasted image 20230826133151.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826132422.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826132230.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
