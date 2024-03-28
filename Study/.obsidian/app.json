@@ -5,7 +5,7 @@
   "trashOption": "local",
   "attachmentFolderPath": "./assets",
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "A4",
