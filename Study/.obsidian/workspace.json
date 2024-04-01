@@ -11,9 +11,12 @@
             "id": "c780b2e0db4a1b4f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20230201140618.png"
+                "file": "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:20230201140618",
+                "query": "file:20220903012103",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20230201140618.png",
+                "file": "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -113,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20230201140618.png"
+                "file": "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md"
               }
             }
           }
@@ -137,6 +140,8 @@
   },
   "active": "c780b2e0db4a1b4f",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/assets/Pasted image 20220903012103.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230201140618.png",
     "0_📥Fleeting notes/assets/Pasted image 20230201140544.png",
     "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
     "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
@@ -156,7 +161,6 @@
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
-    "0_📥Fleeting notes/assets/Pasted image 20220903012103.png",
     "Untitled.canvas",
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
@@ -173,7 +177,6 @@
     "Excalidraw/assets/Pasted Image 20230824230926_867.png",
     "Excalidraw/assets/Pasted Image 20230824225054_696.png",
     "assets/Pasted image 20230828222305.png",
-    "assets/Pasted image 20231217085409.png",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
