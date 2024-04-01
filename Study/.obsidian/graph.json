@@ -6,29 +6,7 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "quantum",
-      "color": {
-        "a": 1,
-        "rgb": 16189448
-      }
-    },
-    {
-      "query": "git",
-      "color": {
-        "a": 1,
-        "rgb": 4644183
-      }
-    },
-    {
-      "query": "physics",
-      "color": {
-        "a": 1,
-        "rgb": 1634034
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9bb64e2ddb3608a3",
+        "id": "1dd1acb7376471f1",
         "type": "tabs",
         "children": [
           {
-            "id": "bce7bba68b674910",
+            "id": "c780b2e0db4a1b4f",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Excalidraw/assets/Pasted Image 20230828222411_739.png"
+                "file": "0_📥Fleeting notes/assets/Pasted image 20230201140618.png"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:20230201140618",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/assets/Pasted Image 20230828222411_739.png",
+                "file": "0_📥Fleeting notes/assets/Pasted image 20230201140618.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -112,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/assets/Pasted Image 20230828222411_739.png"
+                "file": "0_📥Fleeting notes/assets/Pasted image 20230201140618.png"
               }
             }
           }
@@ -134,8 +135,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bce7bba68b674910",
+  "active": "c780b2e0db4a1b4f",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/assets/Pasted image 20230201140544.png",
+    "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
+    "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
+    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+    "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
+    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
+    "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "3_🖥computer/Linux configuration/2023-08-04 09-48 Su Zotero.md",
+    "3_🖥computer/7.01 2023-07-25 20-00 Su Git.md",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+    "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
+    "0_📥Fleeting notes/assets/Pasted image 20220903012103.png",
+    "Untitled.canvas",
+    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
+    "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
+    "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/Label.md",
+    "0_📥Fleeting notes/Untitled.md",
+    "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets/Pasted Image 20230825141109_993.png",
@@ -143,40 +174,10 @@
     "Excalidraw/assets/Pasted Image 20230824225054_696.png",
     "assets/Pasted image 20230828222305.png",
     "assets/Pasted image 20231217085409.png",
-    "3_🖥computer/Git in future.md",
-    "assets/Pasted image 20221225183741.png",
-    "3_🖥computer/Linux configuration/2023-08-04 09-48 Su Zotero.md",
-    "2_🗂️Permanent notes/Classical mechanics.md",
-    "2_🗂️Permanent notes/8.03x- Physics.md",
-    "2_🗂️Permanent notes/8.01 - Physics.md",
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/Label.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
-    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "1_🗃️Literature notes/8.04 22-12-04 15-25 Su THE UNCERTAINTY PRINCIPLE.md",
-    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
-    "1_🗃️Literature notes/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
-    "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
-    "1_🗃️Literature notes/8.01 2022-12-27 22-54 Su At the end of stars.md",
-    "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
-    "1_🗃️Literature notes/8.01 2022-12-27 11-37 Su Neutron Stars.md",
-    "1_🗃️Literature notes/8.01 2022-12-27 09-29 Su Rotating Objects, Moment of Inertia, Rotational KE.md",
-    "1_🗃️Literature notes/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
-    "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
-    "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
-    "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
-    "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
-    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
-    "0_📥Fleeting notes/assets/Pasted image 20240323133312.png",
-    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
-    "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
     "1_🗃️Literature notes/0_📥Fleeting notes",
-    "Untitled.canvas",
     "4_Template",
     "3_🖥computer/assets",
     "3_🖥computer/Linux configuration",
