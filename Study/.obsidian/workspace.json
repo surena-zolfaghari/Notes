@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+                "file": "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:20220903012103",
+                "query": "Pasted image 20230121000827",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
+                "file": "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md"
+                "file": "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md"
               }
             }
           }
@@ -138,11 +138,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c780b2e0db4a1b4f",
+  "active": "a13c9cd431e58921",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/assets/Pasted image 20220903012103.png",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "0_📥Fleeting notes/assets/Pasted image 20230201140618.png",
+    "0_📥Fleeting notes/assets/Pasted image 20220903012103.png",
     "0_📥Fleeting notes/assets/Pasted image 20230201140544.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230121000827.png",
     "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
     "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
     "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
@@ -175,8 +177,6 @@
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets/Pasted Image 20230825141109_993.png",
     "Excalidraw/assets/Pasted Image 20230824230926_867.png",
-    "Excalidraw/assets/Pasted Image 20230824225054_696.png",
-    "assets/Pasted image 20230828222305.png",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
