@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1dd1acb7376471f1",
+        "id": "3639d42a67be7ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "c780b2e0db4a1b4f",
+            "id": "f789fce2548f9db5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20230824210729",
+                "query": "Pasted image 20220131121318",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +133,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c780b2e0db4a1b4f",
+  "active": "a13c9cd431e58921",
   "lastOpenFiles": [
     "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
