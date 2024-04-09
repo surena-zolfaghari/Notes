@@ -11,8 +11,13 @@
             "id": "f789fce2548f9db5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20220831145036",
+                "query": "Pasted image 20220902124803",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
+                "file": "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -111,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md"
+                "file": "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md"
               }
             }
           }
@@ -135,6 +140,10 @@
   },
   "active": "a13c9cd431e58921",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/assets/Pasted image 20220902124803.png",
+    "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
+    "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+    "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
@@ -163,10 +172,6 @@
     "Untitled.canvas",
     "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-    "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
-    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
