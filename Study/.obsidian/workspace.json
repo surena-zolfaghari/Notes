@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3639d42a67be7ac2",
+        "id": "c0fda727acad22bf",
         "type": "tabs",
         "children": [
           {
-            "id": "f789fce2548f9db5",
+            "id": "a07771994d8554a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20220902151038",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -116,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md"
+                "file": "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md"
               }
             }
           }
@@ -138,45 +137,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a13c9cd431e58921",
+  "active": "a07771994d8554a4",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/assets/Pasted image 20220902124803.png",
-    "1_🗃️Literature notes/8.01 2022-09-02 11-10 Su Newton's laws.md",
-    "1_🗃️Literature notes/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+    "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 15-23 Su Bound states and Scattering states.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
+    "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
+    "1_🗃️Literature notes/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
     "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-45 Su Electric potential.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-54 Su Faraday's cage.md",
+    "1_🗃️Literature notes/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
+    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
+    "1_🗃️Literature notes/8.04 22-12-04 15-25 Su THE UNCERTAINTY PRINCIPLE.md",
+    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
+    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
+    "assets/Pasted image 20230828222305.png",
+    "1_🗃️Literature notes/assets/Pasted image 20220902124803.png",
     "0_📥Fleeting notes/assets/Pasted image 20230201140618.png",
     "0_📥Fleeting notes/assets/Pasted image 20220903012103.png",
     "0_📥Fleeting notes/assets/Pasted image 20230201140544.png",
     "0_📥Fleeting notes/assets/Pasted image 20230121000827.png",
-    "3_🖥computer/7.02 2023-07-31 11-22 Su Software for Linux.md",
-    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
-    "3_🖥computer/7.01 2023-08-08 22-06 Su Git restore.md",
-    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
-    "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
-    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
-    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
-    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
-    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
-    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
-    "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
-    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
-    "3_🖥computer/Linux configuration/2023-08-04 09-48 Su Zotero.md",
-    "3_🖥computer/7.01 2023-07-25 20-00 Su Git.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/assets/Pasted image 20220521131132.png",
     "Untitled.canvas",
-    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
-    "0_📥Fleeting notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
-    "Excalidraw/assets/Pasted Image 20230825141109_993.png",
-    "Excalidraw/assets/Pasted Image 20230824230926_867.png",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
