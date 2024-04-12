@@ -11,16 +11,37 @@
             "id": "a07771994d8554a4",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "dcc79d0a241743c2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2671bd9dde709a4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,8 +70,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Pasted image 20230825141228",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -66,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md"
+                "file": "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md"
               }
             }
           }
@@ -137,34 +159,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a07771994d8554a4",
+  "active": "a13c9cd431e58921",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 15-23 Su Bound states and Scattering states.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
-    "1_🗃️Literature notes/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
-    "1_🗃️Literature notes/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
-    "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
-    "1_🗃️Literature notes/8.01 2023-02-15 00-09 Su Doppler effect.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-45 Su Electric potential.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-54 Su Faraday's cage.md",
-    "1_🗃️Literature notes/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
-    "1_🗃️Literature notes/8.03 2022-11-04 08-50 Su SHO.md",
-    "1_🗃️Literature notes/8.04 22-12-04 15-25 Su THE UNCERTAINTY PRINCIPLE.md",
-    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
-    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-01 14.01.05.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-02 22.53.39.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 16.53.51.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
+    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "assets/Pasted image 20230828222305.png",
     "1_🗃️Literature notes/assets/Pasted image 20220902124803.png",
     "0_📥Fleeting notes/assets/Pasted image 20230201140618.png",
