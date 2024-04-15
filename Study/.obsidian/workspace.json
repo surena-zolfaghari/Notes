@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "Pasted image 20230826132230",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -136,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md"
+                "file": "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md"
               }
             }
           }
@@ -158,16 +159,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcc79d0a241743c2",
+  "active": "a13c9cd431e58921",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
-    "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
     "1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md",
