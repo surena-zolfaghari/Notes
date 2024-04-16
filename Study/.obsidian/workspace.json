@@ -4,19 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "cb7e47dddf282b58",
+        "id": "ac70335593023275",
         "type": "tabs",
         "children": [
           {
-            "id": "0d0131c008eba937",
+            "id": "3f6620b385793abc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "0_📥Fleeting notes/assets/Pasted image 20230718235915.png"
+              }
+            }
+          },
+          {
+            "id": "16ecbf8d52325fc7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/assets/Pasted image 20220523015531.png"
+              }
+            }
+          },
+          {
+            "id": "3f4f75ceae7496d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "88ebb1b4a1f397bd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/assets/Pasted image 20220523015531.png"
               }
             }
           }
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+                "file": "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md"
+                "file": "0_📥Fleeting notes/assets/Pasted image 20230718235915.png"
               }
             }
           }
@@ -137,44 +164,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d0131c008eba937",
+  "active": "3f6620b385793abc",
   "lastOpenFiles": [
-    "assets/Pasted image 20230828222305.png",
-    "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "Excalidraw/assets/Pasted image 20220905153642.png",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "Excalidraw/assets/Pasted image 20220523015531.png",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets/Pasted Image 20230825141109_993.png",
-    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
-    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 16.53.51.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-02 22.53.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
+    "Excalidraw/assets/Pasted image 20220521131132.png",
+    "Excalidraw/Drawing 2024-04-17 23.43.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
+    "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-29 13.11.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
+    "Excalidraw/Drawing 2024-04-17 23.12.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-17 23.29.49.excalidraw.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "Untitled.canvas",
+    "1_🗃️Literature notes/8.04 2022-10-04 12-09 Su Electron Interference.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/Label.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+    "Excalidraw/Drawing 2024-04-17 22.57.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-17 22.53.03.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
     "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
     "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
-    "1_🗃️Literature notes/assets/Pasted image 20220902124803.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230201140618.png",
-    "0_📥Fleeting notes/assets/Pasted image 20220903012103.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230201140544.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230121000827.png",
-    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
