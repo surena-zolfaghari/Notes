@@ -4,46 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ac70335593023275",
+        "id": "e2076cfd8054d999",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6620b385793abc",
+            "id": "b7334945ab6902a4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20230718235915.png"
-              }
-            }
-          },
-          {
-            "id": "16ecbf8d52325fc7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/assets/Pasted image 20220523015531.png"
-              }
-            }
-          },
-          {
-            "id": "3f4f75ceae7496d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "88ebb1b4a1f397bd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/assets/Pasted image 20220523015531.png"
+                "file": "0_📥Fleeting notes/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
+                "file": "0_📥Fleeting notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -142,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20230718235915.png"
+                "file": "0_📥Fleeting notes/Untitled.md"
               }
             }
           }
@@ -164,19 +137,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f6620b385793abc",
+  "active": "b7334945ab6902a4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "0_📥Fleeting notes/Untitled.md",
+    "Excalidraw/assets/Pasted image 20220523015531.png",
+    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "Excalidraw/assets/Pasted image 20220905153642.png",
     "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "Excalidraw/assets/Pasted image 20220523015531.png",
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets/Pasted Image 20230825141109_993.png",
     "Excalidraw/assets/Pasted image 20220521131132.png",
     "Excalidraw/Drawing 2024-04-17 23.43.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
-    "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
     "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
@@ -201,7 +176,6 @@
     "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
     "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
     "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
