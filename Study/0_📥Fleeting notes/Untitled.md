@@ -34,4 +34,48 @@ Imagine
 It's clear each component of new basis is twice of old basis and each component of $V$ new basis is half of the component of $V$ in old basis.
 
 Now let's pay to convector. I said vectors are column vectors and convectors are row vectors. Notice Convector is not about transpose.
-Paleo $\qquad$
+
+# part two
+
+
+So what is covector really? Think them as a function. They take vector and get a scalar.
+$$
+\begin{aligned}
+& \alpha: V_1 \rightarrow \mathbb{R} . \\
+& \underbrace{{\left[\begin{array}{ll}
+2 & 1
+\end{array}\right]}}_{\text{covetor}}\left[\begin{array}{l}
+3 \\
+4
+\end{array}\right]
+\end{aligned}
+$$
+
+## Covector Component
+Vector components of $2 e_1\; +\;1 e_2$ are $2,1$. Co-vectors are function, they don't live in vector space. So define $\epsilon^1, \epsilon^2$.
+$$
+\begin{aligned}
+\epsilon^2, \epsilon^1: \;& v \mapsto \mathbb{R} \\
+\epsilon^{\prime}\left(e_1\right)=1 \quad& \epsilon^{\prime}\left(e_2\right)=0 \\
+\epsilon^2\left(e_1\right)=0 \quad& \epsilon^2\left(e_2\right)=1
+\end{aligned}
+$$
+$\epsilon^1, \epsilon^2$ are basis of co-vectors. and pay to corrector components.
+$$
+\begin{aligned}
+& \epsilon^1(v)=\epsilon^1\left(v^1 e_1+v^2 e_2+\cdots\right)=v^{\prime} \\
+& \alpha=\alpha_1 \epsilon^{\prime}+\alpha_2 e^2 \quad\text { s.t } \quad\alpha_1=\alpha\left(e_1\right),\; \alpha_2=\alpha\left(e_2\right)
+\end{aligned}
+$$
+
+## What are $\epsilon^1, \epsilon^2$ ?
+
+
+
+## what are components?
+
+Note: vector component are measured by counting how many each basis vectors are used in the construction of a vector.
+Note, Convector components are measured by counting kew the number of corectorlines that the basis vector pierces.
+
+
+Example, $2 \epsilon^{\prime}+3 \epsilon^2$
