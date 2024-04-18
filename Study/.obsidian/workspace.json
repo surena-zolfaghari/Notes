@@ -13,10 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Untitled.md",
+                "file": "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1f53bd5536078e5c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-20 19.33.09.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5db27d5f06a1eded",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-20 19.36.53.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c30cb5eca8076899",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e67e6a8ae3a67835",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md"
               }
             }
           }
@@ -70,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 382.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -86,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Untitled.md",
+                "file": "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Untitled.md"
+                "file": "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md"
               }
             }
           }
@@ -139,8 +179,15 @@
   },
   "active": "b7334945ab6902a4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Excalidraw/Drawing 2024-04-20 19.33.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.36.53.excalidraw.md",
+    "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md",
+    "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
     "0_📥Fleeting notes/Untitled.md",
+    "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
+    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+    "0_📥Fleeting notes/Label.md",
+    "Untitled.md",
     "Excalidraw/assets/Pasted image 20220523015531.png",
     "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
     "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
@@ -166,16 +213,9 @@
     "Untitled.canvas",
     "1_🗃️Literature notes/8.04 2022-10-04 12-09 Su Electron Interference.md",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/Label.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
     "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
     "Excalidraw/Drawing 2024-04-17 22.57.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-17 22.53.03.excalidraw.md",
-    "1_🗃️Literature notes/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
-    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
