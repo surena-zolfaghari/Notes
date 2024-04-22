@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32c4a5611f90d15d",
+            "id": "7f72a5e5866023ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,26 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8843a40803ac69ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-20 12.28.08.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cee309e5b8440efa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md"
               }
             }
           }
@@ -157,43 +137,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32c4a5611f90d15d",
+  "active": "7f72a5e5866023ae",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-20 12.28.08.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240420122816_824.png",
+    "0_📥Fleeting notes/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
+    "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md",
+    "0_📥Fleeting notes/Untitled.md",
     "0_📥Fleeting notes/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
-    "0_📥Fleeting notes/assets/Pasted image 20240420122754.png",
-    "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20230826132317_334.png",
-    "Excalidraw/assets/Pasted Image 20240420122058_024.png",
-    "Excalidraw/assets/Pasted Image 20240420122218_640.png",
+    "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240421164708_994.png",
+    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240421163844_403.png",
+    "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240421163701_137.png",
+    "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240421124522_009.png",
     "Excalidraw/assets/Pasted Image 20240421101652_050.png",
     "Excalidraw/assets/Pasted Image 20240421102125_623.png",
     "Excalidraw/assets/Pasted Image 20240421102907_741.png",
     "Excalidraw/assets/Pasted Image 20240421103255_931.png",
-    "Excalidraw/assets/Pasted Image 20240421121751_889.png",
+    "Excalidraw/assets/Pasted Image 20240420122218_640.png",
+    "Excalidraw/assets/Pasted Image 20240420122058_024.png",
+    "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.28.08.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.39.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 19.33.09.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 12.17.46.excalidraw.md",
-    "0_📥Fleeting notes/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
-    "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
-    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 13.11.14.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-19 19.43.52.excalidraw.md",
-    "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2024-04-17 23.43.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-20 19.36.53.excalidraw.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
