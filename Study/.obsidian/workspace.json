@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
+                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,6 +52,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df39392b1ab7619e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
                 "mode": "source",
                 "backlinks": false,
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,13 +190,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8077ac93bc3f177",
+  "active": "df39392b1ab7619e",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/Mansouri.md",
-    "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
     "0_📥Fleeting notes/8.20 2024-04-23 22-26 Su Christoffel Symbols.md",
-    "0_📥Fleeting notes/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
-    "0_📥Fleeting notes/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
+    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+    "0_📥Fleeting notes/Mansouri.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
+    "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
+    "0_📥Fleeting notes/Tensor calculus",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
     "Excalidraw/Drawing 2024-04-23 11.26.00.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
     "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
@@ -196,7 +214,6 @@
     "Excalidraw/assets/Pasted Image 20240422213457_788.png",
     "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20240421163844_403.png",
-    "0_📥Fleeting notes/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
     "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20240421124522_009.png",
@@ -211,10 +228,6 @@
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
-    "0_📥Fleeting notes/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
-    "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md",
-    "0_📥Fleeting notes/Untitled.md",
-    "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
@@ -225,7 +238,6 @@
     "3_🖥computer/Linux configuration",
     "3_🖥computer",
     "4_🖥computer/Linux configuration",
-    "elec1",
     "Untitled 1.canvas"
   ]
 }
