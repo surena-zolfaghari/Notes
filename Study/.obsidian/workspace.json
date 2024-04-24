@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Christoffel Symbols.md",
+                "file": "0_📥Fleeting notes/8.20 2024-04-23 22-26 Su Christoffel Symbols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "260bfa0b9c8403d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/Mansouri.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8077ac93bc3f177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Christoffel Symbols.md",
+                "file": "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -129,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Christoffel Symbols.md"
+                "file": "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md"
               }
             }
           }
@@ -151,10 +177,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53b19e10482b45ce",
+  "active": "b8077ac93bc3f177",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Mansouri.md",
+    "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
+    "0_📥Fleeting notes/8.20 2024-04-23 22-26 Su Christoffel Symbols.md",
     "0_📥Fleeting notes/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
-    "0_📥Fleeting notes/Christoffel Symbols.md",
     "0_📥Fleeting notes/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
     "Excalidraw/Drawing 2024-04-23 11.26.00.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
@@ -187,8 +215,6 @@
     "0_📥Fleeting notes/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "0_📥Fleeting notes/Untitled.md",
     "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
