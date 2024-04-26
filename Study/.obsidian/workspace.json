@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b84bc9c6498b8c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53b19e10482b45ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.20 2024-04-23 22-26 Su Christoffel Symbols.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "260bfa0b9c8403d4",
             "type": "leaf",
             "state": {
@@ -47,25 +21,12 @@
             }
           },
           {
-            "id": "b8077ac93bc3f177",
+            "id": "6be57d84f8ab9c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df39392b1ab7619e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
+                "file": "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
+                "file": "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -168,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md"
+                "file": "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md"
               }
             }
           }
@@ -190,14 +151,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df39392b1ab7619e",
+  "active": "650f27f23a708b25",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.20 2024-04-23 22-26 Su Christoffel Symbols.md",
+    "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
+    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
     "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
+    "0_📥Fleeting notes/Label.md",
+    "0_📥Fleeting notes/Untitled.md",
+    "0_📥Fleeting notes/Untitled 1.md",
     "0_📥Fleeting notes/Mansouri.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
-    "0_📥Fleeting notes/8.20 2024-04-24 22-49 Su Geodesic Equations.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
     "0_📥Fleeting notes/Tensor calculus",
@@ -224,10 +190,6 @@
     "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.56.05.excalidraw.md",
-    "0_📥Fleeting notes/8.04 2024-01-06 18-11 Su Momentum space.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
