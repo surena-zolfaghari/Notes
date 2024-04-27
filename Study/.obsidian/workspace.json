@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Mansouri.md",
+                "file": "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
+                "file": "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
+                "file": "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -129,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md"
+                "file": "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md"
               }
             }
           }
@@ -151,17 +150,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "650f27f23a708b25",
+  "active": "260bfa0b9c8403d4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
+    "Untitled 1.canvas",
     "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
+    "0_📥Fleeting notes/Mansouri.md",
+    "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
     "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
     "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
     "0_📥Fleeting notes/Label.md",
-    "0_📥Fleeting notes/Untitled.md",
     "0_📥Fleeting notes/Untitled 1.md",
-    "0_📥Fleeting notes/Mansouri.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
@@ -189,7 +190,6 @@
     "Excalidraw/Drawing 2024-04-22 21.25.35.excalidraw.md",
     "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.56.05.excalidraw.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
@@ -199,7 +199,6 @@
     "3_🖥computer/assets",
     "3_🖥computer/Linux configuration",
     "3_🖥computer",
-    "4_🖥computer/Linux configuration",
-    "Untitled 1.canvas"
+    "4_🖥computer/Linux configuration"
   ]
 }
