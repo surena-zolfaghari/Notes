@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "302568508025a6a2",
+        "id": "946e53558a6bac3d",
         "type": "tabs",
         "children": [
           {
-            "id": "260bfa0b9c8403d4",
+            "id": "59484981c1e22161",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be57d84f8ab9c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -127,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,26 +129,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "260bfa0b9c8403d4",
+  "active": "59484981c1e22161",
   "lastOpenFiles": [
-    "Untitled.md",
-    "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
-    "Untitled 1.canvas",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
-    "0_📥Fleeting notes/Mansouri.md",
+    "Excalidraw/Drawing 2024-04-23 11.26.00.excalidraw.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
     "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
-    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
+    "0_📥Fleeting notes/Mansouri.md",
     "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/Label.md",
     "0_📥Fleeting notes/Untitled 1.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
     "0_📥Fleeting notes/Tensor calculus",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
-    "Excalidraw/Drawing 2024-04-23 11.26.00.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
     "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20240423102433_137.png",
@@ -188,8 +169,6 @@
     "Excalidraw/assets/Pasted Image 20240421164708_994.png",
     "Excalidraw/assets/Pasted Image 20240422184932_744.png",
     "Excalidraw/Drawing 2024-04-22 21.25.35.excalidraw.md",
-    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
     "Untitled.canvas",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
