@@ -11,8 +11,13 @@
             "id": "59484981c1e22161",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -108,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md"
+              }
             }
           }
         ]
@@ -131,6 +139,7 @@
   },
   "active": "59484981c1e22161",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
     "Excalidraw/Drawing 2024-04-23 11.26.00.excalidraw.md",
@@ -147,7 +156,6 @@
     "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/Label.md",
     "0_📥Fleeting notes/Untitled 1.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
     "0_📥Fleeting notes/Tensor calculus",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
