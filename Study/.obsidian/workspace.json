@@ -13,14 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-                "mode": "preview",
+                "file": "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d835255e50a5e08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6b8501b2bfba920f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+                "file": "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md"
+                "file": "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md"
               }
             }
           }
@@ -137,42 +158,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59484981c1e22161",
+  "active": "6b8501b2bfba920f",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
-    "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
-    "Excalidraw/Drawing 2024-04-23 11.26.00.excalidraw.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
-    "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-    "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
-    "0_📥Fleeting notes/Mansouri.md",
-    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
-    "Untitled.md",
-    "Untitled 1.canvas",
-    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "0_📥Fleeting notes/Label.md",
-    "0_📥Fleeting notes/Untitled 1.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
-    "0_📥Fleeting notes/Tensor calculus",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
-    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
-    "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240423102433_137.png",
-    "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240422215154_325.png",
-    "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240422213741_094.png",
-    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240422213457_788.png",
-    "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240421163844_403.png",
+    "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.33.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-05 00.16.52.excalidraw.md",
+    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
+    "Untitled 1.canvas",
+    "0_📥Fleeting notes/Tensor calculus",
+    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
+    "Excalidraw/assets/Pasted Image 20240423102433_137.png",
+    "Excalidraw/assets/Pasted Image 20240422215154_325.png",
+    "Excalidraw/assets/Pasted Image 20240422213741_094.png",
+    "Excalidraw/assets/Pasted Image 20240422213457_788.png",
+    "Excalidraw/assets/Pasted Image 20240421163844_403.png",
     "Excalidraw/assets/Pasted Image 20240421124522_009.png",
     "Excalidraw/assets/Pasted Image 20240421163701_137.png",
     "Excalidraw/assets/Pasted Image 20240421164708_994.png",
