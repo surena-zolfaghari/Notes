@@ -4,44 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "946e53558a6bac3d",
+        "id": "c06a3f17183aa463",
         "type": "tabs",
         "children": [
           {
-            "id": "59484981c1e22161",
+            "id": "b1a5851b94b11384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d835255e50a5e08",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6b8501b2bfba920f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -136,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -158,8 +137,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b8501b2bfba920f",
+  "active": "b1a5851b94b11384",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/Untitled.md",
+    "Untitled.md",
+    "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
+    "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
     "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
@@ -180,12 +165,6 @@
     "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-05 00.16.52.excalidraw.md",
-    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
     "Untitled 1.canvas",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
