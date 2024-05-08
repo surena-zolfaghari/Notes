@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b587c2ce5386e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/متن درسی.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb4eb3c682edcdbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/۴.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "0_📥Fleeting notes/۴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "0_📥Fleeting notes/۴.md"
               }
             }
           }
@@ -137,10 +164,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1a5851b94b11384",
+  "active": "bb4eb3c682edcdbd",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/Untitled.md",
+    "0_📥Fleeting notes/متن درسی.md",
+    "0_📥Fleeting notes/۴.md",
+    "0_📥Fleeting notes/Untitled 1.md",
+    "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "Untitled.md",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "1_🗃️Literature notes/Untitled.md",
     "1_🗃️Literature notes/8.04 2022-07-20 10-53 Su Operators In QM.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
@@ -159,12 +192,6 @@
     "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
     "Untitled 1.canvas",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
