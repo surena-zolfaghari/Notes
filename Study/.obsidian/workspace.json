@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bd9a1c80ab4466d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/10.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.md",
+                "file": "0_📥Fleeting notes/10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.md"
+                "file": "0_📥Fleeting notes/10.md"
               }
             }
           }
@@ -177,11 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6da5c33ed4977f2e",
+  "active": "7bd9a1c80ab4466d",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.md",
+    "0_📥Fleeting notes/10.md",
     "0_📥Fleeting notes/6.md",
     "0_📥Fleeting notes/متن درسی.md",
-    "0_📥Fleeting notes/8.md",
     "0_📥Fleeting notes/Untitled 1.md",
     "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
@@ -204,7 +218,6 @@
     "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
     "Untitled 1.canvas",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
