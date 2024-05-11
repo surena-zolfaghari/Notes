@@ -43,3 +43,7 @@ We impose the normalization condition:
 So, $d = -c$. This means the additional freedom $d_A$ doesn't contribute to the transformation, as it cancels out in the normalization condition.
 
 Thus, the transformation given is the only one that preserves the defining relations for the auxiliary null vector.
+
+
+
+XylyXylyX
