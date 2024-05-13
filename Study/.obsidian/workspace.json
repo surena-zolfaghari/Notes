@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Focusing theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -114,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "uniqueness.md"
+                "file": "Focusing theorem.md"
               }
             }
           }
@@ -136,14 +137,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "4ddfcafd0a8e51f2",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Untitled.md",
+    "uniqueness.md",
     "Focusing theorem.md",
     "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
-    "0_📥Fleeting notes/Untitled.md",
     "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
     "energy condition.md",
-    "uniqueness.md",
     "0_📥Fleeting notes/متن درسی.md",
     "0_📥Fleeting notes/6.md",
     "0_📥Fleeting notes/8.md",
