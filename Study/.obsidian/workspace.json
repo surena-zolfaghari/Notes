@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34b3df01287f077e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec9717db9c9a1b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1826e6071151b52f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/Untitled.md",
+                "file": "0_📥Fleeting notes/MAthematica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/Untitled.md",
+                "file": "0_📥Fleeting notes/MAthematica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -155,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/Untitled.md"
+                "file": "0_📥Fleeting notes/MAthematica.md"
               }
             }
           }
@@ -179,20 +152,20 @@
   },
   "active": "1826e6071151b52f",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Gravity Question/6.md",
+    "0_📥Fleeting notes/Gravity Question/Alex Flournoy.md",
     "0_📥Fleeting notes/Gravity Question/Untitled 1.md",
     "0_📥Fleeting notes/Gravity Question/Untitled.md",
+    "0_📥Fleeting notes/Gravity Question/xylyx.md",
     "0_📥Fleeting notes/Gravity Question/Mathematica Ehsan.md",
     "0_📥Fleeting notes/Gravity Question/Focusing theorem.md",
-    "0_📥Fleeting notes/Gravity Question/xylyx.md",
     "0_📥Fleeting notes/MAthematica.md",
-    "0_📥Fleeting notes/Gravity Question/Alex Flournoy.md",
     "0_📥Fleeting notes/Andrew Ng's Code.md",
     "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "0_📥Fleeting notes/Label.md",
-    "0_📥Fleeting notes/Gravity Question/6.md",
     "0_📥Fleeting notes/10.md",
     "0_📥Fleeting notes/Gravity Question",
     "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
