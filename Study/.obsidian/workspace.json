@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44971d2bc8025ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/MAthematica.md",
-                "mode": "source",
+                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/6.md",
+                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -128,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Gravity Question/6.md"
+                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md"
               }
             }
           }
@@ -152,15 +139,19 @@
   },
   "active": "1826e6071151b52f",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/Gravity Question/Alex Flournoy.md",
+    "0_📥Fleeting notes/MAthematica.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/Gravity Question/6.md",
     "0_📥Fleeting notes/Gravity Question/Untitled 1.md",
     "0_📥Fleeting notes/Gravity Question/xylyx.md",
-    "0_📥Fleeting notes/MAthematica.md",
-    "0_📥Fleeting notes/Gravity Question/6.md",
+    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+    "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
+    "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
+    "0_📥Fleeting notes/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/Gravity Question/Alex Flournoy.md",
     "0_📥Fleeting notes/Gravity Question/Untitled.md",
     "0_📥Fleeting notes/Gravity Question/Mathematica Ehsan.md",
     "0_📥Fleeting notes/Gravity Question/Focusing theorem.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
     "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
@@ -172,14 +163,10 @@
     "Untitled 1.canvas",
     "energy condition.md",
     "0_📥Fleeting notes/8.md",
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "0_📥Fleeting notes/متن درسی.md",
     "0_📥Fleeting notes/Untitled.md",
     "uniqueness.md",
     "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
-    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
-    "0_📥Fleeting notes/Mansouri.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
     "Excalidraw/assets/Pasted Image 20240423102433_137.png",
