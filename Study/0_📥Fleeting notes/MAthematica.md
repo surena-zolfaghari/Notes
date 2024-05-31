@@ -51,6 +51,9 @@ Zero terms
 - You can use this function without % at the end of line, If you want to do this in one step.
 
 https://youtu.be/nvLGEbW90lc?t=872
+
+
+
 ## References:
 
 ## Related:

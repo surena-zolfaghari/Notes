@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d761ed39995268b",
+        "id": "c2dc65f56efe722f",
         "type": "tabs",
         "children": [
           {
-            "id": "1826e6071151b52f",
+            "id": "772ab0a2ab946316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0_📥Fleeting notes/MAthematica.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -137,10 +137,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1826e6071151b52f",
+  "active": "772ab0a2ab946316",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/xCoba.md",
     "0_📥Fleeting notes/MAthematica.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "0_📥Fleeting notes/Gravity Question/6.md",
     "0_📥Fleeting notes/Gravity Question/Untitled 1.md",
     "0_📥Fleeting notes/Gravity Question/xylyx.md",
@@ -164,7 +165,6 @@
     "energy condition.md",
     "0_📥Fleeting notes/8.md",
     "0_📥Fleeting notes/متن درسی.md",
-    "0_📥Fleeting notes/Untitled.md",
     "uniqueness.md",
     "0_📥Fleeting notes/8.962 2024-04-24 22-49 Su Geodesic Equations.md",
     "0_📥Fleeting notes/Tensor calculus",
