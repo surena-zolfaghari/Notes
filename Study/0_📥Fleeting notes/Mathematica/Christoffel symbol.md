@@ -28,6 +28,11 @@ ChristoffelPDsph
 ChristoffelCD
 ChristoffelCDPDsph
 
+
+- [ ] covariant derivative associated to that metric
+
+
+The definition of the covariant derivative does not use the metric in space. However, for each metric there is a unique torsion-free covariant derivative called the Levi-Civita connection such that the covariant derivative of the metric is zero
 ## References:
 - CTensorEntries.nb
 - Christoffel.nb
