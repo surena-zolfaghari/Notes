@@ -8,19 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e94892b6e687440",
+            "id": "a1f30418f9523e9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
+            "id": "bebbfeea15398636",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "58b26fcf758291f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
+                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fbc60c4a384698c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/Ket space.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
+                "file": "0_📥Fleeting notes/Ket space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -115,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Mathematica/Christoffel symbol.md"
+                "file": "0_📥Fleeting notes/Ket space.md"
               }
             }
           }
@@ -137,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e94892b6e687440",
+  "active": "0fbc60c4a384698c",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/Ket space.md",
     "0_📥Fleeting notes/Gravity Question/chapter 3.md",
     "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
     "0_📥Fleeting notes/Mathematica/Untitled.md",
@@ -152,7 +188,6 @@
     "0_📥Fleeting notes/Gravity Question/11.md",
     "0_📥Fleeting notes/Gravity Question/6.md",
     "0_📥Fleeting notes/Gravity Question/xylyx.md",
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
     "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
@@ -167,7 +202,6 @@
     "0_📥Fleeting notes/Gravity Question",
     "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
     "Untitled 1.canvas",
-    "energy condition.md",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
     "Excalidraw/assets/Pasted Image 20240423102433_137.png",
