@@ -21,32 +21,100 @@
             "id": "bebbfeea15398636",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "58b26fcf758291f4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-                "mode": "preview",
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-54 Su 1. Wave Mechanics.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "0fbc60c4a384698c",
+            "id": "878755b4c37776d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Ket space.md",
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-51 Su 3. Wave Mechanics (continued) and Stern-Gerlach Experiment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e26378cacf55bbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-55 Su 4. Spin One-half, Bras, Kets, and Operators.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcd87ca35f51bb2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-56 Su 5. Linear Algebra Vector Spaces and Operators.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93e772448997a512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-57 Su 6. Linear Algebra Vector Spaces and Operators (continued).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "291e59d892af093f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-21 Su 7. Linear Algebra Vector Spaces and Operators (continued).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f35cf161ae95a2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-26 Su 8. Linear Algebra Vector Spaces and Operators (continued).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c46ac7a237989a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -120,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Ket space.md",
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -149,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/Ket space.md"
+                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md"
               }
             }
           }
@@ -171,36 +239,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fbc60c4a384698c",
+  "active": "c46ac7a237989a62",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-26 Su 8. Linear Algebra Vector Spaces and Operators (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-21 Su 7. Linear Algebra Vector Spaces and Operators (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-57 Su 6. Linear Algebra Vector Spaces and Operators (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-56 Su 5. Linear Algebra Vector Spaces and Operators.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-55 Su 4. Spin One-half, Bras, Kets, and Operators.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-51 Su 3. Wave Mechanics (continued) and Stern-Gerlach Experiment.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-55 Su 2.Wave Mechanics (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-54 Su 1. Wave Mechanics.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
     "0_📥Fleeting notes/Ket space.md",
-    "0_📥Fleeting notes/Gravity Question/chapter 3.md",
-    "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
-    "0_📥Fleeting notes/Mathematica/Untitled.md",
-    "0_📥Fleeting notes/Mathematica/MAthematica.md",
     "0_📥Fleeting notes/Mathematica/xCoba.md",
-    "0_📥Fleeting notes/Andrew Ng's Code.md",
-    "0_📥Fleeting notes/Mansouri.md",
-    "0_📥Fleeting notes/Mathematica",
-    "0_📥Fleeting notes/Gravity Question/Untitled 1.md",
-    "0_📥Fleeting notes/Gravity Question/Alex Flournoy.md",
-    "0_📥Fleeting notes/Gravity Question/11.md",
-    "0_📥Fleeting notes/Gravity Question/6.md",
-    "0_📥Fleeting notes/Gravity Question/xylyx.md",
-    "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
-    "0_📥Fleeting notes/8.962 2024-04-27 23-47 Su Event horizon.md",
-    "0_📥Fleeting notes/8.962 2024-04-26 20-58 Su Killing vector.md",
-    "0_📥Fleeting notes/Gravity Question/Mathematica Ehsan.md",
-    "0_📥Fleeting notes/Gravity Question/Focusing theorem.md",
-    "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+    "0_📥Fleeting notes/8.05",
+    "0_📥Fleeting notes/Mathematica/MAthematica.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
+    "1_🗃️Literature notes/9.01 2202-12-06 12-19 Su Fourier transform.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 15-23 Su Bound states and Scattering states.md",
+    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
+    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-    "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "0_📥Fleeting notes/Label.md",
-    "0_📥Fleeting notes/10.md",
+    "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
+    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
+    "0_📥Fleeting notes/Gravity Question/chapter 3.md",
+    "0_📥Fleeting notes/Mathematica/Untitled.md",
+    "0_📥Fleeting notes/Mathematica",
     "0_📥Fleeting notes/Gravity Question",
-    "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
     "Untitled 1.canvas",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/assets/Pasted Image 20240423112603_274.png",
@@ -219,7 +288,6 @@
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
     "1_🗃️Literature notes/0_📥Fleeting notes",
     "4_Template",
-    "3_🖥computer/assets",
-    "3_🖥computer/Linux configuration"
+    "3_🖥computer/assets"
   ]
 }
