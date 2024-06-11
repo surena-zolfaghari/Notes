@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b7c132066007cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vim",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.05/Spherical wave.md",
+                "file": "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -142,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.05/Spherical wave.md"
+                "file": "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md"
               }
             }
           }
@@ -164,10 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d971bae2e4a1dcdc",
+  "active": "9b7c132066007cdd",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.05/Spherical wave state.md",
+    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
+    "0_📥Fleeting notes/8.05/What are kets and wavefunctions?.md",
     "0_📥Fleeting notes/8.05/Spherical wave.md",
+    "0_📥Fleeting notes/8.05/Spherical wave state.md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-21 Su 7. Linear Algebra Vector Spaces and Operators (continued).md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
@@ -190,9 +207,6 @@
     "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
     "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-    "0_📥Fleeting notes/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-    "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
-    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "0_📥Fleeting notes/Mathematica",
     "0_📥Fleeting notes/Gravity Question",
     "Untitled 1.canvas",
