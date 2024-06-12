@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "721729f4350ffbeb",
+        "id": "f5d9b8c85c5211b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a1f30418f9523e9e",
+            "id": "6bac17d53888624e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
+                "file": "Quantum mechanics III.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,46 +21,19 @@
             }
           },
           {
-            "id": "019ce20672b09278",
+            "id": "7d82e09581052488",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.05/Spherical wave state.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d971bae2e4a1dcdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.05/Spherical wave.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b7c132066007cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
+                "file": "Quantum mechanics II.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vim",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
+                "file": "Quantum mechanics III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -156,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md"
+                "file": "Quantum mechanics III.md"
               }
             }
           }
@@ -178,16 +150,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b7c132066007cdd",
+  "active": "6bac17d53888624e",
   "lastOpenFiles": [
-    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
+    "Quantum mechanics II.md",
+    "Quantum mechanics III.md",
+    "Untitled.canvas",
+    "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
+    "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
     "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
     "0_📥Fleeting notes/8.05/What are kets and wavefunctions?.md",
-    "0_📥Fleeting notes/8.05/Spherical wave.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
     "0_📥Fleeting notes/8.05/Spherical wave state.md",
+    "0_📥Fleeting notes/8.05/Spherical wave.md",
+    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-21 Su 7. Linear Algebra Vector Spaces and Operators (continued).md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-51 Su 3. Wave Mechanics (continued) and Stern-Gerlach Experiment.md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-55 Su 2.Wave Mechanics (continued).md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-56 Su 5. Linear Algebra Vector Spaces and Operators.md",
@@ -203,10 +180,6 @@
     "1_🗃️Literature notes/9.01 2202-12-06 12-19 Su Fourier transform.md",
     "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04 2022-12-05 15-23 Su Bound states and Scattering states.md",
-    "0_📥Fleeting notes/8.962 2024-04-23 22-26 Su Christoffel Symbols.md",
-    "0_📥Fleeting notes/8.04 2024-01-07 22-39 Su Parseval identity.md",
-    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "0_📥Fleeting notes/Mathematica",
     "0_📥Fleeting notes/Gravity Question",
     "Untitled 1.canvas",
@@ -221,7 +194,6 @@
     "Excalidraw/assets/Pasted Image 20240421163701_137.png",
     "Excalidraw/assets/Pasted Image 20240421164708_994.png",
     "Excalidraw/assets/Pasted Image 20240422184932_744.png",
-    "Untitled.canvas",
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes",
     "1_🗃️Literature notes/0_📥Fleeting notes/assets",
