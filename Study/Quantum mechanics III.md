@@ -1,4 +1,3 @@
-
 L1.1 General problem. Non-degenerate perturbation theory
 L1.2 Setting up the perturbative equations
 L1.3 Calculating the energy corrections

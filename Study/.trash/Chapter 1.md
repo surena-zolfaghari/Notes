@@ -1,3 +1,4 @@
+# Problem 1
 A particle with electric charge $e$ moves in a spacetime with metric $g_{\alpha \beta}$ in the presence of a vector potential $A_\alpha$. The equations of motion are $u_{\alpha ; \beta} u^\beta=$ $e F_{\alpha \beta} u^\beta$, where $u^\alpha$ is the four-velocity and $F_{\alpha \beta}=A_{\beta ; \alpha}-A_{\alpha ; \beta}$. It is assumed that the spacetime possesses a Killing vector $\xi^\alpha$, so that $£_{\xi} g_{\alpha \beta}=£_{\xi} A_\alpha=0$.
 Prove that
 $$

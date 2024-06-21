@@ -27,7 +27,7 @@ Categories=Office;
 
 And after creating you should change $Exec=/home/surena/Dock/squashfs-root/obsidian$ and $Icon=/home/surena/Dock/squashfs-root/obsidian$
 
-
+ree
 ## References:
 
 ## Related:

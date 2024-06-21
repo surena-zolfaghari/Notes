@@ -4,33 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f5d9b8c85c5211b6",
+        "id": "9eaa80838b77bc4f",
         "type": "tabs",
         "children": [
           {
-            "id": "6bac17d53888624e",
+            "id": "61070dd2cc051e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum mechanics III.md",
-                "mode": "source",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "8.04 Quantum mechanics"
             }
           },
           {
-            "id": "7d82e09581052488",
+            "id": "25404222ef2cfd59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Quantum mechanics II.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ],
@@ -54,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -62,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -77,14 +82,17 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum mechanics II.md",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -108,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8.04 Quantum mechanics"
             }
           },
           {
@@ -120,7 +130,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -129,8 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Quantum mechanics II.md"
-              }
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 8.04 Quantum mechanics"
             }
           }
         ]
@@ -151,36 +165,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d82e09581052488",
+  "active": "25404222ef2cfd59",
   "lastOpenFiles": [
-    "Quantum mechanics III.md",
-    "Quantum mechanics II.md",
-    "Untitled.canvas",
-    "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
-    "1_🗃️Literature notes/8.01 2022-12-27 18-16 Su Angular momentum.md",
-    "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
+    "0_📥Fleeting notes/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
+    "0_📥Fleeting notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "0_📥Fleeting notes/Mansouri.md",
+    "0_📥Fleeting notes/Label.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
+    "0_📥Fleeting notes/Gravity Question/xylyx.md",
+    "0_📥Fleeting notes/Gravity Question/Alex Flournoy.md",
+    "Arrigo Sacchi.md",
+    "Untitled.md",
     "0_📥Fleeting notes/8.05/What are kets and wavefunctions?.md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
-    "0_📥Fleeting notes/8.05/Spherical wave state.md",
-    "0_📥Fleeting notes/8.05/Spherical wave.md",
-    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-21 Su 7. Linear Algebra Vector Spaces and Operators (continued).md",
+    "1_🗃️Literature notes/8.04 2022-12-05 12-50 Su Global properties of solutions.md",
+    "1_🗃️Literature notes/8.04 2022-12-05 12-26 Su Infinite square well and global trait.md",
+    "1_🗃️Literature notes/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
+    "1_🗃️Literature notes/8.04 2022-11-04 08-42 Su Importance of separation solutions of Schrodinger equation.md",
+    "1_🗃️Literature notes/8.04 2022-06-21 06-06 Su Wave Function.md",
+    "1_🗃️Literature notes/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-51 Su 3. Wave Mechanics (continued) and Stern-Gerlach Experiment.md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-55 Su 2.Wave Mechanics (continued).md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-56 Su 5. Linear Algebra Vector Spaces and Operators.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2022-06-20 06-05 Su Schrodinger Equation.md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-57 Su 6. Linear Algebra Vector Spaces and Operators (continued).md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-26 Su 8. Linear Algebra Vector Spaces and Operators (continued).md",
-    "0_📥Fleeting notes/Ket space.md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-55 Su 4. Spin One-half, Bras, Kets, and Operators.md",
-    "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-54 Su 1. Wave Mechanics.md",
-    "0_📥Fleeting notes/Mathematica/xCoba.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-21 Su 7. Linear Algebra Vector Spaces and Operators (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-56 Su 5. Linear Algebra Vector Spaces and Operators.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-51 Su 3. Wave Mechanics (continued) and Stern-Gerlach Experiment.md",
+    "0_📥Fleeting notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+    "0_📥Fleeting notes/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "Untitled.canvas",
     "0_📥Fleeting notes/8.05",
-    "0_📥Fleeting notes/Mathematica/MAthematica.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
-    "1_🗃️Literature notes/9.01 2202-12-06 12-19 Su Fourier transform.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "0_📥Fleeting notes/Mathematica",
     "0_📥Fleeting notes/Gravity Question",
     "Untitled 1.canvas",

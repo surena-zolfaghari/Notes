@@ -10,6 +10,6 @@
   "accentColor": "#e6005c",
   "nativeMenus": true,
   "showViewHeader": true,
-  "interfaceFontFamily": "IntelOne Mono",
+  "interfaceFontFamily": "IntelOne Mono,Cedarville Cursive",
   "textFontFamily": "IntelOne Mono,Cedarville Cursive"
 }
