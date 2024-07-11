@@ -1,3 +1,0 @@
-
-
-$$\alpha = x \int$ \alpha$$
