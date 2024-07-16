@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9eaa80838b77bc4f",
+        "id": "d32d510611d01341",
         "type": "tabs",
         "children": [
           {
-            "id": "61070dd2cc051e3f",
+            "id": "295675dbfecac2af",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "1_🗃️Literature notes/assets/Pasted image 20221004131629.png"
+                "file": "Excalidraw/assets/Pasted image 20220905153642.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20221004131629"
+              "title": "Pasted image 20220905153642"
+            }
+          },
+          {
+            "id": "ac356707f3f933cd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-07-16 12.39.09.excalidraw"
             }
           }
         ]
@@ -60,8 +72,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "\"![[Pasted image 20230718235915.png]]\"",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -148,12 +160,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61070dd2cc051e3f",
+  "active": "295675dbfecac2af",
   "lastOpenFiles": [
+    "Excalidraw/assets/Pasted image 20230718235915.png",
+    "Excalidraw/assets/Pasted image 20220905153642.png",
+    "Excalidraw/assets/Pasted image 20220521131132.png",
+    "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240716124102_511.png",
+    "Excalidraw/assets/Pasted image 20220523015531.png",
+    "Excalidraw/assets/Pasted image 20230718235915 1.png",
+    "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
+    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
+    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
+    "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "3_🖥computer/7.01 2023-07-25 20-00 Su Git.md",
+    "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
+    "1_🗃️Literature notes/assets/Pasted image 20221004131629.png",
+    "0_📥Fleeting notes/Andrew-Ng/Andrew Ng's Code.md",
+    "0_📥Fleeting notes/Andrew-Ng",
     "0_📥Fleeting notes/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/SR",
-    "1_🗃️Literature notes/assets/Pasted image 20221004131629.png",
     "0_📥Fleeting notes/QM I/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/QM I/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/QM I/8.04 2024-01-06 18-11 Su Momentum space.md",
@@ -163,40 +197,17 @@
     "0_📥Fleeting notes/QM I/8.04 2023-09-20 16-16 Su Wave for a particle.md",
     "0_📥Fleeting notes/QM I/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
     "0_📥Fleeting notes/QM I/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
-    "0_📥Fleeting notes/QM I/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "0_📥Fleeting notes/QM I",
     "0_📥Fleeting notes/QMI",
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230718235915.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230822104101.png",
-    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 14-46 Su Free Particle.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 12-50 Su Global properties of solutions.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 12-26 Su Infinite square well and global trait.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 15-23 Su Bound states and Scattering states.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-04 16-51 Su Solution of Schrodinger equation.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-11-04 08-42 Su Importance of separation solutions of Schrodinger equation.md",
     "1_🗃️Literature notes/Griffith",
-    "1_🗃️Literature notes/assets/f331813746.png",
     "1_🗃️Literature notes/assets",
     "1_🗃️Literature notes",
     "Untitled.canvas",
-    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
-    "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230825233113.png",
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/Mathematica",
     "0_📥Fleeting notes/Gravity Question",
-    "Untitled 1.canvas",
-    "0_📥Fleeting notes/Tensor calculus"
+    "Untitled 1.canvas"
   ]
 }
