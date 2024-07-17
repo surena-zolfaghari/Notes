@@ -11,12 +11,15 @@
             "id": "295675dbfecac2af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/assets/Pasted image 20220905153642.png"
+                "file": "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20220905153642"
+              "icon": "lucide-file",
+              "title": "7.01 2023-08-08 17-23 Su Amending older or multiple commit messages"
             }
           },
           {
@@ -162,24 +165,24 @@
   },
   "active": "295675dbfecac2af",
   "lastOpenFiles": [
-    "Excalidraw/assets/Pasted image 20230718235915.png",
-    "Excalidraw/assets/Pasted image 20220905153642.png",
-    "Excalidraw/assets/Pasted image 20220521131132.png",
     "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
+    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
+    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "Excalidraw/assets/Pasted image 20220905153642.png",
+    "Excalidraw/assets/Pasted image 20230718235915.png",
+    "Excalidraw/assets/Pasted image 20220521131132.png",
     "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
     "Excalidraw/assets/Pasted Image 20240716124102_511.png",
     "Excalidraw/assets/Pasted image 20220523015531.png",
     "Excalidraw/assets/Pasted image 20230718235915 1.png",
     "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
     "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
-    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
-    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
-    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
-    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
     "3_🖥computer/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
-    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
     "3_🖥computer/7.01 2023-07-25 20-00 Su Git.md",
     "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
     "1_🗃️Literature notes/assets/Pasted image 20221004131629.png",
