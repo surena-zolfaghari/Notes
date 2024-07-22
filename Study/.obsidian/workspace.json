@@ -11,12 +11,10 @@
             "id": "295675dbfecac2af",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/assets/Pasted Image 20240421124234_508.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20240421124234_508"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -160,8 +158,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "295675dbfecac2af",
+  "active": "331bd4eef2533f20",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-12 16.27.03.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240421124234_508.png",
     "Excalidraw/assets/Pasted Image 20240421103255_931.png",
     "Excalidraw/assets/Pasted Image 20240421102907_741.png",
     "Excalidraw/assets/Pasted Image 20240421102125_623.png",
@@ -171,13 +173,8 @@
     "Excalidraw/assets/Pasted Image 20230828222411_739.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
     "Excalidraw/assets/Pasted Image 20230826132317_334.png",
-    "Excalidraw/assets/Pasted Image 20230825141109_993.png",
-    "Excalidraw/assets/Pasted image 20220523015531.png",
-    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
     "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
     "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-12 16.27.03.excalidraw.md",
     "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "1_🗃️Literature notes/Griffith/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
     "0_📥Fleeting notes/QM I/8.04 2024-01-07 22-39 Su Parseval identity.md",
