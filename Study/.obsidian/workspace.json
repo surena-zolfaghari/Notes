@@ -11,10 +11,24 @@
             "id": "295675dbfecac2af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/assets/Pasted Image 20240421124522_009.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20240421124522_009"
+            }
+          },
+          {
+            "id": "e6ead458f6703148",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-01-29 14.32.00.excalidraw"
             }
           },
           {
@@ -29,7 +43,8 @@
               "title": "Drawing 2024-11-12 16.25.36.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,43 +173,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "e6ead458f6703148",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-12 16.27.03.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240421124234_508.png",
-    "Excalidraw/assets/Pasted Image 20240421103255_931.png",
-    "Excalidraw/assets/Pasted Image 20240421102907_741.png",
-    "Excalidraw/assets/Pasted Image 20240421102125_623.png",
-    "Excalidraw/assets/Pasted Image 20240421101652_050.png",
-    "Excalidraw/assets/Pasted Image 20240420122218_640.png",
-    "Excalidraw/assets/Pasted Image 20240420122058_024.png",
-    "Excalidraw/assets/Pasted Image 20230828222411_739.png",
-    "Excalidraw/assets/Pasted Image 20230826114359_831.png",
-    "Excalidraw/assets/Pasted Image 20230826132317_334.png",
-    "Excalidraw/Drawing 2024-05-05 00.17.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 19.33.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
     "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
-    "0_📥Fleeting notes/QM I/8.04 2024-01-07 22-39 Su Parseval identity.md",
-    "0_📥Fleeting notes/QM I/8.04 2024-01-06 18-11 Su Momentum space.md",
-    "0_📥Fleeting notes/QM I/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-    "0_📥Fleeting notes/QM I/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-    "0_📥Fleeting notes/QM I/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "0_📥Fleeting notes/QM I/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-    "0_📥Fleeting notes/QM I/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "0_📥Fleeting notes/QM I/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
-    "0_📥Fleeting notes/QM I/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "3_🖥computer/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
-    "3_🖥computer/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
-    "3_🖥computer/7.01 2023-07-31 11-01 Su Git two folder.md",
-    "3_🖥computer/7.01 2023-07-31 10-57 Su Tracking changes.md",
-    "3_🖥computer/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
-    "3_🖥computer/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
-    "3_🖥computer/7.01 2023-07-26 21-52 Su Branches.md",
-    "3_🖥computer/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
-    "3_🖥computer/7.01 2023-07-25 22-53 Su Git reset.md",
+    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-22 16.46.58.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20240422215154_325.png",
+    "Excalidraw/assets/Pasted Image 20240423102433_137.png",
+    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
+    "Excalidraw/assets/Pasted Image 20240716124102_511.png",
+    "Excalidraw/assets/Pasted Image 20241112162609_088.png",
+    "Excalidraw/assets/Pasted Image 20240722164707_057.png",
+    "Excalidraw/assets/Pasted Image 20240421124522_009.png",
+    "Excalidraw/assets/Pasted Image 20240421163844_403.png",
+    "Excalidraw/assets/Pasted Image 20240421164708_994.png",
+    "Excalidraw/assets/Pasted Image 20240421102907_741.png",
     "0_📥Fleeting notes/Andrew-Ng",
     "0_📥Fleeting notes/SR",
     "0_📥Fleeting notes/QM I",
