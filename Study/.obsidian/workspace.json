@@ -23,28 +23,43 @@
             "id": "e6ead458f6703148",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md"
+                "file": "Excalidraw/assets/Pasted image 20230822104101.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-01-29 14.32.00.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted image 20230822104101"
             }
           },
           {
-            "id": "a7d3755905f899d0",
+            "id": "8c2859304e228c83",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md"
+                "file": "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-12 16.25.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer"
+            }
+          },
+          {
+            "id": "aae98592132fcdc3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/assets/Pasted image 20230822104101.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20230822104101"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 377.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -173,8 +188,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6ead458f6703148",
+  "active": "8c2859304e228c83",
   "lastOpenFiles": [
+    "Excalidraw/assets/Pasted image 20230822104101.png",
+    "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "Excalidraw/assets/Pasted Image 20240421124522_009.png",
+    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
+    "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
+    "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826133151.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230825233113.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230825210629.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
+    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
+    "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
     "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
@@ -192,25 +225,6 @@
     "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-22 16.46.58.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240422215154_325.png",
-    "Excalidraw/assets/Pasted Image 20240423102433_137.png",
-    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
-    "Excalidraw/assets/Pasted Image 20240716124102_511.png",
-    "Excalidraw/assets/Pasted Image 20241112162609_088.png",
-    "Excalidraw/assets/Pasted Image 20240722164707_057.png",
-    "Excalidraw/assets/Pasted Image 20240421124522_009.png",
-    "Excalidraw/assets/Pasted Image 20240421163844_403.png",
-    "Excalidraw/assets/Pasted Image 20240421164708_994.png",
-    "Excalidraw/assets/Pasted Image 20240421102907_741.png",
     "0_📥Fleeting notes/Andrew-Ng",
     "0_📥Fleeting notes/SR",
     "0_📥Fleeting notes/QM I",
