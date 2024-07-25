@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d32d510611d01341",
+        "id": "c098cf4848d51793",
         "type": "tabs",
         "children": [
           {
-            "id": "295675dbfecac2af",
+            "id": "85e0c4fe16270438",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Excalidraw/assets/Pasted Image 20240421124522_009.png"
+                "file": "Excalidraw/assets/Pasted image 20230822104341.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted Image 20240421124522_009"
+              "title": "Pasted image 20230822104341"
             }
           },
           {
-            "id": "e6ead458f6703148",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/assets/Pasted image 20230822104101.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20230822104101"
-            }
-          },
-          {
-            "id": "8c2859304e228c83",
+            "id": "11881b7bc5082764",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,21 +33,8 @@
               "icon": "lucide-file",
               "title": "8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer"
             }
-          },
-          {
-            "id": "aae98592132fcdc3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/assets/Pasted image 20230822104101.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20230822104101"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,12 +163,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c2859304e228c83",
+  "active": "331bd4eef2533f20",
   "lastOpenFiles": [
-    "Excalidraw/assets/Pasted image 20230822104101.png",
     "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "Excalidraw/assets/Pasted image 20230822104341.png",
+    "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
     "Excalidraw/assets/Pasted Image 20240421124522_009.png",
-    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
     "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
     "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
     "0_📥Fleeting notes/assets/Pasted image 20240124134254.png",
@@ -201,7 +176,7 @@
     "0_📥Fleeting notes/assets/Pasted image 20230826121601.png",
     "0_📥Fleeting notes/assets/Pasted image 20230825233113.png",
     "0_📥Fleeting notes/assets/Pasted image 20230825210629.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
+    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
     "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
