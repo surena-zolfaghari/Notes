@@ -11,27 +11,27 @@
             "id": "85e0c4fe16270438",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/assets/Pasted image 20230822104341.png"
+                "file": "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20230822104341"
+              "icon": "lucide-file",
+              "title": "8.04 2023-08-23 10-17 Su More on superposition"
             }
           },
           {
             "id": "11881b7bc5082764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/assets/Pasted image 20230824210729.png"
               },
-              "icon": "lucide-file",
-              "title": "8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer"
+              "icon": "lucide-image",
+              "title": "Pasted image 20230824210729"
             }
           }
         ]
@@ -163,11 +163,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "85e0c4fe16270438",
   "lastOpenFiles": [
+    "Excalidraw/assets/Pasted image 20230824210729.png",
+    "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "Excalidraw/assets/Pasted image 20230822104341.png",
-    "0_📥Fleeting notes/assets/Pasted image 20230824210729.png",
     "Excalidraw/assets/Pasted Image 20240421124522_009.png",
     "0_📥Fleeting notes/assets/Pasted image 20240201145432.png",
     "0_📥Fleeting notes/assets/Pasted image 20240131145117.png",
@@ -199,7 +200,6 @@
     "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
     "0_📥Fleeting notes/Andrew-Ng",
     "0_📥Fleeting notes/SR",
     "0_📥Fleeting notes/QM I",
