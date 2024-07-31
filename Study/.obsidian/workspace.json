@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20240124134254.png"
+                "file": "0_📥Fleeting notes/assets/Pasted image 20240131145117.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20240124134254"
+              "title": "Pasted image 20240131145117"
             }
           }
         ]
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "20240124134254",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,6 +150,7 @@
   },
   "active": "84a0ba06b2283e90",
   "lastOpenFiles": [
+    "Excalidraw/assets/Pasted image 20240124134254.png",
     "Excalidraw/assets/Pasted image 20230826133151.png",
     "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "Excalidraw/assets/Pasted image 20230826121601.png",
