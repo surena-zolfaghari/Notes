@@ -11,12 +11,15 @@
             "id": "84a0ba06b2283e90",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/assets/Pasted image 20240131145117.png"
+                "file": "1_🗃️Literature notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240131145117"
+              "icon": "lucide-file",
+              "title": "8.04 2023-09-02 07-00 Su de Broglie's proposal"
             }
           }
         ]
@@ -60,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240124134254",
+                "query": "20240131145117",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +74,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,6 +154,8 @@
   },
   "active": "84a0ba06b2283e90",
   "lastOpenFiles": [
+    "Excalidraw/assets/Pasted image 20240131145117.png",
+    "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "Excalidraw/assets/Pasted image 20240124134254.png",
     "Excalidraw/assets/Pasted image 20230826133151.png",
     "1_🗃️Literature notes/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
@@ -161,8 +167,6 @@
     "Excalidraw/assets/Pasted Image 20240420122058_024.png",
     "Excalidraw/assets/Pasted Image 20240421101652_050.png",
     "Excalidraw/assets/Pasted Image 20240421124234_508.png",
-    "Excalidraw/assets/Pasted Image 20240421124522_009.png",
-    "Excalidraw/assets/Pasted Image 20240421163701_137.png",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
@@ -185,7 +189,6 @@
     "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
     "0_📥Fleeting notes/Andrew-Ng",
     "0_📥Fleeting notes/SR",
     "0_📥Fleeting notes/QM I",
