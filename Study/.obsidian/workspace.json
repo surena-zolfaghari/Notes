@@ -11,15 +11,12 @@
             "id": "84a0ba06b2283e90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "1_🗃️Literature notes/assets/f331813746.png"
               },
-              "icon": "lucide-file",
-              "title": "What does the inner product between two vectors represent in quantum mechanics?"
+              "icon": "lucide-image",
+              "title": "f331813746"
             }
           }
         ]
@@ -63,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240201145432",
+                "query": "20221004131629",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,9 +150,16 @@
   },
   "active": "84a0ba06b2283e90",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
+    "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
+    "Excalidraw/assets/Pasted image 20221004131629.png",
+    "1_🗃️Literature notes/Griffith/8.04 2022-10-04 12-09 Su Electron Interference.md",
+    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+    "0_📥Fleeting notes/Label.md",
+    "3_🖥computer/COMPUTER'S content.md",
+    "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "0_📥Fleeting notes/assets/Pasted image 20240802222155.png",
     "0_📥Fleeting notes/assets",
-    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
     "Excalidraw/assets/Pasted image 20240201145432.png",
     "Excalidraw/assets/Pasted image 20240131145117.png",
     "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
@@ -166,10 +170,6 @@
     "Excalidraw/assets/Pasted image 20230826121601.png",
     "Excalidraw/assets/Pasted image 20230825233113.png",
     "1_🗃️Literature notes/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "Excalidraw/assets/Pasted image 20230825210629.png",
-    "Excalidraw/assets/Pasted Image 20230828222411_739.png",
-    "Excalidraw/assets/Pasted Image 20240420122058_024.png",
-    "Excalidraw/assets/Pasted Image 20240421101652_050.png",
     "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
@@ -186,13 +186,9 @@
     "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 19.33.09.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
     "0_📥Fleeting notes/Andrew-Ng",
     "0_📥Fleeting notes/SR",
-    "0_📥Fleeting notes/QM I",
+    "0_📥Fleeting notes/8.04",
     "0_📥Fleeting notes/QMI",
     "1_🗃️Literature notes/Griffith",
     "1_🗃️Literature notes/assets",
