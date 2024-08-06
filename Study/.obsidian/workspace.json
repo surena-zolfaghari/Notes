@@ -4,281 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e283bc3a42c82b81",
+        "id": "7512a326cefb3e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "84a0ba06b2283e90",
+            "id": "ad9cc6c641ad88df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum mechanics III.md",
+                "file": "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantum mechanics III"
-            }
-          },
-          {
-            "id": "52c567ad52ce4bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 16.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 16"
-            }
-          },
-          {
-            "id": "0dc8f8b292c8e454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 17.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 17"
-            }
-          },
-          {
-            "id": "b5271fb851dfd6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 18"
-            }
-          },
-          {
-            "id": "438f59533e8f364d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 19.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 19"
-            }
-          },
-          {
-            "id": "0ec8df07ecd6b4b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 20.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 20"
-            }
-          },
-          {
-            "id": "a6d25bac42821eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 21.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 21"
-            }
-          },
-          {
-            "id": "9cc20428b0cbdb79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 22.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 22"
-            }
-          },
-          {
-            "id": "cc8cb79727d4bf66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 23"
-            }
-          },
-          {
-            "id": "30321d4e99523396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 24.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 24"
-            }
-          },
-          {
-            "id": "fa372a5da15f3fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 25.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 25"
-            }
-          },
-          {
-            "id": "76ff2ab9531ee5e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 26.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 26"
-            }
-          },
-          {
-            "id": "2fe5f3a3a3575182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 27.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 27"
-            }
-          },
-          {
-            "id": "2ef0bda8522377b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 28.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 28"
-            }
-          },
-          {
-            "id": "6971308c9ee5ab25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 29.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 29"
-            }
-          },
-          {
-            "id": "768e6f0cf2edcc10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 30.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 30"
-            }
-          },
-          {
-            "id": "52120c67d93ebaf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 31.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 31"
-            }
-          },
-          {
-            "id": "5b4e5f2cb638b9e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 32.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 32"
+              "title": "8.04 2023-08-14 21-16 Su Linear and nonlinear theories"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -407,10 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b4e5f2cb638b9e5",
+  "active": "ad9cc6c641ad88df",
   "lastOpenFiles": [
-    "Untitled 31.md",
+    "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "Untitled 32.md",
+    "Untitled 31.md",
     "Untitled 30.md",
     "Untitled 29.md",
     "Untitled 28.md",
@@ -426,14 +173,11 @@
     "Untitled 18.md",
     "Untitled 17.md",
     "Untitled 16.md",
-    "Quantum mechanics III.md",
+    "Untitled 15.md",
+    "Untitled 14.md",
     "Untitled 13.md",
     "Untitled 12.md",
     "Untitled 11.md",
-    "Untitled 9.md",
-    "Untitled 4.md",
-    "Untitled 15.md",
-    "Untitled 14.md",
     "Untitled 10.md",
     "1_🗃️Literature notes/assets/f331813746.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
