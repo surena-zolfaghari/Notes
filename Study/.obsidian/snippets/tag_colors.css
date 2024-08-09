@@ -88,3 +88,15 @@ background-color: #333333;
 .img-grid .markdown-preview-section img:not([width]) {
     width:100%;
 }
+
+
+.centered-wave {
+    text-align: center;
+    font-size: 1.5em;  /* You can adjust this to make the text larger or smaller */
+    font-weight: bold; /* Optional: makes the text bold */
+    color: #ff0000; /* Optional: makes the text red */
+}
+
+
+
+

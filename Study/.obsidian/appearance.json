@@ -4,7 +4,8 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "tags",
-    "tag_colors"
+    "tag_colors",
+    "centered"
   ],
   "translucency": false,
   "accentColor": "#e6005c",

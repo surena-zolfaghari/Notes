@@ -19,7 +19,7 @@ Remind this point the above equation is right for first order. it's not true gen
 
 ### What is the shortest line between two points?
 Shortest means minimum. Minimum means stationary.
-![[Pasted image 20220521131132.png]]
+![[Pasted image 20220521131132.png|#right]]
 $$ds = \sqrt {dx^2+dy^2} = \sqrt {1+\dfrac {dy^2}{dx^2}}dx$$
 now for minimizing the length of curve, we should minimize $S_{12}$ 
 $$S_{12}= \int \sqrt {1+\dfrac {dy^2}{dx^2}}dx$$
