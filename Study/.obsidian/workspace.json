@@ -13,21 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian's Latex.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian's Latex"
-            }
-          },
-          {
-            "id": "aca2be3207f26fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "0_📥Fleeting notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
                 "mode": "source",
                 "backlinks": false,
@@ -38,37 +23,21 @@
             }
           },
           {
-            "id": "cca0cbb3e1fee921",
+            "id": "fce5fdc2bfa9c58d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations"
-            }
-          },
-          {
-            "id": "37f29c6774e93884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+                "file": "Obsidian's Latex.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.04 Quantum mechanics"
+              "title": "Obsidian's Latex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 435.5
   },
   "right": {
     "id": "237f0b8f2e7d5e1a",
@@ -197,26 +166,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aca2be3207f26fc3",
+  "active": "08b55cbbaa3e4564",
   "lastOpenFiles": [
-    "Obsidian's Latex.md",
-    "0_📥Fleeting notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "2_🗂️Permanent notes/8.01 - Physics.md",
-    "0_📥Fleeting notes/8.04/Untitled.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
-    "1_🗃️Literature notes/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
-    "1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "1_🗃️Literature notes/Untitled.md",
+    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+    "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
+    "Obsidian's Latex.md",
+    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-54 Su Faraday's cage.md",
+    "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-39 Su Parseval identity.md",
+    "0_📥Fleeting notes/8.04/8.04 2023-09-20 16-16 Su Wave for a particle.md",
+    "6_Tochal/Untitled 32.md",
+    "6_Tochal/Untitled 31.md",
+    "6_Tochal/Untitled 30.md",
+    "6_Tochal/Untitled 29.md",
+    "6_Tochal/Untitled 28.md",
+    "6_Tochal/Untitled 27.md",
+    "6_Tochal/Untitled 26.md",
+    "6_Tochal/Untitled 25.md",
+    "6_Tochal/Untitled 24.md",
+    "6_Tochal/Untitled 23.md",
+    "6_Tochal/Untitled 22.md",
+    "6_Tochal/Untitled 21.md",
+    "6_Tochal/Untitled 20.md",
     "5_Excalidraw/assets/Pasted image 20240201145432.png",
     "5_Excalidraw/assets/Pasted image 20240131145117.png",
     "5_Excalidraw/assets/Pasted image 20240124134254.png",
@@ -228,14 +205,6 @@
     "5_Excalidraw/assets/Pasted image 20230822104341.png",
     "5_Excalidraw/assets/Pasted image 20230822104101.png",
     "5_Excalidraw/assets",
-    "5_Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
     "5_Excalidraw",
     "6_Tochal",
     "6-Tochal",

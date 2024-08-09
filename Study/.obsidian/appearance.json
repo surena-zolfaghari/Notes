@@ -5,7 +5,8 @@
   "enabledCssSnippets": [
     "tags",
     "tag_colors",
-    "centered"
+    "centered",
+    "centered-text"
   ],
   "translucency": false,
   "accentColor": "#e6005c",
