@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d6d18796e723ec1",
+        "id": "015df77a700ea805",
         "type": "tabs",
         "children": [
           {
-            "id": "08b55cbbaa3e4564",
+            "id": "1e076226d3670c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+                "file": "1_🗃️Literature notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,21 +23,22 @@
             }
           },
           {
-            "id": "fce5fdc2bfa9c58d",
+            "id": "24e18b7e3208d592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian's Latex.md",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian's Latex"
+              "title": "8.04 Quantum mechanics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,34 +167,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08b55cbbaa3e4564",
+  "active": "24e18b7e3208d592",
   "lastOpenFiles": [
     "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
-    "Obsidian's Latex.md",
-    "1_🗃️Literature notes/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-54 Su Faraday's cage.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-39 Su Parseval identity.md",
-    "0_📥Fleeting notes/8.04/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-    "6_Tochal/Untitled 32.md",
-    "6_Tochal/Untitled 31.md",
-    "6_Tochal/Untitled 30.md",
-    "6_Tochal/Untitled 29.md",
-    "6_Tochal/Untitled 28.md",
-    "6_Tochal/Untitled 27.md",
-    "6_Tochal/Untitled 26.md",
-    "6_Tochal/Untitled 25.md",
-    "6_Tochal/Untitled 24.md",
-    "6_Tochal/Untitled 23.md",
-    "6_Tochal/Untitled 22.md",
-    "6_Tochal/Untitled 21.md",
+    "1_🗃️Literature notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+    "6_Tochal/Untitled 18.md",
+    "6_Tochal/Untitled 19.md",
     "6_Tochal/Untitled 20.md",
+    "6_Tochal/Untitled 21.md",
+    "6_Tochal/Untitled 22.md",
+    "6_Tochal/Untitled 23.md",
+    "6_Tochal/Untitled 24.md",
+    "6_Tochal/Untitled 25.md",
+    "6_Tochal/Untitled 26.md",
+    "6_Tochal/Untitled 27.md",
+    "6_Tochal/Untitled 28.md",
+    "6_Tochal/Untitled 29.md",
+    "6_Tochal/Untitled 30.md",
+    "6_Tochal/Untitled 31.md",
+    "6_Tochal/Untitled 32.md",
+    "6_Tochal/Untitled 4.md",
+    "6_Tochal/Untitled 3.md",
+    "6_Tochal/Untitled 5.md",
+    "6_Tochal/Untitled 7.md",
+    "6_Tochal/Untitled 17.md",
+    "6_Tochal/Untitled 16.md",
+    "6_Tochal/Untitled 15.md",
     "5_Excalidraw/assets/Pasted image 20240201145432.png",
     "5_Excalidraw/assets/Pasted image 20240131145117.png",
     "5_Excalidraw/assets/Pasted image 20240124134254.png",

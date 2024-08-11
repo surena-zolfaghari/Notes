@@ -18,7 +18,7 @@
   "communityThemeSortOrder": "download",
   "defaultViewMode": "source",
   "strictLineBreaks": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "foldIndent": true,
   "showInlineTitle": true,
