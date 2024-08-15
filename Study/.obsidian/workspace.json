@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae6c1f2d733f0038",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-08-11 12.08.18.excalidraw"
-            }
-          },
-          {
             "id": "24e18b7e3208d592",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md"
+                "file": "0_📥Fleeting notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-08-14 12.47.38.excalidraw"
+              "icon": "lucide-file",
+              "title": "8.04 2023-09-09 17-07 Su Group velocity and stationary state"
             }
           },
           {
@@ -55,8 +46,7 @@
               "title": "Drawing 2024-08-14 12.47.38.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +178,8 @@
   },
   "active": "24e18b7e3208d592",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
     "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
+    "0_📥Fleeting notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary state.md",
     "Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
     "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
     "Excalidraw/Drawing 2024-08-14 12.47.29.excalidraw.md",
