@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "015df77a700ea805",
+        "id": "a4f5e9a496540ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "24e18b7e3208d592",
+            "id": "c39c392ebe5c2abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation"
+              "title": "New tab"
             }
           }
         ]
@@ -151,10 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24e18b7e3208d592",
+  "active": "c39c392ebe5c2abd",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
     "0_📥Fleeting notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+    "1_🗃️Literature notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
     "1_🗃️Literature notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
