@@ -1,0 +1,109 @@
+Quantum mechanics as a framework. Defining linearity
+Linearity and nonlinear theories. Schrödinger's equation
+Necessity of complex numbers
+Photons and the loss of determinism
+The nature of superposition. Mach-Zehnder interferometer
+More on superposition. General state of a photon and spin states
+Entanglement
+Mach-Zehnder interferometers and beam splitters
+Interferometer and interference
+Elitzur-Vaidman bombs
+The photoelectric effect
+Units of h and Compton wavelength of particles
+Compton Scattering
+de Broglie’s proposal
+de Broglie wavelength in different frames
+Galilean transformation of ordinary waves
+The frequency of a matter wave
+Group velocity and stationary phase approximation
+Motion of a wave-packet
+The wave for a free particle
+Momentum operator, energy operator, and a differential equation
+Free Schrödinger equation
+The general Schrödinger equation. x, p commutator
+Commutators, matrices, and -dimensional Schrödinger equation
+Interpretation of the wavefunction
+Normalizable wavefunctions and the question of time evolution
+Is probability conserved? Hermiticity of the Hamiltonian
+Probability current and current conservation
+Three dimensional current and conservation
+Wavepackets and Fourier representation
+Reality condition in Fourier transforms
+Widths and uncertainties
+Shape changes in a wave
+Time evolution of a free particle wavepacket
+Fourier transforms and delta functions
+Parseval identity
+Three-dimensional Fourier transforms
+Expectation values of operators
+Time dependence of expectation values
+Expectation value of Hermitian operators
+Eigenfunctions of a Hermitian operator
+Completeness of eigenvectors and measurement postulate
+Consistency condition. Particle on a circle
+Defining uncertainty
+Uncertainty and eigenstates
+Expectation values on stationary states
+Comments on the spectrum and continuity conditions
+Solving particle on a circle
+Energy eigenstates for particle on a circle
+Infinite square well energy eigenstates
+Nodes and symmetries of the infinite square well eigenstates
+Finite square well. Setting up the problem
+Finite square well energy eigenstates
+Nondegeneracy of bound states in D. Real solutions
+Potentials that satisfy V(-x) = V(x)
+Local picture of the wavefunction
+Energy eigenstates on a generic symmetric potential. Shooting method
+Node Theorem
+Behavior of the differential equation
+Recursion relation for the solution
+Quantization of the energy
+Algebraic solution of the harmonic oscillator
+Ground state wavefunction
+Number operator and commutators
+Excited states of the harmonic oscillator
+Creation and annihilation operators acting on energy eigenstates
+Scattering states and the step potential
+Step potential probability current
+Reflection and transmission coefficients
+Energy below the barrier and phase shift
+Wavepackets
+Wavepackets with energy below the barrier
+Particle on the forbidden region
+Waves on the finite square well
+Resonant transmission
+Ramsauer-Townsend phenomenology
+Scattering in D. Incoming and outgoing waves
+Scattered wave and phase shift
+Incident packet and delay for reflection
+Phase shift for a potential well
+Excursion of the phase shift
+Levinson's theorem, part 
+Levinson's theorem, part 
+Time delay and resonances
+Effects of resonance on phase shifts, wave amplitude and time delay
+Modelling a resonance
+Half-width and time delay
+Resonances in the complex k plane
+Translation operator. Central potentials
+Angular momentum operators and their algebra
+Commuting observables for angular momentum
+Simultaneous eigenstates and quantization of angular momentum
+Associated Legendre functions and spherical harmonics
+Orthonormality of spherical harmonics
+Effective potential and boundary conditions at r=
+Hydrogen atom two-body problem
+Center of mass and relative motion wavefunctions
+Scales of the hydrogen atom
+Schrödinger equation for hydrogen
+Series solution and quantization of the energy
+Energy eigenstates of hydrogen
+Energy levels and diagram for hydrogen
+Degeneracy in the spectrum and features of the solution
+Rydberg atoms
+Orbits in the hydrogen atom
+More on the hydrogen atom degeneracies and orbits
+The simplest quantum system
+Hamiltonian and emerging spin angular momentum
+Eigenstates of the Hamiltonian

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f5e9a496540ef5",
+        "id": "f243653bf546de7a",
         "type": "tabs",
         "children": [
           {
-            "id": "c39c392ebe5c2abd",
+            "id": "b92b95d138faee5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+                "file": "1_🗃️Literature notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,8 +21,54 @@
               "icon": "lucide-file",
               "title": "8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation"
             }
+          },
+          {
+            "id": "2ded2f39448a611e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.04 2024-01-04 12-30 Su Probability current and current conservation"
+            }
+          },
+          {
+            "id": "d6117af8f7a32163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.04 2023-09-23 00-34 Su Free Schrodinger equation"
+            }
+          },
+          {
+            "id": "861bd6a93365be6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_🖥computer/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20221004131629",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -104,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8.04 Quantum mechanics"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,35 +196,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c39c392ebe5c2abd",
+  "active": "d6117af8f7a32163",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "1_🗃️Literature notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "0_📥Fleeting notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "1_🗃️Literature notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "1_🗃️Literature notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "1_🗃️Literature notes/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-14 12.47.29.excalidraw.md",
-    "Excalidraw",
-    "1_🗃️Literature notes/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+    "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "6_Tochal/Untitled 18.md",
-    "6_Tochal/Untitled 19.md",
-    "6_Tochal/Untitled 20.md",
-    "6_Tochal/Untitled 21.md",
-    "6_Tochal/Untitled 22.md",
-    "6_Tochal/Untitled 23.md",
-    "6_Tochal/Untitled 24.md",
-    "6_Tochal/Untitled 25.md",
-    "6_Tochal/Untitled 26.md",
-    "6_Tochal/Untitled 27.md",
-    "6_Tochal/Untitled 28.md",
-    "6_Tochal/Untitled 29.md",
+    "3_🖥computer/Untitled.md",
+    "3_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
+    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "3_🖥computer/COMPUTER'S content.md",
+    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
+    "3_🖥computer/Git/Git in future.md",
+    "3_🖥computer/Git/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+    "3_🖥computer/Git/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "3_🖥computer/Git/7.01 2023-08-08 22-06 Su Git restore.md",
+    "3_🖥computer/Git/7.01 2023-07-31 11-01 Su Git two folder.md",
+    "3_🖥computer/Git/7.01 2023-07-31 10-57 Su Tracking changes.md",
+    "3_🖥computer/Git/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
+    "3_🖥computer/Git/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
+    "3_🖥computer/Git/7.01 2023-07-26 21-52 Su Branches.md",
+    "3_🖥computer/Git/7.01 2023-07-25 22-58 Su Framework of git.md",
+    "3_🖥computer/Git/7.01 2023-07-25 22-53 Su Git reset.md",
+    "3_🖥computer/Git/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
+    "3_🖥computer/Git/7.01 2023-07-25 20-00 Su Git.md",
+    "3_🖥computer/Git",
+    "Untitled.canvas",
+    "Excalidraw",
     "5_Excalidraw/assets/Pasted image 20240201145432.png",
     "5_Excalidraw/assets/Pasted image 20240131145117.png",
     "5_Excalidraw/assets/Pasted image 20240124134254.png",
@@ -198,8 +245,6 @@
     "0_📥Fleeting notes/assets",
     "0_📥Fleeting notes/Andrew-Ng",
     "0_📥Fleeting notes/SR",
-    "0_📥Fleeting notes/8.04",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
