@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f243653bf546de7a",
+        "id": "ce14a4b7239b16db",
         "type": "tabs",
         "children": [
           {
-            "id": "b92b95d138faee5f",
+            "id": "fa83446313f61f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation"
-            }
-          },
-          {
-            "id": "2ded2f39448a611e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2024-01-04 12-30 Su Probability current and current conservation"
-            }
-          },
-          {
-            "id": "d6117af8f7a32163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2023-09-23 00-34 Su Free Schrodinger equation"
-            }
-          },
-          {
-            "id": "861bd6a93365be6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_🖥computer/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "8.04 Quantum mechanics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,17 +150,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6117af8f7a32163",
+  "active": "fa83446313f61f90",
   "lastOpenFiles": [
-    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-    "0_📥Fleeting notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "1_🗃️Literature notes/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
     "1_🗃️Literature notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+    "1_🗃️Literature notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
+    "1_🗃️Literature notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+    "3_🖥computer/Untitled.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 14-46 Su Free Particle.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "1_🗃️Literature notes/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
     "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "3_🖥computer/Untitled.md",
     "3_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
     "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "3_🖥computer/COMPUTER'S content.md",
@@ -220,10 +178,6 @@
     "3_🖥computer/Git/7.01 2023-07-31 10-52 Su Download repository from GitHub with CL.md",
     "3_🖥computer/Git/7.01 2023-07-31 10-50 Su Upload a Project to GitHub.md",
     "3_🖥computer/Git/7.01 2023-07-26 21-52 Su Branches.md",
-    "3_🖥computer/Git/7.01 2023-07-25 22-58 Su Framework of git.md",
-    "3_🖥computer/Git/7.01 2023-07-25 22-53 Su Git reset.md",
-    "3_🖥computer/Git/7.01 2023-07-25 20-13 Su Remote Git Concept.md",
-    "3_🖥computer/Git/7.01 2023-07-25 20-00 Su Git.md",
     "3_🖥computer/Git",
     "Untitled.canvas",
     "Excalidraw",
