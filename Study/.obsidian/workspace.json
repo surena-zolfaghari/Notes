@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8421951eeac2f19b",
+        "id": "053c71348f2cf027",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7f334fb7eebef4",
+            "id": "0f76fc18b514c39c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8.04 2023-09-24 07-09 Su Interpretation of the wave function"
+              "title": "New tab"
             }
           }
         ]
@@ -150,18 +145,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b7f334fb7eebef4",
+  "active": "0f76fc18b514c39c",
   "lastOpenFiles": [
+    "Obsidian's Latex.md",
+    "Quantum mechanics III.md",
+    "Untitled.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/8.04/Untitled.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-39 Su Parseval identity.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-06 18-11 Su Momentum space.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
+    "2_🗂️Permanent notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
+    "1_🗃️Literature notes/8.04 2023-09-23 01-20 Su The general schrodinger equation, commutator.md",
+    "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
     "1_🗃️Literature notes/8.04 2023-09-23 23-28 Su Commutators, matrices and 3-D S.E.md",
     "1_🗃️Literature notes/8.04 2024-01-04 08-01 Su Interpretation of the wave function.md",
-    "1_🗃️Literature notes/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
-    "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
     "3_🖥computer/Git/Git in future.md",
-    "1_🗃️Literature notes/8.04 2023-09-23 01-20 Su The general schrodinger equation, commutator.md",
     "3_🖥computer/Git/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
     "3_🖥computer/Git/7.01 2023-07-25 20-00 Su Git.md",
     "Untitled",
@@ -171,17 +177,6 @@
     "1_🗃️Literature notes/assets/f331813746.png",
     "1_🗃️Literature notes/8.01 2022-12-27 11-37 Su Neutron Stars.md",
     "1_🗃️Literature notes/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "1_🗃️Literature notes/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-    "1_🗃️Literature notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "3_🖥computer/Untitled.md",
-    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 14-46 Su Free Particle.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
-    "1_🗃️Literature notes/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
-    "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
-    "3_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
-    "1_🗃️Literature notes/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "3_🖥computer/COMPUTER'S content.md",
     "3_🖥computer/Git",
     "Untitled.canvas",
     "Excalidraw",
