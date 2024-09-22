@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+                "file": "Quantum mechanics III.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.20 2024-03-28 10-29 Su What is 4-vector?"
+              "title": "Quantum mechanics III"
             }
           },
           {
@@ -165,12 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "16287e9efcb6fbc5",
   "lastOpenFiles": [
-    "Mansouri",
-    "M",
     "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/SR/Untitled.md",
+    "Mansouri",
+    "M",
     "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "Obsidian's Latex.md",
@@ -213,7 +213,6 @@
     "6-Tochal",
     "Tochal",
     "0_📥Fleeting notes/assets",
-    "0_📥Fleeting notes/Andrew-Ng",
     "Untitled 1.canvas"
   ]
 }
