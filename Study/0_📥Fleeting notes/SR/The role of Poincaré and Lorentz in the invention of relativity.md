@@ -1,0 +1,13 @@
+#Physics #Special_Relativity #SR #mansouri 
+# 2025-01-21 23-05 Su The role of Poincaré and Lorentz in the invention of relativity
+Created:2025-01-21 23-05
+
+
+Sometimes the question arises whether the theory of special relativity was developed by Poincaré and Lorentz or by Einstein. Based on historical evidence, it is shown that Poincaré and Lorentz, for years after the publication of Einstein's paper, refused to accept this theory. The reason for this lies in the transformation of the concepts of time and space.
+## References:
+- Mansouri- Page 11
+
+## Related:
+
+
+
