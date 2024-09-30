@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a2bc8d3f90cfaa",
+        "id": "e1bbf060ce87a1d5",
         "type": "tabs",
         "children": [
           {
-            "id": "5d92d31ad77f5867",
+            "id": "d0bb11c687eac2de",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-08-11 12.08.18.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -147,14 +145,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d92d31ad77f5867",
+  "active": "331bd4eef2533f20",
   "lastOpenFiles": [
+    "5_Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
+    "1_🗃️Literature notes/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
+    "1_🗃️Literature notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+    "1_🗃️Literature notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "Mansouri/Introduction.md",
-    "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
     "Excalidraw/Drawing 2024-12-01 15.30.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
     "Excalidraw/Drawing 2024-08-14 12.47.29.excalidraw.md",
     "Excalidraw/Untitled.md",
     "5_Excalidraw/assets/Pasted image 20230824210729.png",
@@ -174,12 +176,8 @@
     "0_📥Fleeting notes/8.05/Spherical wave state.md",
     "0_📥Fleeting notes/8.05/What are kets and wavefunctions?.md",
     "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
-    "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "Quantum mechanics II.md",
-    "Quantum mechanics III.md",
     "Mansouri",
     "M",
-    "1_🗃️Literature notes/8.01 2022-04-12 12-32 Su Measurement.md",
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
     "1_🗃️Literature notes/assets/f331813746.png",
