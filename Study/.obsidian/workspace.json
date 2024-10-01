@@ -4,17 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "e1bbf060ce87a1d5",
+        "id": "8ed21dd16c9a6db9",
         "type": "tabs",
         "children": [
           {
-            "id": "d0bb11c687eac2de",
+            "id": "12ba5b95ea99d895",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/assets/Pasted Image 20250122121754_895.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250122121754_895"
+            }
+          },
+          {
+            "id": "e52b80b3799ffa85",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5_Excalidraw/Drawing 2025-01-22 12.17.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-22 12.17.43.excalidraw"
+            }
+          },
+          {
+            "id": "c3477b7524c704fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-22 12.18.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-22 12.18.08.excalidraw"
+            }
+          },
+          {
+            "id": "ffd971d5adebafdd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5_Excalidraw/Drawing 2025-01-22 12.08.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-22 12.08.34.excalidraw"
             }
           }
         ]
@@ -145,15 +183,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "12ba5b95ea99d895",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
+    "5_Excalidraw/Drawing 2025-01-22 12.08.34.excalidraw.md",
+    "5_Excalidraw/Drawing 2025-01-22 12.17.43.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-22 12.18.08.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20250122121754_895.png",
+    "Excalidraw/assets",
+    "5_Excalidraw/assets/2025-01-22_11-23.png",
+    "0_📥Fleeting notes/SR/8.20 2025-01-22 00-09 Su Time dilation and length contraction.md",
+    "0_📥Fleeting notes/SR/assets/Pasted image 20250122120806.png",
+    "Excalidraw",
+    "0_📥Fleeting notes/SR/assets",
+    "0_📥Fleeting notes/SR/assets/2025-01-22_11-23.png",
+    "1_🗃️Literature notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+    "1_🗃️Literature notes/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
+    "5_Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
+    "5_Excalidraw/assets/Pasted Image 20240716124102_511.png",
+    "5_Excalidraw/assets/Pasted Image 20241112162609_088.png",
+    "5_Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
     "5_Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
     "5_Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
-    "5_Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
     "5_Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
-    "1_🗃️Literature notes/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "1_🗃️Literature notes/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
     "1_🗃️Literature notes/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "Mansouri/Introduction.md",
     "Excalidraw/Drawing 2024-12-01 15.30.18.excalidraw.md",
@@ -162,38 +214,24 @@
     "5_Excalidraw/assets/Pasted image 20230824210729.png",
     "5_Excalidraw/assets/Pasted image 20221004131629.png",
     "5_Excalidraw/assets/Pasted image 20220521131132.png",
-    "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
     "Untitled.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-21 23-05 Su The role of Poincaré and Lorentz in the invention of relativity.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-21 23-30 Su Cosmic Microwave Background (CMB) Radiation.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-21 23-48 Su Synchronization.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-22 00-09 Su Time dilation and length contraction.md",
     "0_📥Fleeting notes/SR/sync.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-21 22-50 Su Principle of special relativity.md",
     "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
     "0_📥Fleeting notes/8.05/Spherical wave.md",
-    "0_📥Fleeting notes/8.05/Spherical wave state.md",
-    "0_📥Fleeting notes/8.05/What are kets and wavefunctions?.md",
-    "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
     "Mansouri",
     "M",
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
-    "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
-    "1_🗃️Literature notes/assets/f331813746.png",
     "3_🖥computer/Git",
     "Untitled.canvas",
-    "Excalidraw",
-    "5_Excalidraw/assets/Pasted image 20240201145432.png",
-    "5_Excalidraw/assets/Pasted image 20240131145117.png",
-    "5_Excalidraw/assets/Pasted image 20240124134254.png",
-    "5_Excalidraw/assets/Pasted image 20230826133151.png",
     "5_Excalidraw/assets",
     "5_Excalidraw",
     "6_Tochal",
     "6-Tochal",
-    "Tochal",
-    "0_📥Fleeting notes/assets",
     "Untitled 1.canvas"
   ]
 }
