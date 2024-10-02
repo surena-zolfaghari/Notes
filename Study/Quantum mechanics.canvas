@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"eeab99edf92af263","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md","x":-6000,"y":4680,"width":400,"height":400},
+		{"id":"7f3a81589bea3743","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md","x":-4920,"y":4680,"width":400,"height":400},
+		{"id":"ab47023d90d8f1fb","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md","x":-4280,"y":4680,"width":400,"height":400},
+		{"id":"9fc8f8d72dce5aac","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-24 23-46 Su Entanglement.md","x":-3480,"y":4680,"width":400,"height":400},
+		{"id":"7966ff2e5a436010","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-23 10-17 Su More on superposition.md","x":-4280,"y":5240,"width":400,"height":400},
+		{"id":"a6815e7d9406df91","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-24 22-25 Su General State of photon and spin states.md","x":-4280,"y":5840,"width":400,"height":400},
+		{"id":"a4dcc3a52e2a41b5","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md","x":-4860,"y":3280,"width":680,"height":560},
+		{"id":"ce1f27bf1f044cf9","type":"file","file":"1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md","x":-5440,"y":4680,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"355d0bbd611e7d02","fromNode":"a4dcc3a52e2a41b5","fromSide":"bottom","toNode":"eeab99edf92af263","toSide":"top"},
+		{"id":"a79b53a1a4975540","fromNode":"a4dcc3a52e2a41b5","fromSide":"bottom","toNode":"ce1f27bf1f044cf9","toSide":"top"},
+		{"id":"4094c41b92ad3989","fromNode":"ab47023d90d8f1fb","fromSide":"bottom","toNode":"7966ff2e5a436010","toSide":"top"},
+		{"id":"c4ca93cdcb61162d","fromNode":"7966ff2e5a436010","fromSide":"bottom","toNode":"a6815e7d9406df91","toSide":"top"},
+		{"id":"e9065136d52b0a22","fromNode":"a4dcc3a52e2a41b5","fromSide":"bottom","toNode":"7f3a81589bea3743","toSide":"top"},
+		{"id":"53bc4e4a03de9f66","fromNode":"a4dcc3a52e2a41b5","fromSide":"bottom","toNode":"ab47023d90d8f1fb","toSide":"top"},
+		{"id":"3a4eeb070e9ff82d","fromNode":"a4dcc3a52e2a41b5","fromSide":"bottom","toNode":"9fc8f8d72dce5aac","toSide":"top"}
+	]
+}
