@@ -4,86 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "db186eba2199de2a",
+        "id": "e11f6033698d9bec",
         "type": "tabs",
         "children": [
           {
-            "id": "6abfd8baaf56ed6f",
+            "id": "e31ff94d9f6b2af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
+                "file": "Obsidian's Latex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution"
+              "title": "Obsidian's Latex"
             }
           },
           {
-            "id": "b841e7efd619ff36",
+            "id": "f05e887f9b53eb38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
+                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2023-09-24 07-09 Su Interpretation of the wave function"
-            }
-          },
-          {
-            "id": "42f839ae3ef31e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution"
-            }
-          },
-          {
-            "id": "db3da5d5de43e831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 Quantum mechanics"
-            }
-          },
-          {
-            "id": "01018d43bd580814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs"
+              "title": "8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,12 +156,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42f839ae3ef31e8e",
+  "active": "f05e887f9b53eb38",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-39 Su Parseval identity.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-06 18-11 Su Momentum space.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "Obsidian's Latex.md",
     "1_🗃️Literature notes/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
+    "Untitled.md",
     "1_🗃️Literature notes/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
-    "1_🗃️Literature notes/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
     "1_🗃️Literature notes/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
     "1_🗃️Literature notes/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "1_🗃️Literature notes/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
@@ -216,9 +177,7 @@
     "0_📥Fleeting notes/SR/8.20 2025-01-22 00-09 Su Time dilation and length contraction.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-22 12-34 Su Time Dilation.md",
-    "Untitled.md",
     "Quantum mechanics.canvas",
-    "Obsidian's Latex.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-21 22-50 Su Principle of special relativity.md",
     "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/Mathematica/xCoba.md",
@@ -226,10 +185,6 @@
     "0_📥Fleeting notes/Mathematica/MAthematica.md",
     "0_📥Fleeting notes/Mathematica/Christoffel symbol.md",
     "0_📥Fleeting notes/Andrew-Ng/Andrew Ng's Code.md",
-    "3_🖥computer/7.16 2023-07-31 11-45 Su C++.md",
-    "4_Template/Sticker.md",
-    "3_🖥computer/Linux configuration/2023-08-03 23-28 Su Obsidian icon.md",
-    "3_🖥computer/7.02 2023-07-31 11-16 Su Command.md",
     "check",
     "5_Excalidraw/assets/Pasted Image 20241001122533_706.png",
     "Excalidraw/assets/Pasted Image 20241001122533_706.png",

@@ -22,8 +22,8 @@ If $( \psi = \psi_2$), (6) gives (5).
 
 
 
-\[
+$$
 \int (\hat{H} \psi)^* \psi = \int \psi^* (\hat{H} \psi) \tag{5}
-\]
+$$
 
 
