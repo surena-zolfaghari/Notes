@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+                "file": "0_📥Fleeting notes/Label.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms"
+              "title": "Label"
             }
           }
         ],
@@ -156,8 +156,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "f05e887f9b53eb38",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "3_🖥computer/Fleeting notes/Andrew-Ng/Andrew Ng's Code.md",
+    "3_🖥computer/Fleeting notes/Andrew-Ng",
     "3_🖥computer/Fleeting notes/Mathematica/xCoba.md",
     "3_🖥computer/Fleeting notes/Mathematica/Toolkit.md",
     "3_🖥computer/Fleeting notes/Mathematica/MAthematica.md",
@@ -165,7 +168,6 @@
     "3_🖥computer/Fleeting notes/Mathematica",
     "3_🖥computer/Fleeting notes",
     "4_Template/Tags.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-06 18-11 Su Momentum space.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
@@ -186,7 +188,6 @@
     "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-22 12-34 Su Time Dilation.md",
     "Quantum mechanics.canvas",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 22-50 Su Principle of special relativity.md",
     "check",
     "5_Excalidraw/assets/Pasted Image 20241001122533_706.png",
     "Excalidraw/assets/Pasted Image 20241001122533_706.png",
@@ -204,7 +205,6 @@
     "Mansouri",
     "M",
     "3_🖥computer/Git",
-    "5_Excalidraw/assets",
     "Untitled 1.canvas"
   ]
 }
