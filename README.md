@@ -23,11 +23,9 @@ There are some folders:
 
 - Permanent notes: It divides my notes to a particular subject. For example the notes that related to quantum mechanics are in quantum mechanics in permanent notes.
 
-- Computer notes: is about python, AI, etc
+- Computer notes: is about python, AI, Mathematic especially XAct etc
 
 - Template: It's a general format that I follow to my notes. You can skip this, because it just includes some template for my notes.
 
 - Excalidraw: Includes my draw which all of them in my notes for better understanding.
-
-- assets: It also remove as soon as it's not important.
 
