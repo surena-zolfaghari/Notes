@@ -11,18 +11,31 @@
             "id": "e31ff94d9f6b2af8",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5_Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2022-06-28 23.02.54.excalidraw"
+            }
+          },
+          {
+            "id": "2b3d0b4fbf1ea585",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-                "mode": "preview",
+                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer"
+              "title": "8.04 2023-08-18 23-05 Su Photons and the loss of determinism"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,39 +153,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e31ff94d9f6b2af8",
+  "active": "2b3d0b4fbf1ea585",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
+    "5_Excalidraw/assets/Pasted Image 20250122121754_895.png",
+    "Excalidraw/assets/Pasted Image 20250318003404_513.png",
+    "5_Excalidraw/Drawing 2025-01-22 12.25.21.excalidraw.md",
+    "Excalidraw/assets",
+    "5_Excalidraw/Drawing 2025-01-22 12.17.43.excalidraw.md",
+    "Excalidraw",
+    "5_Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-04-20 19.33.09.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-01-29 14.32.00.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
+    "5_Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-29 13.11.14.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
+    "5_Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
+    "5_Excalidraw/assets/Pasted image 20220521131132.png",
     "1_🗃️Literature notes/8.04/Checked",
-    "1_🗃️Literature notes/8.04/Chrcked/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04/Chrcked/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04/Chrcked/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
     "1_🗃️Literature notes/8.04/Chrcked",
-    "1_🗃️Literature notes/9.01 2202-12-06 12-19 Su Fourier transform.md",
-    "1_🗃️Literature notes/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04/9.01 2202-12-06 12-19 Su Fourier transform.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-23 23-28 Su Commutators, matrices and 3-D S.E.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-23 01-20 Su The general schrodinger equation, commutator.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a particle.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "1_🗃️Literature notes/8.04",
     "1_🗃️Literature notes/8.01",
-    "5_Excalidraw/assets/Pasted Image 20250122121754_895.png",
     "5_Excalidraw/assets/Pasted Image 20241112162609_088.png",
     "5_Excalidraw/assets/Pasted Image 20241001122533_706.png",
     "5_Excalidraw/assets/Pasted Image 20240716124102_511.png",
@@ -180,15 +197,11 @@
     "5_Excalidraw/assets/Pasted Image 20240423102433_137.png",
     "5_Excalidraw/assets/Pasted Image 20240422215154_325.png",
     "5_Excalidraw/assets/Pasted Image 20240422213741_094.png",
-    "5_Excalidraw/assets/Pasted Image 20240422213457_788.png",
-    "5_Excalidraw/assets/Pasted Image 20240422212645_553.png",
     "3_🖥computer/Fleeting notes/Andrew-Ng",
     "3_🖥computer/Fleeting notes/Mathematica",
     "3_🖥computer/Fleeting notes",
     "Quantum mechanics.canvas",
     "check",
-    "Excalidraw/assets",
-    "Excalidraw",
     "Untitled 1.canvas"
   ]
 }
