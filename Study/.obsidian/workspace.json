@@ -1,65 +1,39 @@
 {
   "main": {
-    "id": "567cb8d7668285c5",
+    "id": "c7c905e16e9dd4dc",
     "type": "split",
     "children": [
       {
-        "id": "e11f6033698d9bec",
+        "id": "cebccc059bcd165b",
         "type": "tabs",
         "children": [
           {
-            "id": "e31ff94d9f6b2af8",
+            "id": "9af02b2dcff5a13e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "5_Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2022-06-28 23.02.54.excalidraw"
-            }
-          },
-          {
-            "id": "2b3d0b4fbf1ea585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2023-08-14 21-16 Su Linear and nonlinear theories"
-            }
-          },
-          {
-            "id": "1cc873aca7b1df03",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Drawing 2025-03-17 21.19.20.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "60723fcbf4c80a1b",
+    "id": "e55c48b175912025",
     "type": "split",
     "children": [
       {
-        "id": "12c6782725f400ef",
+        "id": "7af637da0089b9da",
         "type": "tabs",
         "children": [
           {
-            "id": "331bd4eef2533f20",
+            "id": "6be7b480781b79a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,22 +46,12 @@
             }
           },
           {
-            "id": "2bf80ef8dab9f2f0",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "a13c9cd431e58921",
+            "id": "d61b73e2606ae976",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "normalizable",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,41 +61,66 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "0697209acfe7704f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 300
   },
   "right": {
-    "id": "237f0b8f2e7d5e1a",
+    "id": "4cd0b0057cd916db",
     "type": "split",
     "children": [
       {
-        "id": "9c4d0820ced6112e",
+        "id": "ef7062ca9b2e83fa",
         "type": "tabs",
         "children": [
           {
-            "id": "650f27f23a708b25",
+            "id": "02ebcf8b8d803c87",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 8.04 2023-08-14 22-36 Su Necessity of complex number"
             }
           },
           {
-            "id": "9231147d4889c2fe",
+            "id": "fb6fc7b2e8c7a9df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8.04 2023-08-14 22-36 Su Necessity of complex number"
+            }
+          },
+          {
+            "id": "68d5d787ebd0818d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,12 +133,27 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "224daad82462715b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8.04 2023-08-14 22-36 Su Necessity of complex number"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,61 +161,20 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "331bd4eef2533f20",
+  "active": "9af02b2dcff5a13e",
   "lastOpenFiles": [
+    "Untitled.md",
     "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-18 11.19.50.excalidraw.md",
-    "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "Excalidraw/assets/Pasted image 20240201145432.png",
-    "Excalidraw/assets/Pasted image 20240131145117.png",
-    "Excalidraw/assets/Pasted image 20240124134254.png",
-    "Excalidraw/assets/Pasted image 20230826133151.png",
-    "Excalidraw/assets/Pasted image 20230826121601.png",
-    "Excalidraw/assets/Pasted image 20230825233113.png",
-    "Excalidraw/assets/Pasted image 20230825210629.png",
-    "Excalidraw/assets/Pasted image 20230824210729.png",
-    "Excalidraw/assets/Pasted image 20230822104341.png",
-    "Excalidraw/assets/Pasted image 20230822104101.png",
-    "Excalidraw/assets",
-    "Excalidraw/Drawing 2025-01-22 12.25.21.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-22 12.17.43.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-12 16.25.36.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.51.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.36.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
-    "Excalidraw",
-    "1_🗃️Literature notes/8.04/Checked",
-    "1_🗃️Literature notes/8.04/Chrcked",
-    "1_🗃️Literature notes/8.04",
-    "1_🗃️Literature notes/8.01",
-    "3_🖥computer/Fleeting notes/Andrew-Ng",
-    "3_🖥computer/Fleeting notes/Mathematica",
-    "3_🖥computer/Fleeting notes",
-    "Quantum mechanics.canvas",
-    "check",
-    "Untitled 1.canvas"
+    "Excalidraw/Drawing 2025-03-24 12.34.10.excalidraw.md",
+    "4_Template/Note Template.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 22-36 Su Necessity of complex number.md"
   ]
 }

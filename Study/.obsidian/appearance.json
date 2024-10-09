@@ -1,17 +1,6 @@
 {
-  "baseFontSize": 16,
-  "theme": "obsidian",
-  "cssTheme": "",
+  "accentColor": "#f50049",
   "enabledCssSnippets": [
-    "tags",
-    "tag_colors",
-    "centered",
-    "centered-text"
-  ],
-  "translucency": false,
-  "accentColor": "#e6005c",
-  "nativeMenus": true,
-  "showViewHeader": true,
-  "interfaceFontFamily": "IntelOne Mono,Cedarville Cursive",
-  "textFontFamily": "IntelOne Mono,Cedarville Cursive"
+    "tag_colors"
+  ]
 }
