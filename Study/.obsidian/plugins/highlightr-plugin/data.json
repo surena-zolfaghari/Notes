@@ -1,5 +1,5 @@
 {
-  "highlighterStyle": "none",
+  "highlighterStyle": "floating",
   "highlighterMethods": "inline-styles",
   "highlighters": {
     "Purple": "#D2B3FFA6",

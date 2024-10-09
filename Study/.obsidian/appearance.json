@@ -1,6 +1,6 @@
 {
-  "accentColor": "#f50049",
+  "accentColor": "#fa004b",
   "enabledCssSnippets": [
-    "tag_colors"
+    "centered-text"
   ]
 }
