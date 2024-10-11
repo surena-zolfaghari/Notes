@@ -2,5 +2,6 @@
   "accentColor": "#fa004b",
   "enabledCssSnippets": [
     "centered-text"
-  ]
+  ],
+  "baseFontSize": 16
 }
