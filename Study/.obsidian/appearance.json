@@ -1,7 +1,3 @@
 {
-  "accentColor": "#fa004b",
-  "enabledCssSnippets": [
-    "centered-text"
-  ],
-  "baseFontSize": 16
+  "accentColor": "#f9537c"
 }
