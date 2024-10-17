@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+                "file": "0_📥Fleeting notes/Three.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.04 Quantum mechanics"
+              "title": "Three"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Untitled 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +194,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d093f5526dfca6e6",
+  "active": "b86f00c524991be1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-25 10.32.06.excalidraw.md",
+    "0_📥Fleeting notes/Three.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
