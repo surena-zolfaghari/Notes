@@ -1,5 +1,0 @@
-Black hole responses have been of great interest since the birth of the theory of general relativity. Recently, with the observation of black holes, this issue has received more attention than ever before. The aim of this research is to investigate and present new black hole models. The Kislow response, as a response to Einstein's equations, can describe a black hole or an unshielded singularity in the presence of anisotropic fluid. According to the observational data, the problem of light bending in Kislow space-time and with the parameter of the equation of state infinite close to the cosmological constant will be investigated.
-
-Considering the inability of general relativity to describe intrinsic singularities, an attempt is made to present a regular model for the Kislow black hole using the Barabs-Azrael connection formalism. Considering quantum considerations is another way to solve the problems of intrinsic singularities.
-
-In this research, we investigate the effect of geodesic projection in a black hole presented in the theory of quantum gravity. The goal is to show whether quantum effects can surpass classical effects on sufficiently large scales.
