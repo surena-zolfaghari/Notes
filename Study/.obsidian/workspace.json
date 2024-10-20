@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
+                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-04 16-30 Su Three dimensional current and conservation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2024-01-04 12-30 Su Probability current and current conservation"
+              "title": "8.04 2024-01-04 16-30 Su Three dimensional current and conservation"
+            }
+          },
+          {
+            "id": "ff9b5ef44f9feb73",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-25 11.53.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-25 11.53.11.excalidraw"
             }
           },
           {
@@ -182,15 +194,17 @@
   },
   "active": "d093f5526dfca6e6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-25 11.53.11.excalidraw.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-04 16-30 Su Three dimensional current and conservation.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "Why do you choose Japan as a destination to study graduate-level education?.md",
     "What was the trigger for having an interest in Japan?.md",
     "What kinds of things do you think you can contribute to Japan and your home country through your experience of studying in Japan?.md",
-    "0_📥Fleeting notes/Three dimensional current and conservation.md",
     "Untitled.md",
     "Japan.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "Excalidraw/Drawing 2025-05-25 10.32.06.excalidraw.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-05 21-25 Su Time evolution of a free wave packet.md",
@@ -207,8 +221,6 @@
     "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
-    "1_🗃️Literature notes/9.01 2202-12-06 12-19 Su Fourier transform.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-54 Su Faraday's cage.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-07 22-40 Su  Three-dimensional Fourier transforms.md"
+    "1_🗃️Literature notes/9.01 2202-12-06 12-19 Su Fourier transform.md"
   ]
 }
