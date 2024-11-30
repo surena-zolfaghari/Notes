@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "762639a48dd8371f",
+        "id": "59c6ca997d5d7aec",
         "type": "tabs",
         "children": [
           {
-            "id": "cf31f7dcd49e055f",
+            "id": "03226fd9fd9600b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8.04 2024-01-05 12-40 Su wave packet and Fourier representation"
+              "title": "New tab"
             }
           }
         ]
@@ -166,26 +162,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf31f7dcd49e055f",
+  "active": "03226fd9fd9600b4",
   "lastOpenFiles": [
-    "Pasted image 20250802115559.png",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-06 22-59 Su Reality condition in Fourier transforms.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "Excalidraw/assets/Pasted image 20250802115216.png",
     "Excalidraw/assets/Pasted Image 20250318003404_513.png",
+    "Excalidraw/assets/Pasted Image 20241112162609_088.png",
+    "Excalidraw/assets/Pasted Image 20250122121754_895.png",
+    "Excalidraw/assets/Pasted image 20250802121001.png",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
+    "Pasted image 20241130121006.png",
+    "Excalidraw/Drawing 2025-05-25 12.35.52.excalidraw.md",
+    "Excalidraw/assets/Pasted image 20241129120713.png",
+    "Excalidraw/assets/Pasted Image 20241001122533_706.png",
+    "Excalidraw/assets/Pasted Image 20240716124102_511.png",
+    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-06 22-59 Su Reality condition in Fourier transforms.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-07 23-15 Su widths and uncertainties.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-04 16-30 Su Three dimensional current and conservation.md",
     "8.04 zzz Completeness of eigenvectors and measurement postulate.md",
-    "Excalidraw/Drawing 2025-05-25 12.35.52.excalidraw.md",
-    "Excalidraw/assets/Pasted Image 20240422185648_059.png",
-    "Excalidraw/assets/Pasted Image 20240422213741_094.png",
-    "Excalidraw/assets/Pasted Image 20240422215154_325.png",
-    "Excalidraw/assets/Pasted Image 20240423102433_137.png",
-    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
-    "Excalidraw/assets/Pasted Image 20240716124102_511.png",
-    "Excalidraw/assets/Pasted Image 20241001122533_706.png",
     "Excalidraw/Drawing 2022-09-02 22.53.39.excalidraw.md",
     "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
     "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
