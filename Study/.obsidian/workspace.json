@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "59c6ca997d5d7aec",
+        "id": "f82fb6d32a966c12",
         "type": "tabs",
         "children": [
           {
-            "id": "03226fd9fd9600b4",
+            "id": "80db6b0bae965036",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "1_🗃️Literature notes/assets/Pasted image 20220208134332.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20220208134332"
             }
           }
         ]
@@ -162,20 +164,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "03226fd9fd9600b4",
+  "active": "80db6b0bae965036",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
+    "Excalidraw/assets/Pasted image 20250802121001.png",
+    "1_🗃️Literature notes/assets/f331813746.png",
+    "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
+    "1_🗃️Literature notes/assets/Pasted image 20241129120346.png",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
     "Excalidraw/assets/Pasted image 20250802115216.png",
     "Excalidraw/assets/Pasted Image 20250318003404_513.png",
     "Excalidraw/assets/Pasted Image 20241112162609_088.png",
     "Excalidraw/assets/Pasted Image 20250122121754_895.png",
-    "Excalidraw/assets/Pasted image 20250802121001.png",
-    "0_📥Fleeting notes/8.04/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
     "Pasted image 20241130121006.png",
     "Excalidraw/Drawing 2025-05-25 12.35.52.excalidraw.md",
     "Excalidraw/assets/Pasted image 20241129120713.png",
-    "Excalidraw/assets/Pasted Image 20241001122533_706.png",
-    "Excalidraw/assets/Pasted Image 20240716124102_511.png",
-    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
     "0_📥Fleeting notes/8.04/8.04 2024-01-06 22-59 Su Reality condition in Fourier transforms.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-07 23-15 Su widths and uncertainties.md",
