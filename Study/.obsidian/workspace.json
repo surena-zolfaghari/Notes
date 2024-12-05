@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.5,
-    "collapsed": true
+    "width": 549.5
   },
   "right": {
     "id": "5fbc14deba36aaf1",
@@ -169,6 +168,8 @@
   },
   "active": "39698fdd229bfc56",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/8.04/Delete 8.04 2024-02-06 18-11 Su Momentum space.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-07 23-15 Su widths and uncertainties.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
@@ -203,7 +204,6 @@
     "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-29 13.11.14.excalidraw.md",
     "-1_📑Label",
     "Quantum mechanics.canvas"
   ]
