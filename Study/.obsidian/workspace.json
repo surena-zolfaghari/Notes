@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
-                "mode": "preview",
+                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-09-1 13-03 Su Time evolution of a free particle wave packet.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2024-01-08 12-16 Su Shape changes in a wave"
+              "title": "8.04 2024-01-09-1 13-03 Su Time evolution of a free particle wave packet"
             }
           }
         ]
@@ -168,10 +168,14 @@
   },
   "active": "0c4c327b99a07e98",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-07 23-15 Su widths and uncertainties.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-09-1 13-03 Su Time evolution of a free particle wave packet.md",
+    "Excalidraw/assets/Pasted image 20250804015740.png",
+    "0_📥Fleeting notes/8.04/8.04 2024-01-09 21-25 Su Time evolution of a free wave packet.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
-    "0_📥Fleeting notes/8.04/Delete 8.04 2024-02-06 18-11 Su Momentum space.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-07 23-15 Su widths and uncertainties.md",
+    "0_📥Fleeting notes/8.04/Delete 8.04 2024-02-06 18-11 Su Momentum space.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-06 22-59 Su Reality condition in Fourier transforms.md",
     "Excalidraw/assets/Pasted image 20250803001831.png",
@@ -183,7 +187,6 @@
     "Excalidraw/assets/Pasted image 20241202134508.png",
     "Excalidraw/assets/Pasted Image 20250318003404_513.png",
     "Excalidraw/assets/Pasted image 20250802121001.png",
-    "Excalidraw/assets/Pasted image 20250802115216.png",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-04 16-30 Su Three dimensional current and conservation.md",
     "Excalidraw/Drawing 2025-05-25 12.35.52.excalidraw.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
@@ -200,10 +203,6 @@
     "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-29 10.39.20.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-29 13.21.27.excalidraw.md",
     "-1_📑Label",
     "Quantum mechanics.canvas"
   ]
