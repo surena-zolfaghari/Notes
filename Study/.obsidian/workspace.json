@@ -27,40 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
+                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-39 Su Parseval identity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2024-01-08 12-16 Su Shape changes in a wave"
-            }
-          },
-          {
-            "id": "94e10b3f11b5649e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2024-01-10 13-35 Su Fourier transforms and delta functions"
-            }
-          },
-          {
-            "id": "4e31de479ed03195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2024-01-10 13-35 Su Fourier transforms and delta functions"
+              "title": "8.04 2024-02-07 22-39 Su Parseval identity"
             }
           },
           {
@@ -69,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2024-02-07 22-39 Su Parseval identity.md",
+                "file": "0_📥Fleeting notes/8.04/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.04 2024-02-07 22-39 Su Parseval identity"
+              "title": "8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,9 +197,9 @@
   },
   "active": "239afbd1c9a601e4",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-39 Su Parseval identity.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-02-07 22-39 Su Parseval identity.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
     "Untitled.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-09-1 13-03 Su Time evolution of a free particle wave packet.md",
