@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/8.04/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
+                "file": "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +49,7 @@
               "title": "8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "239afbd1c9a601e4",
+  "active": "d4b86b3d40dd08ac",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-39 Su Parseval identity.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-39 Su Parseval identity.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
     "Untitled.md",
@@ -232,7 +232,6 @@
     "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
     "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
     "-1_📑Label",
     "Quantum mechanics.canvas"
   ]
