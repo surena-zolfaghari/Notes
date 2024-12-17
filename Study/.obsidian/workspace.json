@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ac78ff5ac4560b36",
+        "id": "8f0b07725150e8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "34c4b6da51dd1233",
+            "id": "e1a40bf59e761f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.04 Quantum mechanics"
+            }
+          },
+          {
+            "id": "937afae35c4afaea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "8.04 Expectation values of operators"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#expectation_value",
+                "query": "tag:#expectation_value  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 545.5
   },
   "right": {
     "id": "5fbc14deba36aaf1",
@@ -166,18 +181,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "34c4b6da51dd1233",
+  "active": "937afae35c4afaea",
   "lastOpenFiles": [
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "8.04 zzz Completeness of eigenvectors and measurement postulate.md",
     "Untitled.md",
-    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-09-1 13-03 Su Time evolution of a free particle wave packet.md",
-    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
-    "0_📥Fleeting notes/8.04/Delete 8.04 2024-02-06 18-11 Su Momentum space.md",
+    "0_📥Fleeting notes/8.04/8.04 Expectation values of operators.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
+    "8.04 zzz Completeness of eigenvectors and measurement postulate.md",
+    "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-09-1 13-03 Su Time evolution of a free particle wave packet.md",
+    "0_📥Fleeting notes/8.04/Delete 8.04 2024-02-06 18-11 Su Momentum space.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-02-07 22-39 Su Parseval identity.md",
     "0_📥Fleeting notes/8.04/8.04 Time dependence of expectation values.md",
-    "0_📥Fleeting notes/8.04/8.04 Expectation values of operators.md",
     "0_📥Fleeting notes/8.04/8.04 z Expectation value of Hermitian operator.md",
     "1_🗃️Literature notes/8.04/Checked/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
     "0_📥Fleeting notes/8.04/8.04 2024-01-09 21-25 Su Time evolution of a free wave packet.md",
@@ -203,7 +219,6 @@
     "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
     "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
     "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
     "-1_📑Label",
     "Quantum mechanics.canvas"
   ]
