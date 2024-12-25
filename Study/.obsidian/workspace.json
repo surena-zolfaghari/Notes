@@ -11,12 +11,10 @@
             "id": "b21a963578e6b81e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "1_🗃️Literature notes/assets/f331813746.png"
-              },
-              "icon": "lucide-image",
-              "title": "f331813746"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -164,7 +162,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b21a963578e6b81e",
+  "active": "d4b86b3d40dd08ac",
   "lastOpenFiles": [
     "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
