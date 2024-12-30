@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e35c16cf4bffa003",
+        "id": "b23a246190f48c9a",
         "type": "tabs",
         "children": [
           {
-            "id": "b21a963578e6b81e",
+            "id": "ffe3c50c43b587bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b21a963578e6b81e",
+  "active": "ffe3c50c43b587bc",
   "lastOpenFiles": [
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "0_📥Fleeting notes/8.04/8.04 2024-11-19 22-38 Su Completeness of eigenvectors and measurement postulate.md",
+    "0_📥Fleeting notes/8.04",
+    "1_🗃️Literature notes/8.04/8.04 2024-05-27 20-22 Su Expectation value of Hermitian operator.md",
+    "1_🗃️Literature notes/8.04/8.04 2024-11-18 22-38 Su Eigenfunction of a Hermitian operator.md",
+    "0_📥Fleeting notes/8.04",
     "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
@@ -189,15 +195,10 @@
     "1_🗃️Literature notes/assets/f331813746.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
-    "1_🗃️Literature notes/8.04/8.04 2024-11-18 22-38 Su Eigenfunction of a Hermitian operator.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-05-27 20-22 Su Expectation value of Hermitian operator.md",
     "1_🗃️Literature notes/8.04/8.04 2024-02-16 17-05 Su Time dependence of expectation values.md",
     "1_🗃️Literature notes/8.04/8.04 2024-02-8 11-31 Su  Expectation values of operators.md",
     "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
     "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-39 Su Parseval identity.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-01-10 13-35 Su Fourier transforms and delta functions.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-01-09-1 13-03 Su Time evolution of a free particle wave packet.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-01-08 12-16 Su Shape changes in a wave.md",
     "Excalidraw/assets/Pasted image 20250804015740.png",
     "Excalidraw/assets/Pasted image 20250803001831.png",
     "Excalidraw/assets/Pasted image 20250802233146.png",
