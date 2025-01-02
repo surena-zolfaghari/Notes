@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "658dd8d774e1f7e5",
+        "id": "352afb3e02ce724c",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3ab488a67f4926",
+            "id": "ab15febbd5cdb036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_🗂️Permanent notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "8c5de6e287b1bcba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "8.04 2023-08-13 23-00 Su QM as a framework and defining linearity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,14 +182,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1b3ab488a67f4926",
+  "active": "8c5de6e287b1bcba",
   "lastOpenFiles": [
     "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity review.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "2_🗂️Permanent notes/Untitled.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories review.md",
     "1_🗃️Literature notes/9.01/9.01 2202-12-06 12-19 Su Fourier transform.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
     "Mac-8.04/plorizer.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
@@ -196,7 +212,6 @@
     "1_🗃️Literature notes/8.04/8.04 2023-09-23 01-20 Su The general schrodinger equation, commutator.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "3_🖥computer/7.02 2023-07-31 11-44 Su Vim.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
