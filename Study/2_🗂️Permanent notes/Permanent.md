@@ -2,14 +2,13 @@
 Created:2025-01-01 16:32
 
 
-# Lecture 1
+# Lecture 1 QM as a framework
 
-## QM as a framework
 In 1925 $\rightsquigarrow$ Schrodinger & Heisenberg $\rightsquigarrow$ wrote down QM equations. However QM is started in early 19 century.
 
-Quantum mechanics is really a framework to do physics. Quantum electrodynamics, quantum chromodynamics.
+Quantum mechanics is really a framework to do physics. Quantum physics is the principles of QM applied to different physical phenomena. For example Quantum electrodynamics, quantum chromodynamics (), quantum optics
 
-### 1.1 What are the properties?
+## 1.1 What are the properties?
 
 - ﻿﻿﻿Linearity of QM
 - Necessity of Complex number
