@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "75215b71ddb4f61b",
+        "id": "ee45e6def5938aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "923328652cbc4216",
+            "id": "8806a4bdc4929025",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8.20 2025-01-22 11-25 Su practical time dilation and length contraction"
+            }
+          },
+          {
+            "id": "99d75c0c69807aa6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-22 12.25.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-22 12.25.21.excalidraw"
             }
           }
         ]
@@ -163,44 +179,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4b86b3d40dd08ac",
+  "active": "8806a4bdc4929025",
   "lastOpenFiles": [
+    "Pasted image 20250111142333.png",
+    "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
+    "Excalidraw/Drawing 2025-01-22 12.25.21.excalidraw.md",
+    "0_📥Fleeting notes/SR/8.20 2025-01-22 12-34 Su Time Dilation.md",
+    "0_📥Fleeting notes/SR/8.20 2025-01-22 00-09 Su Time dilation and length contraction.md",
+    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-48 Su Synchronization.md",
+    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-30 Su Cosmic Microwave Background (CMB) Radiation.md",
+    "0_📥Fleeting notes/SR/8.20 2025-01-21 22-50 Su Principle of special relativity.md",
+    "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
+    "Pic/Pasted image 20250111141932.png",
+    "Pic/Pasted image 20251123114113.png",
+    "Excalidraw/Drawing 2025-01-22 12.17.43.excalidraw.md",
+    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-05 Su The role of Poincaré and Lorentz in the invention of relativity.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-27 Su 9. Dirac's Bra and Ket Notation.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-54 Su 1. Wave Mechanics.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-26 Su 8. Linear Algebra Vector Spaces and Operators (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 22-21 Su 7. Linear Algebra Vector Spaces and Operators (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-57 Su 6. Linear Algebra Vector Spaces and Operators (continued).md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-56 Su 5. Linear Algebra Vector Spaces and Operators.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-55 Su 4. Spin One-half, Bras, Kets, and Operators.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-51 Su 3. Wave Mechanics (continued) and Stern-Gerlach Experiment.md",
+    "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-55 Su 2.Wave Mechanics (continued).md",
+    "0_📥Fleeting notes/8.04/8.04 2024-11-19 22-38 Su Completeness of eigenvectors and measurement postulate.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-04-12 12-32 Su Measurement.md",
     "1_🗃️Literature notes/8.02/8.02 2023-02-15 00-40 Su Electirc field.md",
     "1_🗃️Literature notes/2.01/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "Pic/Pasted image 20251123114113.png",
     "Pic",
-    "0_📥Fleeting notes/8.04/8.04 2024-11-19 22-38 Su Completeness of eigenvectors and measurement postulate.md",
-    "-1_📑Label/📑Label.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "2_🗂️Permanent notes/Permanent.md",
-    "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
     "Excalidraw/assets/Pasted image 20230824210729.png",
     "Excalidraw/assets/Pasted image 20230822104341.png",
     "Excalidraw/assets/Pasted image 20230822104101.png",
     "Excalidraw/assets/Pasted image 20221004131629.png",
     "Excalidraw/assets/Pasted image 20220523015531.png",
     "Excalidraw/assets/Pasted image 20220521131132.png",
-    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
-    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 14.57.28.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 16.53.51.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-31 17.29.25.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-02 12.34.44.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-02 22.53.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-15 00.23.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.05.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
     "Pasted image 20251123113858.png",
-    "Pasted image 20251123113804.png",
     "Mac-8.04",
     "Quantum mechanics.canvas",
     "Untitled.base",
@@ -211,7 +227,6 @@
     "1_🗃️Literature notes/CM-Suukind",
     "1_🗃️Literature notes/9.01",
     "1_🗃️Literature notes/2.01",
-    "1_🗃️Literature notes/8.03",
-    "1_🗃️Literature notes/assets/f331813746.png"
+    "1_🗃️Literature notes/8.03"
   ]
 }
