@@ -14,11 +14,33 @@
               "type": "markdown",
               "state": {
                 "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "8.20 2024-04-21 10-17 Su Derivatives are vectors"
+            }
+          },
+          {
+            "id": "dfc0f1405815243a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-21 10.16.41.excalidraw"
+            }
+          },
+          {
+            "id": "bd82b22af5a3d62d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,6 +191,10 @@
   },
   "active": "452fc27c704acc53",
   "lastOpenFiles": [
+    "Pasted image 20250128155539.png",
+    "Pasted image 20250128155526.png",
+    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "Pasted image 20250128155426.png",
     "Pasted image 20250128155359.png",
@@ -197,8 +223,6 @@
     "0_📥Fleeting notes/SR/8.20 2025-01-21 23-30 Su Cosmic Microwave Background (CMB) Radiation.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-21 23-48 Su Synchronization.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-22 00-09 Su Time dilation and length contraction.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-22 12-34 Su Time Dilation.md",
     "Pic/Pasted image 20251201144215.png",
     "Pic/Pasted image 20251123114113.png",
     "Pic/Pasted image 20250116142435.png",
@@ -206,7 +230,6 @@
     "Pasted image 20250111142333.png",
     "Pic",
     "Excalidraw/assets/Pasted image 20230824210729.png",
-    "Excalidraw/assets/Pasted image 20230822104341.png",
     "Mac-8.04",
     "Quantum mechanics.canvas",
     "Untitled.base",
