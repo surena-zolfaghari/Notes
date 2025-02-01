@@ -13,12 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
+                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.20 2024-04-21 10-17 Su Derivatives are vectors"
+              "title": "8.20 2024-04-21 10-31 Su Derivative Transformation"
+            }
+          },
+          {
+            "id": "e18cc2b338cb5341",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-20 12.22.13.excalidraw"
+            }
+          },
+          {
+            "id": "f2eb2acfb18c8275",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-20 12.18.15.excalidraw"
+            }
+          },
+          {
+            "id": "dbcdc4646f631024",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-21 10.28.40.excalidraw"
             }
           },
           {
@@ -43,7 +79,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,14 +226,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "452fc27c704acc53",
+  "active": "e18cc2b338cb5341",
   "lastOpenFiles": [
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
+    "Pasted image 20250131155720.png",
+    "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
+    "Pasted image 20250131155704.png",
+    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
+    "Pasted image 20250131155617.png",
+    "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
     "Pasted image 20250131155531.png",
     "Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
     "Pasted image 20250128155539.png",
     "Pasted image 20250128155526.png",
-    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "Pasted image 20250128155426.png",
     "Pasted image 20250128155359.png",
@@ -220,15 +264,7 @@
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/8.04",
     "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 22-50 Su Principle of special relativity.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-05 Su The role of Poincaré and Lorentz in the invention of relativity.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-30 Su Cosmic Microwave Background (CMB) Radiation.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-48 Su Synchronization.md",
     "Pic/Pasted image 20251201144215.png",
-    "Pic/Pasted image 20251123114113.png",
-    "Pic/Pasted image 20250116142435.png",
-    "Pic/Pasted image 20250111141932.png",
-    "Pasted image 20250111142333.png",
     "Pic",
     "Mac-8.04",
     "Quantum mechanics.canvas",
