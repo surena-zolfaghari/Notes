@@ -22,7 +22,31 @@
             }
           },
           {
-            "id": "e18cc2b338cb5341",
+            "id": "92fadf707d499843",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-21 12.45.06.excalidraw"
+            }
+          },
+          {
+            "id": "aa10782f1ac265b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-21 12.41.00.excalidraw"
+            }
+          },
+          {
+            "id": "acdf870e743b2e68",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -31,52 +55,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-04-20 12.22.13.excalidraw"
-            }
-          },
-          {
-            "id": "f2eb2acfb18c8275",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-04-20 12.18.15.excalidraw"
-            }
-          },
-          {
-            "id": "dbcdc4646f631024",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-04-21 10.28.40.excalidraw"
-            }
-          },
-          {
-            "id": "dfc0f1405815243a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-04-21 10.16.41.excalidraw"
-            }
-          },
-          {
-            "id": "bd82b22af5a3d62d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ],
@@ -226,16 +204,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e18cc2b338cb5341",
+  "active": "92fadf707d499843",
   "lastOpenFiles": [
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
-    "Pasted image 20250131155720.png",
-    "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
-    "Pasted image 20250131155704.png",
+    "Pasted image 20250201155930.png",
+    "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
+    "Pasted image 20250201155855.png",
+    "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
+    "Pasted image 20250131155720.png",
+    "Pasted image 20250131155704.png",
     "Pasted image 20250131155617.png",
     "Excalidraw/Drawing 2024-04-21 10.32.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
     "Pasted image 20250131155531.png",
     "Excalidraw/Drawing 2024-04-21 10.21.20.excalidraw.md",
@@ -244,7 +227,6 @@
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "Pasted image 20250128155426.png",
     "Pasted image 20250128155359.png",
-    "Pic/Pasted image 20250128155317.png",
     "Excalidraw/Drawing 2024-04-20 19.25.20.excalidraw.md",
     "0_📥Fleeting notes/8.05/Why do we need a Hilbert Space?.md",
     "0_📥Fleeting notes/8.05/What are kets and wavefunctions?.md",
@@ -259,12 +241,8 @@
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 21-51 Su 3. Wave Mechanics (continued) and Stern-Gerlach Experiment.md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-55 Su 2.Wave Mechanics (continued).md",
     "0_📥Fleeting notes/8.05/8.05 2024-06-12 10-54 Su 1. Wave Mechanics.md",
-    "0_📥Fleeting notes/8.04/8.04 2024-11-19 22-38 Su Completeness of eigenvectors and measurement postulate.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-01 23-54 Su Compton scattering.md",
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/8.04",
-    "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
-    "Pic/Pasted image 20251201144215.png",
     "Pic",
     "Mac-8.04",
     "Quantum mechanics.canvas",
