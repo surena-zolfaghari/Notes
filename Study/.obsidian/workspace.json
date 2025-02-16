@@ -22,29 +22,15 @@
             }
           },
           {
-            "id": "0caeadc65b7ab269",
+            "id": "9db8cf0de37e5f10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
-                "mode": "preview",
-                "source": false
+                "file": "Pasted image 20250208063722.png"
               },
-              "icon": "lucide-file",
-              "title": "8.20 2024-04-22 18-53 Su Differential forms are covectors"
-            }
-          },
-          {
-            "id": "0e7d4b61dcae5eb2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-04-22 18.56.43.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250208063722"
             }
           }
         ]
@@ -195,11 +181,15 @@
   },
   "active": "aa7c6e89eac74cf7",
   "lastOpenFiles": [
+    "Pasted image 20250214063748.png",
+    "Pasted image 20250208063722.png",
+    "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
+    "Pasted image 20250214063731.png",
+    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
     "Pasted image 20250208063745.png",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
-    "Pasted image 20250208063722.png",
     "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
@@ -217,9 +207,6 @@
     "Pic/Pasted image 20250203155955.png",
     "Pic/Pasted image 20250203155934.png",
     "Pic/Pasted image 20250201155930.png",
-    "Pic/Pasted image 20250201155855.png",
-    "Pic/Pasted image 20250131155720.png",
-    "Pic/Pasted image 20250131155704.png",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
@@ -230,8 +217,6 @@
     "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.28.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-20 12.18.15.excalidraw.md",
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/8.04",
     "Pic",
