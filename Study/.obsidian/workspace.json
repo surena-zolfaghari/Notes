@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1bfda52c3abeff9",
+        "id": "e2890cd76f364fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "aa7c6e89eac74cf7",
+            "id": "b106e9eba5e2baa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "9db8cf0de37e5f10",
+            "id": "e9ecb313db2d335b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Pasted image 20250208063722.png"
+                "file": "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250208063722"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-04-22 18.58.16.excalidraw"
             }
           }
         ]
@@ -179,19 +179,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa7c6e89eac74cf7",
+  "active": "b106e9eba5e2baa5",
   "lastOpenFiles": [
-    "Pasted image 20250214063748.png",
-    "Pasted image 20250208063722.png",
+    "Pasted image 20250216064227.png",
     "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
-    "Pasted image 20250214063731.png",
-    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
-    "Pasted image 20250208063745.png",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
+    "8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
+    "Pasted image 20250214063731.png",
+    "Pasted image 20250208063745.png",
+    "Pasted image 20250208063722.png",
+    "Pic/Pasted image 20250214063731.png",
+    "Pic/Pasted image 20250208063745.png",
+    "Pic/Pasted image 20250208063722.png",
+    "Pasted image 20250214063748.png",
+    "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-22 12-34 Su Time Dilation.md",
     "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
@@ -204,9 +209,6 @@
     "Pic/Pasted image 20250208063227.png",
     "Pic/Pasted image 20250208063203.png",
     "Pic/Pasted image 20250207160102.png",
-    "Pic/Pasted image 20250203155955.png",
-    "Pic/Pasted image 20250203155934.png",
-    "Pic/Pasted image 20250201155930.png",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/Tensor calculus",
     "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
@@ -216,7 +218,6 @@
     "Excalidraw/Drawing 2024-04-20 12.22.13.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 12.41.00.excalidraw.md",
     "Excalidraw/Drawing 2024-04-21 12.45.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 10.16.41.excalidraw.md",
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/8.04",
     "Pic",
