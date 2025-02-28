@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
+                "file": "1_🗃️Literature notes/8.01/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols"
+              "title": "8.01 2022-07-25 12-29 Su Uniform circular motion"
+            }
+          },
+          {
+            "id": "d2ba6d08322185fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2022-08-31 14.40.43.excalidraw"
+            }
+          },
+          {
+            "id": "8c778ca28c586eb6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2022-08-31 14.19.52.excalidraw"
             }
           }
         ]
@@ -167,11 +191,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4b86b3d40dd08ac",
+  "active": "b5e630fd3fdf049b",
   "lastOpenFiles": [
+    "Pasted image 20250226065156.png",
+    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+    "Pasted image 20250226065129.png",
+    "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-04-12 12-32 Su Measurement.md",
+    "1_🗃️Literature notes/8.01/8.01 2023-02-15 00-09 Su Doppler effect.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-12-27 22-54 Su At the end of stars.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-12-27 18-16 Su Angular momentum.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-12-27 11-37 Su Neutron Stars.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-12-27 09-29 Su Rotating Objects, Moment of Inertia, Rotational KE.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-09-03 12-38 Su Work, Kinetic & Potential Energy, Gravitation, Conservative Forces.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-09-02 12-33 Su Weight, Weightlessness in Free Fall, Weight in Orbit.md",
+    "1_🗃️Literature notes/8.01/8.01 2022-09-02 11-10 Su Newton's laws.md",
+    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "Pic/Pasted image 20250221064450.png",
     "Excalidraw/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
     "0_📥Fleeting notes/What does the inner product between two vectors represent in quantum mechanics?.md",
     "Pic/Pasted image 20250219064329.png",
@@ -188,24 +226,10 @@
     "8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
     "Pasted image 20250214063731.png",
     "Pasted image 20250208063745.png",
-    "Pasted image 20250208063722.png",
-    "Pic/Pasted image 20250214063731.png",
     "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
-    "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-17 Su Derivatives are vectors.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-22 12-34 Su Time Dilation.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-48 Su Synchronization.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-22 00-09 Su Time dilation and length contraction.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-30 Su Cosmic Microwave Background (CMB) Radiation.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 23-05 Su The role of Poincaré and Lorentz in the invention of relativity.md",
-    "0_📥Fleeting notes/SR/8.20 2025-01-21 22-50 Su Principle of special relativity.md",
-    "0_📥Fleeting notes/SR/8.20 2024-03-28 10-29 Su What is 4-vector?.md",
     "0_📥Fleeting notes/Tensor calculus",
-    "Excalidraw/Drawing 2024-04-21 16.38.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.49.25.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-21 16.47.04.excalidraw.md",
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/8.04",
     "Pic",
