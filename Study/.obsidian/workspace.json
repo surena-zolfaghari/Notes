@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ac39563ef62cb54",
+        "id": "aa29f312a7c75bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e630fd3fdf049b",
+            "id": "4fe80742cd642014",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,30 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "8.01 2022-07-25 12-29 Su Uniform circular motion"
-            }
-          },
-          {
-            "id": "d2ba6d08322185fa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2022-08-31 14.40.43.excalidraw"
-            }
-          },
-          {
-            "id": "8c778ca28c586eb6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2022-08-31 14.19.52.excalidraw"
             }
           }
         ]
@@ -191,12 +167,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b5e630fd3fdf049b",
+  "active": "4fe80742cd642014",
   "lastOpenFiles": [
+    "Pasted image 20251201071345.png",
+    "Pasted image 20251201071358.png",
     "Pasted image 20250226065156.png",
-    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
-    "1_🗃️Literature notes/8.01/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
     "Pasted image 20250226065129.png",
+    "1_🗃️Literature notes/8.01/8.01 2022-07-25 12-29 Su Uniform circular motion.md",
+    "Excalidraw/Drawing 2022-08-31 14.47.58.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
     "Excalidraw/Drawing 2022-08-31 14.19.52.excalidraw.md",
     "1_🗃️Literature notes/8.01/8.01 2022-04-12 12-32 Su Measurement.md",
     "1_🗃️Literature notes/8.01/8.01 2023-02-15 00-09 Su Doppler effect.md",
@@ -219,16 +198,12 @@
     "Pasted image 20250219064329.png",
     "Pasted image 20250219064248.png",
     "Excalidraw/Drawing 2024-04-22 21.37.38.excalidraw.md",
-    "Pasted image 20250216064227.png",
     "Excalidraw/Drawing 2024-04-22 18.58.16.excalidraw.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-21 10-31 Su Derivative Transformation.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-18 10-38 Su Vector and covectors.md",
     "8.20 2025-01-22 11-25 Su practical time dilation and length contraction.md",
-    "Pasted image 20250214063731.png",
-    "Pasted image 20250208063745.png",
     "Excalidraw/Drawing 2024-04-22 21.34.53.excalidraw.md",
     "Excalidraw/Drawing 2024-04-22 21.26.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-22 18.56.43.excalidraw.md",
     "0_📥Fleeting notes/Tensor calculus",
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/8.04",
