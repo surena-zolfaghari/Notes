@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d35052db05ef683c",
+        "id": "277a44ce5a649f38",
         "type": "tabs",
         "children": [
           {
-            "id": "0fe1503b85209d1f",
+            "id": "a6e51a4a4dd898d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.03/8.03 2022-11-04 08-50 Su SHO.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8.03 2022-11-04 08-50 Su SHO"
             }
           }
         ]
@@ -163,10 +167,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4b86b3d40dd08ac",
+  "active": "a6e51a4a4dd898d4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.png",
-    "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.svg",
+    "1_🗃️Literature notes/8.03/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
+    "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
+    "Pasted image 20251201102047.png",
+    "1_🗃️Literature notes/8.02/8.02 2023-02-15 00-40 Su Electirc field.md",
+    "1_🗃️Literature notes/8.02/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
+    "1_🗃️Literature notes/8.02/8.02 2023-02-15 00-54 Su Faraday's cage.md",
+    "1_🗃️Literature notes/8.02/8.02 2023-02-15 00-45 Su Electric potential.md",
+    "Excalidraw/Drawing 2022-08-31 14.40.43.excalidraw.md",
+    "Pasted image 20251201094851.png",
+    "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-26 15.41.07.excalidraw.md",
+    "Excalidraw/Drawing 2022-05-26 14.58.06.excalidraw.md",
+    "Excalidraw/assets/Pasted image 20250802131516.png",
+    "Excalidraw/assets/Pasted image 20250802135046.png",
+    "Excalidraw/assets/Pasted image 20250802233146.png",
+    "Excalidraw/assets/Pasted image 20250804015740.png",
+    "Excalidraw/assets/Pasted image 20230826133151.png",
+    "Excalidraw/assets/Pasted Image 20230826132317_334.png",
+    "Excalidraw/assets/Pasted Image 20230826114359_831.png",
+    "Excalidraw/assets/Pasted image 20230825233113.png",
     "Excalidraw/Drawing 2024-04-20 19.29.24.excalidraw.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-23 10-23 Su Geodesics and Christoffel symbols.md",
     "0_📥Fleeting notes/Tensor calculus/8.20 2024-04-22 18-53 Su Differential forms are covectors.md",
@@ -185,24 +207,7 @@
     "0_📥Fleeting notes/SR",
     "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
     "Mac-8.04/plorizer.md",
-    "Drawing 2023-08-26 11.43.44.excalidraw.svg",
     "Quantum mechanics.canvas",
-    "Pic/Pasted image 20251123114113.png",
-    "Pic/Pasted image 20250302071731.png",
-    "Pic/Pasted image 20250302071715.png",
-    "Pic/Pasted image 20250301071633.png",
-    "Pic/Pasted image 20250301071611.png",
-    "Pic/Pasted image 20250301071557.png",
-    "Pic/Pasted image 20250226065156.png",
-    "Excalidraw/Drawing 2024-07-16 12.39.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-23 13.34.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-25 13.51.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-25 23.42.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
     "0_📥Fleeting notes/8.05",
     "0_📥Fleeting notes/8.04",
     "Pic",
