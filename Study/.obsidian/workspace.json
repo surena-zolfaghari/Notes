@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b23a246190f48c9a",
+        "id": "d269650368ece3df",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe3c50c43b587bc",
+            "id": "a38fa4666385e1e9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#expectation_value  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,21 +163,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ffe3c50c43b587bc",
+  "active": "d4b86b3d40dd08ac",
   "lastOpenFiles": [
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "Untitled.base",
+    "Untitled 1.md",
+    "Untitled.md",
+    "1_🗃️Literature notes/2.01/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
+    "Untitled 1.base",
     "0_📥Fleeting notes/8.04/8.04 2024-11-19 22-38 Su Completeness of eigenvectors and measurement postulate.md",
+    "4_Template/Note Template.md",
+    "-1_📑Label/📑Label.md",
+    "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
+    "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
+    "2_🗂️Permanent notes/8.03x- Physics.md",
+    "3_🖥computer/COMPUTER'S content.md",
+    "Untitled.canvas",
+    "3_🖥computer/7.10 2023-08-06 17-02 Su Pyenv.md",
+    "3_🖥computer/7.10 2023-07-31 11-54 Su virtualenv.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "0_📥Fleeting notes/8.04",
     "1_🗃️Literature notes/8.04/8.04 2024-05-27 20-22 Su Expectation value of Hermitian operator.md",
     "1_🗃️Literature notes/8.04/8.04 2024-11-18 22-38 Su Eigenfunction of a Hermitian operator.md",
     "0_📥Fleeting notes/8.04",
     "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
-    "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "1_🗃️Literature notes/CM-Suukind",
     "1_🗃️Literature notes/9.01/9.01 2202-12-06 12-19 Su Fourier transform.md",
     "1_🗃️Literature notes/9.01",
-    "1_🗃️Literature notes/2.01/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "1_🗃️Literature notes/2.01",
     "1_🗃️Literature notes/8.03/8.03 2022-11-04 08-50 Su SHO.md",
     "1_🗃️Literature notes/8.03/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
@@ -188,17 +200,9 @@
     "1_🗃️Literature notes/8.02/8.02 2023-02-15 00-39 Su Phenomena that related to electricity.md",
     "1_🗃️Literature notes/8.02",
     "1_🗃️Literature notes/8.02 2023-02-15 00-40 Su Electirc field.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-45 Su Electric potential.md",
-    "1_🗃️Literature notes/8.02 2023-02-15 00-54 Su Faraday's cage.md",
-    "1_🗃️Literature notes/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
-    "1_🗃️Literature notes/2.01 2022-10-05 21-37 Su Basic in Statistic.md",
     "1_🗃️Literature notes/assets/f331813746.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208134332.png",
     "1_🗃️Literature notes/assets/Pasted image 20220208133945.png",
-    "1_🗃️Literature notes/8.04/8.04 2024-02-16 17-05 Su Time dependence of expectation values.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-02-8 11-31 Su  Expectation values of operators.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-39 Su Parseval identity.md",
     "Excalidraw/assets/Pasted image 20250804015740.png",
     "Excalidraw/assets/Pasted image 20250803001831.png",
     "Excalidraw/assets/Pasted image 20250802233146.png",

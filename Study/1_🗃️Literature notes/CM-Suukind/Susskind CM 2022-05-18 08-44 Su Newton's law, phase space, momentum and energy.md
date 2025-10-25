@@ -1,4 +1,3 @@
-
 #Physics
 #Classical_Mechanics
 #Lagrangian
