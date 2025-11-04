@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "22d8c90caca268d2",
+        "id": "d2ca291d68b7de99",
         "type": "tabs",
         "children": [
           {
-            "id": "cce0b6a16d6a480c",
+            "id": "b60c0966cf9e5345",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2022-06-28 23.02.54.excalidraw.md"
+                "file": "Excalidraw/assets/Pasted Image 20230826114359_831.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2022-06-28 23.02.54.excalidraw"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20230826114359_831"
             }
           }
         ]
@@ -165,44 +165,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cce0b6a16d6a480c",
+  "active": "d4b86b3d40dd08ac",
   "lastOpenFiles": [
+    "Excalidraw/assets/Pasted Image 20240421103255_931.png",
+    "Excalidraw/assets/Pasted Image 20240422185822_932.png",
+    "Excalidraw/assets/Pasted Image 20240421163701_137.png",
+    "Excalidraw/assets/Pasted Image 20240421124234_508.png",
+    "Excalidraw/assets/Pasted Image 20240421124522_009.png",
     "Excalidraw/assets/Pasted Image 20230826114359_831.png",
-    "Excalidraw/assets/Pasted image 20230825233113.png",
-    "Excalidraw/assets/Pasted image 20230825210629.png",
-    "Excalidraw/assets/Pasted Image 20230825141109_993.png",
-    "Excalidraw/assets/Pasted image 20230824210729.png",
-    "Excalidraw/assets/Pasted image 20230822104341.png",
-    "Excalidraw/assets/Pasted image 20230822104101.png",
-    "Excalidraw/assets/Pasted image 20221004131629.png",
-    "Excalidraw/assets/Pasted image 20220521131132.png",
-    "Excalidraw/assets/Pasted image 20220523015531.png",
-    "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
-    "1_🗃️Literature notes/CM-Suukind/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
-    "ex/Drawing 2022-09-02 22.53.39.excalidraw.md",
-    "ex/Drawing 2023-02-15 00.23.09.excalidraw.md",
-    "ex/Drawing 2024-04-20 12.18.15.excalidraw.md",
-    "ex/Drawing 2024-04-20 12.22.13.excalidraw.md",
-    "ex/Drawing 2024-04-20 19.25.20.excalidraw.md",
-    "ex/Drawing 2024-04-22 21.34.53.excalidraw.md",
-    "ex/Drawing 2024-04-22 21.37.38.excalidraw.md",
-    "ex/Drawing 2024-04-23 10.24.29.excalidraw.md",
-    "ex/Drawing 2025-01-22 12.17.43.excalidraw.md",
-    "ex/Drawing 2025-01-22 12.25.21.excalidraw.md",
-    "ex/Drawing 2024-04-21 16.47.04.excalidraw.md",
-    "ex/Drawing 2024-04-21 16.38.40.excalidraw.md",
-    "ex/Drawing 2024-04-21 16.36.55.excalidraw.md",
-    "ex/Drawing 2024-04-21 12.45.06.excalidraw.md",
-    "ex/Drawing 2024-04-21 10.28.40.excalidraw.md",
-    "ex/Drawing 2024-04-21 12.41.00.excalidraw.md",
-    "ex/Drawing 2024-04-21 10.21.20.excalidraw.md",
-    "ex/Drawing 2024-04-21 10.16.41.excalidraw.md",
-    "ex/Drawing 2024-04-20 19.33.09.excalidraw.md",
-    "ex/Drawing 2022-08-31 17.29.25.excalidraw.md",
-    "ex/Drawing 2022-08-31 14.57.28.excalidraw.md",
-    "ex/Drawing 2022-05-26 15.41.07.excalidraw.md",
-    "Pasted image 20251201102047.png",
+    "Excalidraw/assets/Pasted Image 20240422185648_059.png",
+    "Excalidraw/assets/Pasted Image 20240420122218_640.png",
+    "Excalidraw/assets/Pasted Image 20240421101652_050.png",
+    "Excalidraw/assets/Pasted Image 20240420122058_024.png",
+    "Excalidraw/assets/Pasted image 20240201145432.png",
+    "1_🗃️Literature notes/Griffith/8.04 22-12-04 15-25 Su THE UNCERTAINTY PRINCIPLE.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-19 15-25 Su Questions In Quantum Mechanics.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 15-23 Su Bound states and Scattering states.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 14-46 Su Free Particle.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 13-04 Su Some properties of separation solutions.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 12-50 Su Global properties of solutions.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-04 16-51 Su Solution of Schrodinger equation.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-05 12-26 Su Infinite square well and global trait.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-04 16-23 Su Computation of wave function for every time by wave function at initial time.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-12-04 15-17 Su Computation of other physical expectation variables.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-11-04 08-50 Su Separation solution of Schrodinger equation.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-11-04 08-42 Su Importance of separation solutions of Schrodinger equation.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-11-04 07-33 Su Momentum.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-10-15 12-21 Su Normalization.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-10-04 12-09 Su Electron Interference.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-09-06 13-31 Su Setting Probability Density.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-09-05 15-35 Su THE STATISTICAL INTERPRETATION.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-07-20 10-53 Su Operators In QM.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-07-01 00-27 Su Time Evolution And the Schrodinger-Lecture 6.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-06-28 21-14 Su Solution of Harmonic Oscillator by brute force.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-06-27 14-43 Su Energy Eigenstate-Lecture 7.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-06-22 10-58 Su Solution of harmonic oscillator by operator.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-06-21 06-06 Su Wave Function.md",
+    "1_🗃️Literature notes/Griffith/8.04 2022-06-20 06-05 Su Schrodinger Equation.md",
+    "1_🗃️Literature notes/Griffith",
+    "3_🖥computer/Fleeting notes/Mathematica/xCoba.md",
     "0_📥Fleeting notes/Tensor calculus",
     "0_📥Fleeting notes/SR",
     "Quantum mechanics.canvas",
@@ -213,7 +214,6 @@
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
-    "1_🗃️Literature notes/CM-Suukind",
-    "1_🗃️Literature notes/9.01"
+    "1_🗃️Literature notes/CM-Suukind"
   ]
 }
