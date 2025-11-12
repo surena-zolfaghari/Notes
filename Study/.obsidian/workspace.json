@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97b1776991f8c11c",
+            "id": "124d858381c1a217",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/assets/Pasted image 20250802115216.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250802115216"
+            }
+          },
+          {
+            "id": "93579fdba47e5ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+                "file": "5_🏷️ Tags/Wave Function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,33 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8.04 2023-08-14 22-36 Su Necessity of complex number"
-            }
-          },
-          {
-            "id": "72b577ccb632083f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8.04 2023-08-14 22-36 Su Necessity of complex number"
-            }
-          },
-          {
-            "id": "6e630fa646f933e4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-17 21.19.20.excalidraw"
+              "title": "Wave Function"
             }
           }
         ]
@@ -203,44 +189,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "97b1776991f8c11c",
+  "active": "d4b86b3d40dd08ac",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
+    "Excalidraw/assets/Pasted Image 20250318003404_513.png",
+    "Excalidraw/assets/Pasted image 20250802115216.png",
+    "Excalidraw/assets/Pasted image 20250802131516.png",
+    "Excalidraw/assets/Pasted image 20250802121001.png",
+    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
+    "Excalidraw/assets/Pasted image 20230822104341.png",
+    "Excalidraw/assets/Pasted image 20230822104101.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
+    "5_🏷️ Tags/Wave Function.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "5_🏷️ Tags",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "Pasted image 20251205130029.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "Pasted image 20251111144439.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
+    "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-25 11.53.11.excalidraw.md",
+    "Pasted image 20251201231600.png",
+    "Pasted image 20251201231512.png",
+    "Pasted image 20251201231435.png",
+    "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "2_🗂️Permanent notes/8.01 - Physics.md",
     "2_🗂️Permanent notes/8.03x- Physics.md",
     "2_🗂️Permanent notes/Classical mechanics.md",
     "2_🗂️Permanent notes/Permanent.md",
     "Quantum mechanics.canvas",
-    "Pasted image 20251201231600.png",
-    "Pasted image 20251201231512.png",
-    "Pasted image 20251201231435.png",
     "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
-    "Excalidraw/assets/Pasted image 20230822104101.png",
-    "Excalidraw/assets/Pasted Image 20230826114359_831.png",
-    "Excalidraw/assets/Pasted image 20230825233113.png",
-    "Excalidraw/assets/Pasted image 20230825210629.png",
-    "Excalidraw/assets/Pasted Image 20230825141109_993.png",
-    "Excalidraw/assets/Pasted image 20230824210729.png",
     "1_🗃️Literature notes/Griffith",
     "0_📥Fleeting notes/Tensor calculus",
     "0_📥Fleeting notes/SR",
@@ -250,7 +238,6 @@
     "Mac-8.04",
     "Untitled.base",
     "Untitled 1.base",
-    "Untitled.canvas",
-    "1_🗃️Literature notes/CM-Suukind"
+    "Untitled.canvas"
   ]
 }
