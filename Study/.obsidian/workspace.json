@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a940622725599f09",
+        "id": "bcf33c39a3382db2",
         "type": "tabs",
         "children": [
           {
-            "id": "124d858381c1a217",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/assets/Pasted image 20250802115216.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250802115216"
-            }
-          },
-          {
-            "id": "93579fdba47e5ea4",
+            "id": "01b6ee081ea150a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_🏷️ Tags/Wave Function.md",
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wave Function"
+              "title": "8.04 2023-08-23 10-17 Su More on superposition"
+            }
+          },
+          {
+            "id": "0a86240efb9aad63",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2023-08-24 22.49.45.excalidraw"
             }
           }
         ]
@@ -189,46 +189,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4b86b3d40dd08ac",
+  "active": "01b6ee081ea150a7",
   "lastOpenFiles": [
-    "Excalidraw/assets/Pasted Image 20250318003404_513.png",
-    "Excalidraw/assets/Pasted image 20250802115216.png",
-    "Excalidraw/assets/Pasted image 20250802131516.png",
-    "Excalidraw/assets/Pasted image 20250802121001.png",
-    "Excalidraw/assets/Pasted Image 20240423112603_274.png",
-    "Excalidraw/assets/Pasted image 20230822104341.png",
-    "Excalidraw/assets/Pasted image 20230822104101.png",
+    "Pasted image 20251205171447.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "Pasted image 20251201231435.png",
+    "Pasted image 20251113150822.png",
+    "Pasted image 20251113150726.png",
+    "Pasted image 20251111144439.png",
+    "Pasted image 20251201231600.png",
+    "Pasted image 20251201231512.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
     "5_🏷️ Tags/Wave Function.md",
+    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
+    "Pasted image 20251113150740.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "Excalidraw/assets/Pasted image 20250802121001.png",
+    "Excalidraw/assets/Pasted image 20250802115216.png",
     "5_🏷️ Tags",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "Pasted image 20251111144439.png",
     "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
     "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
     "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
     "Excalidraw/Drawing 2025-05-25 11.53.11.excalidraw.md",
-    "Pasted image 20251201231600.png",
-    "Pasted image 20251201231512.png",
-    "Pasted image 20251201231435.png",
     "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
     "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "2_🗂️Permanent notes/8.01 - Physics.md",
     "2_🗂️Permanent notes/8.03x- Physics.md",
     "2_🗂️Permanent notes/Classical mechanics.md",
     "2_🗂️Permanent notes/Permanent.md",
     "Quantum mechanics.canvas",
     "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
     "1_🗃️Literature notes/Griffith",
     "0_📥Fleeting notes/Tensor calculus",
     "0_📥Fleeting notes/SR",
