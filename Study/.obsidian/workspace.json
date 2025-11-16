@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5d43362cb311649f",
+        "id": "1fb5a443e2966af0",
         "type": "tabs",
         "children": [
           {
-            "id": "05598fbf9a0f8716",
+            "id": "7c342908a914c94b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md"
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2023-08-28 22.51.13.excalidraw"
+              "icon": "lucide-file",
+              "title": "8.04 2023-08-24 23-46 Su Entanglement"
             }
           }
         ]
@@ -51,11 +63,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2024-04-20 19.29.24",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -165,8 +177,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "05598fbf9a0f8716",
+  "active": "7c342908a914c94b",
   "lastOpenFiles": [
+    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "-1_📑Label/Drawing 2023-08-26 13.23.02.excalidraw.md",
+    "Pasted image 20251116174051.png",
+    "Pasted image 20251115172752.png",
+    "Pasted image 20251114172434.png",
+    "Pasted image 20251116174055.png",
+    "Pasted image 20251201231435.png",
+    "Pasted image 20251116173954.png",
+    "Pasted image 20230826133151.png",
+    "Excalidraw/assets/Pasted Image 20230828222411_739.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
+    "Pasted image 20251114172404.png",
+    "Pasted image 20251201231512.png",
+    "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
@@ -177,32 +207,13 @@
     "1_🗃️Literature notes/8.04/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "Pasted image 20251115172752.png",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
     "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
-    "Pasted image 20251114172434.png",
-    "Pasted image 20251114172404.png",
-    "Pasted image 20251114172345.png",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
-    "Pasted image 20251114172149.png",
-    "Pasted image 20251114172213.png",
-    "Pasted image 20251201231435.png",
-    "Pasted image 20251201231512.png",
-    "Pasted image 20251201231600.png",
-    "Pasted image 20251111144439.png",
     "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "Excalidraw/Drawing 2023-08-24 22.49.45.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 21.34.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-19 09.27.55.excalidraw.md",
-    "5_🏷️ Tags/Wave Function.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "5_🏷️ Tags",
     "Quantum mechanics.canvas",
     "1_🗃️Literature notes/Griffith",
