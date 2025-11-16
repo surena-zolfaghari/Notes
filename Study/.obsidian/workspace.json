@@ -11,34 +11,12 @@
             "id": "05598fbf9a0f8716",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8e0fbfd08cb25380",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-28 22.51.13.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2023-08-26 13.23.02.excalidraw"
-            }
-          },
-          {
-            "id": "e8418736fccd335a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2023-08-26 11.43.44.excalidraw"
+              "title": "Drawing 2023-08-28 22.51.13.excalidraw"
             }
           }
         ]
@@ -98,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 383.5
   },
   "right": {
     "id": "5fbc14deba36aaf1",
@@ -187,16 +165,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4b86b3d40dd08ac",
+  "active": "05598fbf9a0f8716",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "Pasted image 20251114172434.png",
+    "Excalidraw/Drawing 2023-08-28 22.21.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-26 17.56.14.excalidraw.md",
     "Excalidraw/Drawing 2023-08-26 13.23.02.excalidraw.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-01 23-54 Su Compton scattering.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "Pasted image 20251115172752.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "Excalidraw/Drawing 2023-08-26 11.43.44.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
+    "Pasted image 20251114172434.png",
     "Pasted image 20251114172404.png",
     "Pasted image 20251114172345.png",
-    "Excalidraw/Drawing 2023-08-25 14.10.39.excalidraw.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
     "Pasted image 20251114172149.png",
@@ -205,7 +193,6 @@
     "Pasted image 20251201231512.png",
     "Pasted image 20251201231600.png",
     "Pasted image 20251111144439.png",
-    "Pasted image 20251113150726.png",
     "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
@@ -217,14 +204,6 @@
     "5_🏷️ Tags/Wave Function.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "5_🏷️ Tags",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "Excalidraw/Drawing 2025-03-17 21.19.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-25 11.53.11.excalidraw.md",
-    "2_🗂️Permanent notes/8.01 - Physics.md",
-    "2_🗂️Permanent notes/8.03x- Physics.md",
-    "2_🗂️Permanent notes/Classical mechanics.md",
     "Quantum mechanics.canvas",
     "1_🗃️Literature notes/Griffith",
     "0_📥Fleeting notes/Tensor calculus",
