@@ -4,79 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb5a443e2966af0",
+        "id": "5df807ea852b75b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7c342908a914c94b",
+            "id": "5b95860d0222011e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-02-07 10.24.32.excalidraw"
-            }
-          },
-          {
-            "id": "50d1dfd212774172",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-25 16.53.04.excalidraw"
-            }
-          },
-          {
-            "id": "7a67585120d6c4dd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-08-14 12.47.38.excalidraw"
-            }
-          },
-          {
-            "id": "3260f8d6e8c44790",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-25 12.36.44.excalidraw"
-            }
-          },
-          {
-            "id": "1f78c2cd7924d9d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-08-11 12.08.18.excalidraw"
-            }
-          },
-          {
-            "id": "9e3b0b35b2590586",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-02-07 10.24.32.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -225,8 +163,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7c342908a914c94b",
+  "active": "5b95860d0222011e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-22 03.27.55.excalidraw.md",
+    "Excalidraw/assets/Pasted image 20230822104341.png",
+    "Excalidraw/assets/Pasted image 20230822104101.png",
+    "Excalidraw/Drawing 2025-05-25 12.35.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-25 11.53.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-25 12.36.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-11 12.08.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-07 10.24.32.excalidraw.md",
     "1_🗃️Literature notes/8.04/8.04 2024-05-27 20-22 Su Expectation value of Hermitian operator.md",
     "1_🗃️Literature notes/8.04/8.04 2024-02-8 11-31 Su  Expectation values of operators.md",
     "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-40 Su  Three-dimensional Fourier transforms.md",
@@ -239,30 +187,19 @@
     "1_🗃️Literature notes/8.04/8.04 2024-01-05 12-40 Su wave packet and Fourier representation.md",
     "1_🗃️Literature notes/8.04/8.04 2024-01-04 16-30 Su Three dimensional current and conservation.md",
     "Pasted image 20251119191138.png",
-    "Excalidraw/Drawing 2025-05-25 12.35.52.excalidraw.md",
     "Pasted image 20251119191120.png",
-    "Excalidraw/Drawing 2025-05-25 11.53.11.excalidraw.md",
     "1_🗃️Literature notes/8.04/8.04 2024-01-04 12-30 Su Probability current and current conservation.md",
     "1_🗃️Literature notes/8.04/8.04 2024-01-04 10-30 Su Is probability conserved? Hermiticity of the Hamiltonian.md",
     "1_🗃️Literature notes/8.04/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-23 23-28 Su Commutators, matrices and 3-D S.E.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-23 01-20 Su The general schrodinger equation, commutator.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
     "Pasted image 20251119191023.png",
-    "Excalidraw/Drawing 2024-11-25 16.53.04.excalidraw.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
     "Pasted image 20251119190847.png",
-    "Excalidraw/Drawing 2024-08-14 12.47.38.excalidraw.md",
     "Pasted image 20251119190825.png",
     "Pasted image 20251119190800.png",
     "Pasted image 20251119190532.png",
     "Pasted image 20251117175345.png",
-    "Pasted image 20251117175259.png",
-    "Pasted image 20251201231435.png",
     "5_🏷️ Tags",
     "Quantum mechanics.canvas",
     "1_🗃️Literature notes/Griffith",
