@@ -4,17 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "8fd4a86f2e295e47",
+        "id": "49efb8cfe47e1d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "2d402a4d54f96758",
+            "id": "aaa60313c77f6273",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer"
+            }
+          }
+        ]
+      },
+      {
+        "id": "641e4c21b460f88d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5bee874afac20e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -162,26 +206,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d402a4d54f96758",
+  "active": "5e5bee874afac20e",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "2_🗂️Permanent notes/Permanent.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
+    "Untitled.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "Pasted image 20251111144439.png",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "2_🗂️Permanent notes/Permanent.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-01 23-54 Su Compton scattering.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
     "Pasted image 20251201231600.png",
     "Pasted image 20251201231512.png",
     "Pasted image 20251201231435.png",
@@ -191,15 +238,12 @@
     "Pasted image 20251119190847.png",
     "Pasted image 20251119190825.png",
     "Pasted image 20251205181600.png",
-    "Pasted image 20251119190800.png",
     "Excalidraw/Drawing 2024-12-22 03.27.55.excalidraw.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "Editorial/lit/CM-Suukind/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
     "Editorial/lit/CM-Suukind/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
     "Editorial/lit/CM-Suukind/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
     "Editorial/lit/8.03/8.03 2022-11-04 08-50 Su SHO.md",
-    "Editorial/lit/8.03/8.03 2022-07-25 15-57 Beats, Damped Free Oscillations, Quality Q.md",
-    "Editorial/lit/8.02/8.02 2023-02-15 00-54 Su Faraday's cage.md",
     "Editorial/lit/assets",
     "Editorial/lit/CM-Suukind",
     "Editorial/lit/8.03",
