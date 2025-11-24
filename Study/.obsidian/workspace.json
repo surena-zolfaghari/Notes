@@ -4,61 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49efb8cfe47e1d7f",
+        "id": "788420f7bbc8806f",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa60313c77f6273",
+            "id": "82ec9d9f7e187649",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer"
-            }
-          }
-        ]
-      },
-      {
-        "id": "641e4c21b460f88d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e5bee874afac20e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -206,54 +162,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e5bee874afac20e",
+  "active": "82ec9d9f7e187649",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "Untitled.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "Pasted image 20251111144439.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "Pic/Pasted image 20230826133151.png",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "2_🗂️Permanent notes/Classical mechanics.md",
+    "2_🗂️Permanent notes/8.01 - Physics.md",
+    "2_🗂️Permanent notes/8.03x- Physics.md",
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "2_🗂️Permanent notes/Permanent.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-01 23-54 Su Compton scattering.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-28 23-26  Su Units of h and Compton wavelength of particles.md",
-    "Pasted image 20251201231600.png",
-    "Pasted image 20251201231512.png",
-    "Pasted image 20251201231435.png",
-    "Pasted image 20251119191138.png",
-    "Pasted image 20251119191120.png",
-    "Pasted image 20251119191023.png",
-    "Pasted image 20251119190847.png",
-    "Pasted image 20251119190825.png",
-    "Pasted image 20251205181600.png",
-    "Excalidraw/Drawing 2024-12-22 03.27.55.excalidraw.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "Editorial/lit/CM-Suukind/Susskind CM 2022-07-25 14-51 Su Lagrangian, least action, Euler-Lagrange equations.md",
-    "Editorial/lit/CM-Suukind/Susskind CM 2022-05-18 08-44 Su Newton's law, phase space, momentum and energy.md",
-    "Editorial/lit/CM-Suukind/Susskind CM 2022-05-18 08-43 Su State diagrams and the nature of physical laws.md",
-    "Editorial/lit/8.03/8.03 2022-11-04 08-50 Su SHO.md",
-    "Editorial/lit/assets",
-    "Editorial/lit/CM-Suukind",
-    "Editorial/lit/8.03",
-    "Editorial/lit/8.02",
-    "Editorial/lit/8.01",
-    "Editorial/lit/2.01",
-    "Editorial/Fleet/Tensor calculus",
-    "Editorial/Fleet/SR",
-    "Editorial/Fleet/8.05",
-    "Editorial/Fleet/8.04",
+    "5_🏷️ Tags/Wave Function.md",
+    "5_🏷️ Tags/Superposition.md",
+    "Full Notes.md",
+    "Pic/-1_📑Label/📑Label.md",
+    "Pic/-1_📑Label",
+    "-1_📑Label/📑Label.md",
+    "Pic/4_Template/Note Template.md",
+    "Pic/4_Template",
+    "Pic/3_🖥computer/Fleeting notes/Mathematica/xCoba.md",
+    "Pic/3_🖥computer/Fleeting notes/Mathematica/Toolkit.md",
+    "Pic/3_🖥computer/Fleeting notes/Mathematica/MAthematica.md",
+    "Pic/3_🖥computer/Fleeting notes/Mathematica/Christoffel symbol.md",
+    "Pic/3_🖥computer/Fleeting notes/Andrew-Ng/Andrew Ng's Code.md",
+    "Pic/3_🖥computer/Git/Git in future.md",
+    "Pic/3_🖥computer/Git/7.01 2023-08-08 22-06 Su Git restore.md",
+    "Pic/3_🖥computer/Git/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
+    "Pic/3_🖥computer/Git/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
+    "Pic/3_🖥computer/Git/7.01 2023-07-31 11-01 Su Git two folder.md",
+    "Pic/3_🖥computer/Fleeting notes/Mathematica",
+    "Pic/3_🖥computer/Fleeting notes/Andrew-Ng",
+    "Pic/3_🖥computer/Linux configuration",
+    "Pic/3_🖥computer/Git",
+    "Pic/3_🖥computer/Fleeting notes",
+    "Pic/3_🖥computer",
+    "Pic/0_📥Fleeting notes",
+    "Pic/Mac-8.04",
+    "Pic/Excalidraw/assets/Pasted image 20250804015740.png",
+    "Pic/Excalidraw/assets/Pasted image 20250803001831.png",
+    "Pic/Excalidraw/assets/Pasted image 20250802233146.png",
+    "Pic/Excalidraw/assets/Pasted image 20250802135046.png",
+    "Pic/Excalidraw/assets/Pasted image 20250802131516.png",
+    "Pic/Excalidraw/assets/Pasted image 20250802121001.png",
+    "Pic/Excalidraw/assets/Pasted image 20250802115216.png",
+    "Pic/Excalidraw/assets/Pasted image 20240201145432.png",
+    "Pic/Excalidraw/assets/Pasted image 20240131145117.png",
+    "Pic/Quantum mechanics.canvas",
     "Quantum mechanics.canvas",
     "Untitled.canvas"
   ]

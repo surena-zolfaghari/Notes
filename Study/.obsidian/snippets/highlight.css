@@ -1,0 +1,9 @@
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+  /*color: #ed0726;*/
+  background-color: #55C5B2;
+}
+
+.markdown-preview-view mark { 
+  /*color: purple;*/
+  background-color: #55C5B2;
+}
