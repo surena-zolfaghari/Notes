@@ -26,6 +26,8 @@ $$\nu \lambda = c$$
 
 حالا یک پلارایزر در نظر بگیر که یک پرتو نور به ان میتابانیم این پرتو نور از میلیاردها فوتون یکسان تشکیل شده‌اند. خب بخشی عبور میکند و بخشی نه. فوتون  قابل تجزیه نیست که یک بخشی عبور کند و بخشی نه چون رنگ عوض میشود. از طرفی اگر بعضی از فوتون ها عبور میکنند بعضی نه.  طبق فیزیک کلاسیک باید برای همه یک اتفاق بیافتد. چطور این  اتفاق می‌افتد؟ پس ما خاصیت پیش بینی پذیری را از دست میدهیم.
 
+از طرفی میتوان بحث‌های انسامبل گیری را هم مطرح کرد که john Bell انرا رد کرد
+
 # Lecture 4b 
 خیلی قبل‌تر از این مسائل یک ازمایشی در سال ۱۸۹۱ انجام شده بود که فرض میکردن نور موج هست. یک جدا کننده گذاشتن که نور را دو قسمت کند فرض کن نصفی را بالا و نصفی را پایین میفرستد. اما از کوانتوم میدانیم نصفی را بالا و نصفی را پایین میفرستد و همچنین یک فوتون هم بالا و هم پایین برود.
 
@@ -41,4 +43,103 @@ $$\alpha|A\rangle + \beta|B\rangle \tag{1}$$
 # Lecture 5
 $$|A\rangle \equiv 2|A\rangle \equiv -|A\rangle \equiv i|A\rangle$$
 
-ایا میشه این فرض را تست کرد؟‌ در این سطح میشه همان پلارایزر را در نظر گرفت برای مولفه افقی یک عدد مختلط و برای مولفه عمودی یک عدد مختلط به عنوان ضریب میگیریم چون میخوایم حالت کوانتومی را بنویسیم. حالا چون قبلا دیدیم که کلا این سیستم با دو پارامتر تعریف میشه با کمک این فرض از تناقض میشه فرار کرد. 
+ایا میشه این فرض را تست کرد؟‌ در این سطح میشه همان پلارایزر را در نظر گرفت برای مولفه افقی یک عدد مختلط و برای مولفه عمودی یک عدد مختلط به عنوان ضریب میگیریم چون میخوایم حالت کوانتومی را بنویسیم. حالا چون قبلا دیدیم که کلا این سیستم با دو پارامتر تعریف میشه با کمک این فرض از تناقض میشه فرار کرد.
+
+# Lecture 13
+
+In 1924, the photon as a particle is clear, and the photon is also wave. de Brogle has a brilliant insight. He said if this is supposed the photon is wave and particle.
+
+- wave attributes because it interferes and describe by wave
+- Particle attributes because definite amount of energy it comes in packet, They cannot broken into other things.
+
+در ازمایش Mach-Zender ما با نور کار میکردیم. حالا وقتی انشتین گفت که فوتون ذره هست 
+خب ذره هست چون انرژی و تکانه‌اش قابل تقسیم نیست و از طرفی الگوی تداخل رو دیدیم پس خاصیت موجی دارد. حالا اومدن گفتن فوتون هم موج و هم ذره هست. دوبروی اومد گفت همه ذرات همین هستند. اما چیزی که نگفتند این هست که چه موجی هست. در ازمایش ماخ زندر هم ما فوتون دنبال نمیکریدم احتمال دنبال میکردیم
+
+خب پس اومدن به فوتون موج مرتبط کردند
+
+For photon:
+$$
+\text{particle} (E,p)\;\xleftrightarrow{\;\text{duality}\;}\; \text{wave}(\nu)
+$$
+This is particle wave duality. <mark style="background: #FF2C61;">de Broglie Said: It's universal for all particles. </mark>and the name is <mark style="background: #FF2C61;">"matter wave!</mark>" wave of what? The answer came latter. They are wave of <mark style="background: #FF2C61;">probability amplitude</mark>.
+
+
+So we say that for a particle of momentum $p$, we associate a plane wave.
+
+
+$$
+\begin{aligned}
+&\text{particle with} \\
+&\text{momentum: } p
+\end{aligned}
+\quad
+\xleftrightarrow{\hspace{1.5cm}}
+\quad
+\begin{aligned}
+&\text{plane wave of} \;\lambda=\dfrac {h}{p} \text{(de Broglie 
+wavelength)}
+\end{aligned}
+$$
+
+# Lecture 14
+
+Free particle with momentum $p$ associated to a plane wave with wavelength $\lambda=\dfrac {h}{p}.$ So this wave is what eventually becomes a famous wave function.
+
+Directional properites
+
+
+ $$\lambda \propto p$$
+اگر دو ناظر گالیله ای این موج را ببینند طول موج های متفاوتی میبینند. این یک خاصیت عجیبه. چون برای موج‌های معمولی فرکانس ثابته.
+
+# Lecture 15,16
+
+حالا بریم سراغ امواج معمولی که گفتم طول موج شون ثابته
+
+$$\text{phase}\equiv \phi =  kx-\omega t$$
+
+$\phi$ is Galilean invariant. What it means is that two people looking at this wave and they look at the point on this wave, both people will agree on the value of the phase.
+
+با کمی محاسبه میشه نشون داد که طول موج ثابته. از طرفی همین انتظار را داشتم طبق دانشی که از اثر دوپلر داشتم.
+
+خب حالا برگردیم به قبل این $\Psi$ مستقیما قابل اندازه گیری نیست. اولا چون نشان دادم چنین موج با چنین خاصیتی ناوردا نیست. و از طرفی خاصیت 
+
+$$|A\rangle \equiv 2|A\rangle \equiv -|A\rangle \equiv i|A\rangle$$
+هم میتوانستم به این نتیجه برسم. 
+
+# Lecture 17
+We spoke about $\lambda$. What is the frequency of a matter waves? de Broglie did the answer:
+$$p=\hbar k$$
+$$E=\hbar \omega$$
+$$\therefore \quad \omega=\dfrac {E}{\hbar}$$
+
+$$
+\class{centered-wave}
+Wave \rightsquigarrow \text{Phase:} \ kx - \omega t
+$$
+$$V_{\text {phase}}=\dfrac {\omega}{K}=\dfrac {E}{P}\overset{\text {non relatvisitic}}{=} \dfrac {\dfrac {1}{2}mV^2}{mV}=\dfrac {1}{2}V$$
+
+$$\therefore \text{That looks pretty bad!}$$
+
+## What's going on?
+###  Phase velocity is not meaningful
+This is the usual story with waves. If the wave itself doesn't a plane wave, carries no real information. It's not a signal. So many times when you try to represent the particle or a little bit of information traveling representing it with a <mark style="background: #2BE611A6;">plane wave</mark> is actually wrong. <mark style="background: #FF2C61;">You have to represent it with a wave packet</mark>
+
+
+# Lecture 18
+
+$$\omega = \omega(k)$$
+
+ سعی کن توضیح بدی چرا اینطوره یا بالعکس نیست. خب سرعت گروه سرعت بسته موج هست‮ 
+ بحث های مربوط به فی رو پر کن.
+
+
+
+# Lecture 19
+
+یکجورایی میشه سرعت رو به این شکل هم در اورد و یا بهتر بگم میشه تعریف کرد البته به نظر میرسد از یک تقریب استفاده کردم ولی جلوتر میگم گه اینطور نیست.
+
+
+# Lecture 20
+
+حالا بیا موج در نظر بگیریم و خاصیت های کوانتومی را روی ان پیاده کنیم و ببینیم میتونه موج باشه
+
