@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82ec9d9f7e187649",
+            "id": "121cfb56ea53e1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,36 @@
               },
               "icon": "lucide-file",
               "title": "Full Notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "711dab6d20976cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc60cbca4a7d1c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8.04 2023-08-13 23-00 Su QM as a framework and defining linearity"
             }
           }
         ]
@@ -88,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "5fbc14deba36aaf1",
@@ -176,22 +207,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82ec9d9f7e187649",
+  "active": "bc60cbca4a7d1c12",
   "lastOpenFiles": [
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
+    "Full Notes.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
     "Pic/Pasted image 20230826133151.png",
     "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "2_🗂️Permanent notes/Classical mechanics.md",
     "2_🗂️Permanent notes/8.01 - Physics.md",
     "2_🗂️Permanent notes/8.03x- Physics.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "5_🏷️ Tags/Wave Function.md",
     "5_🏷️ Tags/Superposition.md",
-    "Full Notes.md",
     "Pic/-1_📑Label/📑Label.md",
     "Pic/-1_📑Label",
     "-1_📑Label/📑Label.md",
@@ -206,7 +238,6 @@
     "Pic/3_🖥computer/Git/7.01 2023-08-08 22-06 Su Git restore.md",
     "Pic/3_🖥computer/Git/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
     "Pic/3_🖥computer/Git/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
-    "Pic/3_🖥computer/Git/7.01 2023-07-31 11-01 Su Git two folder.md",
     "Pic/3_🖥computer/Fleeting notes/Mathematica",
     "Pic/3_🖥computer/Fleeting notes/Andrew-Ng",
     "Pic/3_🖥computer/Linux configuration",
