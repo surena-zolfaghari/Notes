@@ -1,8 +1,8 @@
-# Lecture 1 
+# Lecture 1 Quantum as a framework
 
 In 1925 $\rightsquigarrow$ Schrodinger & Heisenberg $\rightsquigarrow$ wrote down QM equations.
 
-# Lecture 3 
+# Lecture 3 Necessity of complex number
 
 in quantum mechanics, the equation has an $i$. You need complex numbers. They're not auxiliary. Max Born had the idea
 
@@ -10,10 +10,10 @@ $$\Psi \in \mathbb{C} \rightsquigarrow |\Psi|^2 \equiv \text{probabilities}$$
 
 many people hated this. EPR was born.
 
-# Lecture 4a
+# Lecture 4 Loss of determinism
 
 Einstein <mark style="background: #55C5B2;">reluctantly</mark> came up with the idea that light was made of quanta. 
-## wave or Particle?
+## wave or Particle? Quantum mechanical particle
 Quantum mechanical particle: indivisible amount of energy and momentum propagates. Particle in the sense of Newton which is an object with zero size, that carries energy and has a precise position and velocity at any time.
 
 So light was made of photons ( packets of energy). And a photon is a particle. It's a quantum mechanical particle. Not in the sense that maybe it has position and velocity determined or it's at point particle, but more like a packet <mark style="background: #2BE611A6;">that's indivisible</mark>. You can not decompose it in further packets.
@@ -22,13 +22,16 @@ Einstein realized for a photon
 $$E = h\nu$$
 $$\nu \lambda = c$$
 
-قبل تر که نور را به صورت موج میدیدند چیز عجیبی نبود چون وقتی به یک پلارایزر با زاویه دلخواه نور میزدیم قسمتی را عبور میداد و قسمتی را نه. چیز عجیبی نبود. انرژی کم میشد شدت نور کم میشد ولیخب اما رنگ نور عوض نمیشد. اما وقتی انشتین فرض وجود فوتون را کرد به دردسر افتاد.
+قبل تر که نور را به صورت موج میدیدند چیز عجیبی نبود چون وقتی به یک پلارایزر با زاویه دلخواه نور میزدیم قسمتی را عبور میداد و قسمتی را نه. چیز عجیبی نبود. انرژی کم میشد شدت نور کم میشد ولی خب اما رنگ نور عوض نمیشد. اما وقتی انشتین فرض وجود فوتون را کرد به دردسر افتاد.
 
-حالا یک پلارایزر در نظر بگیر که یک پرتو نور به ان میتابانیم این پرتو نور از میلیاردها فوتون یکسان تشکیل شده‌اند. خب بخشی عبور میکند و بخشی نه. فوتون  قابل تجزیه نیست که یک بخشی عبور کند و بخشی نه چون رنگ عوض میشود. از طرفی اگر بعضی از فوتون ها عبور میکنند بعضی نه.  طبق فیزیک کلاسیک باید برای همه یک اتفاق بیافتد. چطور این  اتفاق می‌افتد؟ پس ما خاصیت پیش بینی پذیری را از دست میدهیم.
+حالا یک پلارایزر در نظر بگیر که یک پرتو نور به ان می تابانیم این پرتو نور از میلیاردها فوتون یکسان تشکیل شده‌اند. خب بخشی عبور میکند و بخشی نه. فوتون  قابل تجزیه نیست که یک بخشی عبور کند و بخشی نه چون رنگ ان نباید عوض شود. از طرفی اگر بعضی از فوتون ها عبور میکنند بعضی نه.  طبق فیزیک کلاسیک باید برای همه یک اتفاق بیافتد. چطور این  اتفاق می‌افتد؟ پس ما خاصیت پیش بینی پذیری را از دست میدهیم.
 
-از طرفی میتوان بحث‌های انسامبل گیری را هم مطرح کرد که john Bell انرا رد کرد
+از طرفی میتوان بحث‌های انسامبل گیری را هم مطرح کرد که john Bell انرا رد کرد. 
 
-# Lecture 4b 
+# Lecture 5a nature of superposition
+
+Actually it is unusual superposition.
+
 خیلی قبل‌تر از این مسائل یک ازمایشی در سال ۱۸۹۱ انجام شده بود که فرض میکردن نور موج هست. یک جدا کننده گذاشتن که نور را دو قسمت کند فرض کن نصفی را بالا و نصفی را پایین میفرستد. اما از کوانتوم میدانیم نصفی را بالا و نصفی را پایین میفرستد و همچنین یک فوتون هم بالا و هم پایین برود.
 
 اما حالا اگر فوتون را به عنوان ذره بگیریم نتیجه این ازمایش که وجود تداخل را تایید میکند را چطور میشود تحلیل کرد؟  خب فوتونها که با هم تداخل نمیکنند چون اگر تداخل اتفاق بیافتد از لحاظ پایستگی انرژی به مشکل میخوریم. اگر تکی هم بفرستم جلوی تداخل را بای کدیگر گرفته ایم.  خب چطوری الگوی تداخل ظاهر میشود؟ پس باید هر فوتون با خودش تداخل کند.
@@ -40,12 +43,12 @@ $$\nu \lambda = c$$
 ببین میشه هر برداری را تجزیه کرد. مثلا من الان یک بردار را تجزیه میکنم. در واقع وقتی من حالت کوانتومی را مینویسم و میخواهم همان پارامتر را اندازه بگیرم چه عددی به دست می‌آید؟
 $$\alpha|A\rangle + \beta|B\rangle \tag{1}$$
 شاید فکر کنی باز هم میانگین ولی نه اینطور نیست. یک کدام از مقادیر ولی با احتمالات مختلف.
-# Lecture 5
+# Lecture 5 More on superposition
 $$|A\rangle \equiv 2|A\rangle \equiv -|A\rangle \equiv i|A\rangle$$
 
-ایا میشه این فرض را تست کرد؟‌ در این سطح میشه همان پلارایزر را در نظر گرفت برای مولفه افقی یک عدد مختلط و برای مولفه عمودی یک عدد مختلط به عنوان ضریب میگیریم چون میخوایم حالت کوانتومی را بنویسیم. حالا چون قبلا دیدیم که کلا این سیستم با دو پارامتر تعریف میشه با کمک این فرض از تناقض میشه فرار کرد.
+ایا میشه این فرض را تست کرد؟‌ در این سطح میشه همان پلارایزر را در نظر گرفت. چون میخوایم حالت کوانتومی را بنویسیم برای مولفه افقی یک عدد مختلط و برای مولفه عمودی یک عدد مختلط به عنوان ضریب میگیریم. حالا چون قبلا دیدیم که کلا این سیستم با دو پارامتر تعریف میشه با کمک این فرض از تناقض میشه فرار کرد.
 
-# Lecture 13
+# Lecture 13 de Broglie's proposal
 
 In 1924, the photon as a particle is clear, and the photon is also wave. de Brogle has a brilliant insight. He said if this is supposed the photon is wave and particle.
 

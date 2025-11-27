@@ -1,7 +1,2 @@
-
-
-
-
-
-
+It's unusual superposition
 

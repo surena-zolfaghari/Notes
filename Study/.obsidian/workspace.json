@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "788420f7bbc8806f",
+        "id": "f5b0254b364746e1",
         "type": "tabs",
         "children": [
           {
-            "id": "121cfb56ea53e1e6",
+            "id": "9c3a370bde7e4d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Notes.md",
+                "file": "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,22 +28,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Full Notes"
+              "title": "8.04 Quantum mechanics"
             }
-          }
-        ]
-      },
-      {
-        "id": "711dab6d20976cf1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bc60cbca4a7d1c12",
+            "id": "ceccb204083cc60e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8.04 2023-08-18 23-05 Su Photons and the loss of determinism"
+            }
+          },
+          {
+            "id": "9fb5d6a5cfb95959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "superposition1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,10 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8.04 2023-08-13 23-00 Su QM as a framework and defining linearity"
+              "title": "superposition1"
+            }
+          },
+          {
+            "id": "f02474b410e78a40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Question.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question"
+            }
+          },
+          {
+            "id": "12085612c0739398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wave matter.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "wave matter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:linea",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5fbc14deba36aaf1",
@@ -207,23 +273,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc60cbca4a7d1c12",
+  "active": "ceccb204083cc60e",
   "lastOpenFiles": [
     "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "superposition1.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "wave matter.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+    "Question.md",
+    "5_🏷️ Tags/Wave Function.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
     "Full Notes.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "5_🏷️ Tags/Superposition.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "2_🗂️Permanent notes/Permanent.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "Pic/Pasted image 20230826133151.png",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "2_🗂️Permanent notes/Classical mechanics.md",
     "2_🗂️Permanent notes/8.01 - Physics.md",
     "2_🗂️Permanent notes/8.03x- Physics.md",
-    "5_🏷️ Tags/Wave Function.md",
-    "5_🏷️ Tags/Superposition.md",
     "Pic/-1_📑Label/📑Label.md",
     "Pic/-1_📑Label",
     "-1_📑Label/📑Label.md",
@@ -231,13 +304,6 @@
     "Pic/4_Template",
     "Pic/3_🖥computer/Fleeting notes/Mathematica/xCoba.md",
     "Pic/3_🖥computer/Fleeting notes/Mathematica/Toolkit.md",
-    "Pic/3_🖥computer/Fleeting notes/Mathematica/MAthematica.md",
-    "Pic/3_🖥computer/Fleeting notes/Mathematica/Christoffel symbol.md",
-    "Pic/3_🖥computer/Fleeting notes/Andrew-Ng/Andrew Ng's Code.md",
-    "Pic/3_🖥computer/Git/Git in future.md",
-    "Pic/3_🖥computer/Git/7.01 2023-08-08 22-06 Su Git restore.md",
-    "Pic/3_🖥computer/Git/7.01 2023-08-08 17-23 Su Amending older or multiple commit messages.md",
-    "Pic/3_🖥computer/Git/7.01 2023-07-31 11-27 Su Difference between Merge and Rebase.md",
     "Pic/3_🖥computer/Fleeting notes/Mathematica",
     "Pic/3_🖥computer/Fleeting notes/Andrew-Ng",
     "Pic/3_🖥computer/Linux configuration",
