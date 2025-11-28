@@ -1,3 +1,9 @@
-No physical interpretation for the wave function was obvious for the people that invented quantum mechanics. it took a few month for Max Born said:
-
+Einstein <mark style="background: #55C5B2;">reluctantly</mark> came up with the idea that light was made of quanta. 
+$$\Downarrow$$
+<p align="center"> Lost predictability (Dualiy wave-particle)</p> 
+$$\Downarrow$$
 $$\Psi \in \mathbb{C} \rightsquigarrow |\Psi|^2 \equiv \text{probabilities}$$
+de Broglie said All of matter has this 
+
+<center>Centered text &rarr;</center>
+
