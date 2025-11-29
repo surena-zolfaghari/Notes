@@ -8,16 +8,151 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5cf52893a384f87f",
+            "id": "9496084663685e97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Matter wave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Matter wave"
+            }
+          },
+          {
+            "id": "512601f380ccd856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave"
+            }
+          },
+          {
+            "id": "2a78d7f352a7513e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_🏷️ Tags/Tags Wave Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tags Wave Function"
+            }
+          },
+          {
+            "id": "d38b536006bca950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "superposition1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "superposition1"
+            }
+          },
+          {
+            "id": "29a5a4e250a1e3de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Full Notes"
+            }
+          },
+          {
+            "id": "4366706166c3b429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matter wave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Matter wave"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 370.5
   },
   "right": {
     "id": "5fbc14deba36aaf1",
@@ -162,34 +297,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cf52893a384f87f",
+  "active": "29a5a4e250a1e3de",
   "lastOpenFiles": [
-    "wave matter.md",
+    "Matter wave.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "superposition1.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
-    "Question.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
-    "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-39 Su Parseval identity.md",
     "5_🏷️ Tags/Tags Wave Function.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "superposition1.md",
+    "5_🏷️ Tags/Tag Superposition in quantum mechanics.md",
+    "Full Notes.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-23 23-28 Su Commutators, matrices and 3-D S.E.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
+    "Question.md",
+    "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-39 Su Parseval identity.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 09-35 Su de Broglie wavelength in different frames.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "5_🏷️ Tags/Tag Superposition in quantum mechanics.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "Full Notes.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "2_🗂️Permanent notes/Permanent.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism review  not finished.md",
     "Pic/Pasted image 20230826133151.png",
     "Pic/-1_📑Label",
     "Pic/4_Template",
