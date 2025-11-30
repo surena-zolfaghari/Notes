@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave"
+              "title": "8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation"
             }
           },
           {
@@ -299,10 +299,14 @@
   },
   "active": "29a5a4e250a1e3de",
   "lastOpenFiles": [
+    "5_🏷️ Tags/Tags Wave Function.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
+    "superposition1.md",
     "Matter wave.md",
+    "Full Notes.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "5_🏷️ Tags/Tags Wave Function.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
@@ -310,9 +314,7 @@
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
-    "superposition1.md",
     "5_🏷️ Tags/Tag Superposition in quantum mechanics.md",
-    "Full Notes.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-23 23-28 Su Commutators, matrices and 3-D S.E.md",
@@ -323,8 +325,6 @@
     "1_🗃️Literature notes/8.04/8.04 2024-02-07 22-39 Su Parseval identity.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-20 16-16 Su Wave for a free particle.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-10 17-13 Su Motion of a wave packet.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
     "Pic/Pasted image 20230826133151.png",
     "Pic/-1_📑Label",
     "Pic/4_Template",
