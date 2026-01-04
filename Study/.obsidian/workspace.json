@@ -4,20 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "4548c6d69354370a",
+        "id": "126fe32ca8567bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a621a10113aeff",
+            "id": "9dd66c0efc4ad5a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8.04 2023-08-18 23-05 Su Photons and the loss of determinism"
+            }
+          },
+          {
+            "id": "5ab5b3a20a2bb829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8.04 2023-08-25 14-05 Su Mach-Zender Interferometer"
+            }
+          },
+          {
+            "id": "94e5f435d76e834a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "superposition1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "superposition1"
+            }
+          },
+          {
+            "id": "8909aaf902ab62a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matter wave.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Matter wave"
+            }
+          },
+          {
+            "id": "198ed79161f60bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "شرط غیر پاشنده بودن.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "شرط غیر پاشنده بودن"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:linea",
+                "query": "tag:#determinism",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -162,34 +273,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3a621a10113aeff",
+  "active": "198ed79161f60bf4",
   "lastOpenFiles": [
-    "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
-    "5_🏷️ Tags/Tag Superposition.md",
-    "Full Notes.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
+    "Determinism.md",
     "superposition1.md",
+    "شرط غیر پاشنده بودن.md",
+    "1_🗃️Literature notes/8.04/8.04 2024-05-27 20-22 Su Expectation value of Hermitian operator.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-09-23 01-20 Su The general schrodinger equation, commutator.md",
+    "1_🗃️Literature notes/8.04/8.04 2024-01-04 09-30 Su Normalizable wave functions and the question of time evolution.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-26 17-34 Su Elitzur-Vaidman Bombs.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-25 14-05 Su Mach-Zender Interferometer.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
+    "Matter wave.md",
+    "Full Notes.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-18 23-05 Su Photons and the loss of determinism.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 22-36 Su Necessity of complex number.md",
     "1_🗃️Literature notes/8.04/8.04 2023-08-14 21-16 Su Linear and nonlinear theories.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-08-13 23-00 Su QM as a framework and defining linearity.md",
-    "Matter wave.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-23 10-17 Su More on superposition.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-24 23-46 Su Entanglement.md",
+    "2_🗂️Permanent notes/Classical mechanics.md",
+    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-27 23-26 Su The photoelectric effect.md",
+    "5_🏷️ Tags/Tag Superposition.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-26 12-11 Su Interferometer and Interference.md",
+    "1_🗃️Literature notes/8.04/8.04 2023-08-22 10-34 Su The nature of superposition Mach-Zender Interferometer.md",
     "Question.md",
     "5_🏷️ Tags/Tags Wave Function.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-09 17-07 Su Group velocity and stationary phase approximation.md",
     "1_🗃️Literature notes/8.04/8.04 2023-09-04 10-34 Su The frequency of a matter wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-03 17-36 Su Galilean transformation of ordinary wave.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-02 07-00 Su de Broglie's proposal.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-23 00-34 Su Free Schrodinger equation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-21 12-40 Su Momentum operator, energy operator and differential equation.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-23 23-28 Su Commutators, matrices and 3-D S.E.md",
-    "1_🗃️Literature notes/8.04/8.04 2023-09-24 07-09 Su Interpretation of the wave function.md",
-    "2_🗂️Permanent notes/8.04 Quantum mechanics.md",
     "Pic/Pasted image 20230826133151.png",
     "Pic/-1_📑Label",
     "Pic/4_Template",

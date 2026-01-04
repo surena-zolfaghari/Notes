@@ -1,7 +1,6 @@
 # Lecture 1 Quantum as a framework
 
 In 1925 $\rightsquigarrow$ Schrodinger & Heisenberg $\rightsquigarrow$ wrote down QM equations.
-
 # Lecture 3 Necessity of complex number
 
 in quantum mechanics, the equation has an $i$. You need complex numbers. They're not auxiliary. Max Born had the idea
