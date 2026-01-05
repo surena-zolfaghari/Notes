@@ -22,6 +22,26 @@ $$\nu \lambda = c$$
 از طرفی میتوان بحث‌های انسامبل گیری را هم مطرح کرد که john Bell انرا رد کرد. انشتین امد گفت شاید یک سری متغیر پنهان داریم اون‌ها باعث چنین چیزی میشوند. اولا از لحاظ فلسفی گفتن این حرف یک مشکل هست ولی John Bell با ارائه نابرابری  این را رد کرد
 
 Quantum mechanics cannot be made deterministic with hidden variables. We've lost determinism. We can only predict probabilities.
+
+
+# de Broglie wave length in different frame
+Free particle with momentum $p$ associated to a plane wave with wavelength $\lambda=\dfrac {h}{p}.$ So this wave is what eventually becomes a famous wave function.
+
+Directional properites
+$$\lambda \propto p$$
+اگر دو ناظر گالیله ای این موج را ببینند طول موج های متفاوتی میبینند. این یک خاصیت عجیبه. چون برای موج‌های معمولی طول موج ثابته.
+
+# Galilean transformation
+## Conclusion
+
+- ** $\Psi$ are not directly measurable.**
+Because if you had a quantity for which you could measure like a sound wave, they should agree between different observaber. $\Psi$  is not directly measurable<mark style="background: #55C5B2;"> not all of $\Psi$ can be measured some of $\Psi$ can be measured </mark>(9:28). And you are already heard the hints of that. Because we said any number that you multiply, you can not measure it, and in the phase that you multiply you can not measure it. So complex number can't be measured. you measure real number.
+
+* **They are not Galilean invariant.**
+
+If $S$ and $S'$ agreed, this wave function would have a simpler transformation law with a wave length this is conserve.
+
+de Broglie waves are not like normal matter waves that propagate in a medium or simple.
 ## References:
 
 ## Related:
